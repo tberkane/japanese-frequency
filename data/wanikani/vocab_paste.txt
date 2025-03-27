@@ -1,0 +1,20055 @@
+上
+うえ
+Above
+大人
+おとな
+Adult
+一人
+ひとり
+Alone
+人工
+じんこう
+Artificial
+下
+した
+Below
+大きい
+おおきい
+Big
+八
+はち
+Eight
+八つ
+やっつ
+Eight Things
+入り口
+いりぐち
+Entrance
+大した
+たいした
+Great
+山
+やま
+Mountain
+口
+くち
+Mouth
+ふじ山
+ふじさん
+Mt Fuji
+九
+きゅう
+Nine
+九つ
+ここのつ
+Nine Things
+一
+いち
+One
+一つ
+ひとつ
+One Thing
+人
+ひと
+Person
+下さい
+ください
+Please Give Me
+人口
+じんこう
+Population
+力
+ちから
+Power
+川
+かわ
+River
+七
+なな
+Seven
+七つ
+ななつ
+Seven Things
+大きさ
+おおきさ
+Size
+十
+じゅう
+Ten
+三
+さん
+Three
+三人
+さんにん
+Three People
+三つ
+みっつ
+Three Things
+入る
+はいる
+To Enter
+上げる
+あげる
+To Lift Something
+下げる
+さげる
+To Lower Something
+二
+に
+Two
+二人
+ふたり
+Two People
+二つ
+ふたつ
+Two Things
+力いっぱい
+ちからいっぱい
+With All One's Strength
+女
+おんな
+Woman
+Level 2
+四月
+しがつ
+April
+玉
+たま
+Ball
+本
+ほん
+Book
+子
+こ
+Child
+丸
+まる
+Circle
+丸い
+まるい
+Circular
+正しい
+ただしい
+Correct
+土
+つち
+Dirt
+犬
+いぬ
+Dog
+八日
+ようか
+Eighth Day
+出口
+でぐち
+Exit
+目
+め
+Eye
+目玉
+めだま
+Eyeball
+二月
+にがつ
+February
+五日
+いつか
+Fifth Day
+五十
+ごじゅう
+Fifty
+火
+ひ
+Fire
+五
+ご
+Five
+五つ
+いつつ
+Five Things
+四
+よん
+Four
+天才
+てんさい
+Genius
+女子
+じょし
+Girl
+女の子
+おんなのこ
+Girl
+上手
+じょうず
+Good At
+おはよう
+おはよう
+Good Morning
+手
+て
+Hand
+天
+てん
+Heaven
+ホテル
+ホテル
+Hotel
+入力
+にゅうりょく
+Input
+中
+なか
+Inside
+一月
+いちがつ
+January
+日本
+にほん
+Japan
+六月
+ろくがつ
+June
+王
+おう
+King
+夕べ
+ゆうべ
+Last Night
+左右
+さゆう
+Left And Right
+左
+ひだり
+Left Direction
+五月
+ごがつ
+May
+月
+つき
+Moon
+九日
+ここのか
+Ninth Day
+十月
+じゅうがつ
+October
+一日
+いちにち
+One Day
+一千
+いっせん
+One Thousand
+千円
+せんえん
+One Thousand Yen
+玉ねぎ
+たまねぎ
+Onion
+人々
+ひとびと
+People
+王子
+おうじ
+Prince
+王女
+おうじょ
+Princess
+子犬
+こいぬ
+Puppy
+女王
+じょおう
+Queen
+中々
+なかなか
+Rather
+田んぼ
+たんぼ
+Rice Paddy
+田
+た
+Rice Paddy
+右
+みぎ
+Right Direction
+二日
+ふつか
+Second Day
+七日
+なのか
+Seventh Day
+六
+ろく
+Six
+十六
+じゅうろく
+Sixteen
+六日
+むいか
+Sixth Day
+六つ
+むっつ
+Six Things
+小さい
+ちいさい
+Small
+日
+ひ
+Sun
+刀
+かたな
+Sword
+十日
+とおか
+Tenth Day
+三日
+みっか
+Third Day
+千
+せん
+Thousand
+上る
+のぼる
+To Climb
+正す
+ただす
+To Correct
+出る
+でる
+To Exit
+立つ
+たつ
+To Stand
+木
+き
+Tree
+水中
+すいちゅう
+Underwater
+下手
+へた
+Unskillful
+火山
+かざん
+Volcano
+水
+みず
+Water
+白
+しろ
+White
+白人
+はくじん
+White Person
+文
+ぶん
+Writing
+〜才
+さい
+Years Old
+〜円
+えん
+Yen
+Level 3
+少し
+すこし
+A Little
+アメリカ人
+あめりかじん
+American Person
+リンゴ
+リンゴ
+Apple
+矢
+や
+Arrow
+〜台
+だい
+Big Machine Counter
+太字
+ふとじ
+Bold Letter
+イギリス人
+いぎりすじん
+British Person
+字
+じ
+Character
+市
+し
+City
+コーヒー
+コーヒー
+Coffee
+牛
+うし
+Cow
+方
+ほう
+Direction
+戸口
+とぐち
+Doorway
+生ビール
+なまびーる
+Draft Beer
+山びこ
+やまびこ
+Echo
+太い
+ふとい
+Fat
+父
+ちち
+Father
+お父さん
+おとうさん
+Father
+少ない
+すくない
+Few
+五台
+ごだい
+Five Machines
+外人
+がいじん
+Foreigner
+フランス人
+ふらんすじん
+French Person
+生
+なま
+Fresh
+友人
+ゆうじん
+Friend
+毛
+け
+Fur
+少女
+しょうじょ
+Girl
+半分
+はんぶん
+Half
+半
+はん
+Half
+心
+こころ
+Heart
+こんにちは
+こんにちは
+Hello
+大切
+たいせつ
+Important
+内
+うち
+Inside
+戸
+と
+Japanese Style Door
+ビー玉
+びーだま
+Marble
+母
+はは
+Mother
+お母さん
+おかあさん
+Mother
+市立
+しりつ
+Municipal
+北
+きた
+North
+今
+いま
+Now
+〜人
+にん
+Number Of People
+大人しい
+おとなしい
+Obedient
+古い
+ふるい
+Old
+十万
+じゅうまん
+One Hundred Thousand
+一台
+いちだい
+One Machine
+人生
+じんせい
+One's Life
+テーブルの上
+てーぶるのうえ
+On The Table
+外
+そと
+Outside
+分
+ぶん
+Part
+シアトル市
+しあとるし
+Seattle
+中古
+ちゅうこ
+Secondhand
+日の出
+ひので
+Sunrise
+中止
+ちゅうし
+Suspension
+用
+よう
+Task
+十台
+じゅうだい
+Ten Machines
+一万
+いちまん
+Ten Thousand
+万
+まん
+Ten Thousand
+今月
+こんげつ
+This Month
+これ
+これ
+This One
+生まれる
+うまれる
+To Be Born
+切る
+きる
+To Cut
+今日
+きょう
+Today
+する
+する
+To Do
+太る
+ふとる
+To Get Fat
+引く
+ひく
+To Pull
+広げる
+ひろげる
+To Spread Something
+止める
+とめる
+To Stop Something
+用いる
+もちいる
+To Utilize
+二万
+にまん
+Twenty Thousand
+二台
+にだい
+Two Machines
+ベッドの下
+べっどのした
+Under The Bed
+いつ
+いつ
+When
+広い
+ひろい
+Wide
+冬
+ふゆ
+Winter
+女の人
+おんなのひと
+Woman
+Level 4
+他人
+たにん
+Another Person
+早々
+そうそう
+As Soon As
+大気
+たいき
+Atmosphere
+赤ちゃん
+あかちゃん
+Baby
+竹
+たけ
+Bamboo
+竹の子
+たけのこ
+Bamboo Shoot
+少年
+しょうねん
+Boy
+虫
+むし
+Bug
+年内
+ねんない
+By The End Of The Year
+子牛
+こうし
+Calf
+平気
+へいき
+Calm
+車
+くるま
+Car
+中央
+ちゅうおう
+Center
+耳
+みみ
+Ear
+早い
+はやい
+Early
+元気
+げんき
+Energy
+名人
+めいじん
+Expert
+気分
+きぶん
+Feeling
+花火
+はなび
+Fireworks
+先ず
+まず
+First Of All
+一年生
+いちねんせい
+First Year Student
+五百
+ごひゃく
+Five Hundred
+平ら
+たいら
+Flat
+花
+はな
+Flower
+足
+あし
+Foot
+四十
+よんじゅう
+Forty
+四百
+よんひゃく
+Four Hundred
+四日
+よっか
+Fourth Day
+四つ
+よっつ
+Four Things
+四千
+よんせん
+Four Thousand
+さようなら
+さようなら
+Goodbye
+こんばんは
+こんばんは
+Good Evening
+主人
+しゅじん
+Head Of Household
+穴
+あな
+Hole
+休日
+きゅうじつ
+Holiday
+百
+ひゃく
+Hundred
+氷
+こおり
+Ice
+丸ごと
+まるごと
+In Its Entirety
+不正
+ふせい
+Injustice
+車内
+しゃない
+Inside The Car
+宝石
+ほうせき
+Jewel
+先月
+せんげつ
+Last Month
+去年
+きょねん
+Last Year
+左手
+ひだりて
+Left Hand
+文字
+もじ
+Letter (Of The Alphabet)
+主に
+おもに
+Mainly
+男
+おとこ
+Man
+仕方
+しかた
+Method
+百万
+ひゃくまん
+Million
+先々月
+せんせんげつ
+Month Before Last
+月見
+つきみ
+Moon Viewing
+名
+な
+Name
+ノート
+ノート
+Notebook
+号
+ごう
+Number
+一気
+いっき
+One Breath
+一打
+いちだ
+One Hit
+一本気
+いっぽんぎ
+One Track Mind
+他
+ほか
+Other
+休止
+きゅうし
+Pause
+皿
+さら
+Plate
+人気
+にんき
+Popular
+切手
+きって
+Postage Stamp
+赤
+あか
+Red
+赤い
+あかい
+Red
+休み
+やすみ
+Rest
+右手
+みぎて
+Right Hand
+二世
+にせい
+Second Generation
+本気
+ほんき
+Serious
+かき氷
+かきごおり
+Shaved Ice
+貝
+かい
+Shell
+不足
+ふそく
+Shortage
+小皿
+こざら
+Small Plate
+気
+き
+Spirit
+石
+いし
+Stone
+一文字
+いちもんじ
+Straight Line
+名字
+みょうじ
+Surname
+先生
+せんせい
+Teacher
+テレビ
+テレビ
+Television
+お礼
+おれい
+Thanks
+先日
+せんじつ
+The Other Day
+三世
+さんせい
+Third Generation
+糸
+いと
+Thread
+先
+さき
+Tip
+足りる
+たりる
+To Be Enough
+写す
+うつす
+To Copy
+出かける
+でかける
+To Go Out
+打つ
+うつ
+To Hit Something
+生きる
+いきる
+To Live
+口にする
+くちにする
+To Mention
+休む
+やすむ
+To Rest
+申す
+もうす
+To Say Humbly
+見る
+みる
+To See
+見せる
+みせる
+To Show
+気に入る
+きにいる
+To Take A Liking
+町
+まち
+Town
+宝
+たから
+Treasure
+二十日
+はつか
+Twentieth Day
+二百
+にひゃく
+Two Hundred
+花見
+はなみ
+Viewing Cherry Blossoms
+村
+むら
+Village
+村人
+むらびと
+Villager
+見方
+みかた
+Way Of Seeing
+天気
+てんき
+Weather
+平日
+へいじつ
+Weekdays
+どれ
+どれ
+Which One
+白い
+しろい
+White
+年
+とし
+Year
+２０１１年
+にせんじゅういちねん
+Year 2011
+年中
+ねんじゅう
+Year Round
+うん
+うん
+Yep
+はい
+はい
+Yes
+Level 5
+休学
+きゅうがく
+Absence From School
+空気
+くうき
+Air
+考古学
+こうこがく
+Archeology
+当たり
+あたり
+A Success
+今すぐ
+いますぐ
+At Once
+牛肉
+ぎゅうにく
+Beef
+生まれ
+うまれ
+Birthplace
+青い
+あおい
+Blue
+体
+からだ
+Body
+男の子
+おとこのこ
+Boy
+〜斤
+きん
+Bread Loaf Counter
+兄弟
+きょうだい
+Brothers
+毛虫
+けむし
+Caterpillar
+近い
+ちかい
+Close
+色
+いろ
+Color
+会社
+かいしゃ
+Company
+作文
+さくぶん
+Composition
+コンビニ
+コンビニ
+Convenience Store
+角
+かど
+Corner
+代金
+だいきん
+Cost
+三日月
+みかづき
+Crescent Moon
+デパート
+デパート
+Department Store
+図
+ず
+Diagram
+外交
+がいこう
+Diplomacy
+下町
+したまち
+Downtown
+工学
+こうがく
+Engineering
+毎日
+まいにち
+Every Day
+毎月
+まいつき
+Every Month
+毎回
+まいかい
+Every Time
+毎年
+まいとし
+Every Year
+すみません
+すみません
+Excuse Me
+羽
+はね
+Feathers
+林
+はやし
+Forest
+〜形
+けい
+Form
+〜年来
+ねんらい
+For Some Years
+古来
+こらい
+From Ancient Times
+大体
+だいたい
+Generally
+仕草
+しぐさ
+Gesture
+金
+きん
+Gold
+上手い
+うまい
+Good At
+草
+くさ
+Grass
+工作
+こうさく
+Handicraft
+本社
+ほんしゃ
+Headquarters
+里
+さと
+Hometown
+何日
+なんにち
+How Many Days
+何人
+なんにん
+How Many People
+何回
+なんかい
+How Many Times
+自立
+じりつ
+Independence
+体内
+たいない
+Inside The Body
+皮肉
+ひにく
+Irony
+入社
+にゅうしゃ
+Joining A Company
+光
+ひかり
+Light
+文学
+ぶんがく
+Literature
+大声
+おおごえ
+Loud Voice
+大作
+たいさく
+Major Work
+男の人
+おとこのひと
+Man
+多い
+おおい
+Many
+多分
+たぶん
+Maybe
+肉
+にく
+Meat
+お金
+おかね
+Money
+月光
+げっこう
+Moonlight
+来月
+らいげつ
+Next Month
+来年
+らいねん
+Next Year
+いいえ
+いいえ
+No
+北西
+ほくせい
+Northwest
+兄
+あに
+Older Brother
+自分
+じぶん
+Oneself
+三十代
+さんじゅうだい
+One's Thirties
+一回
+いっかい
+One Time
+空車
+くうしゃ
+Open Taxi
+本来
+ほんらい
+Originally
+体力
+たいりょく
+Physical Strength
+豚
+ぶた
+Pig
+雨
+あめ
+Rain
+本当
+ほんとう
+Reality
+近年
+きんねん
+Recent Years
+米
+こめ
+Rice
+同じ
+おなじ
+Same
+同日
+どうじつ
+Same Day
+入学
+にゅうがく
+School Admission
+学年
+がくねん
+School Grade
+皮
+かわ
+Skin
+空
+そら
+Sky
+水色
+みずいろ
+Sky Blue
+近日
+きんじつ
+Soon
+音
+おと
+Sound
+四角
+しかく
+Square
+学生
+がくせい
+Student
+日光
+にっこう
+Sunlight
+金玉
+きんたま
+Testicles
+それ
+それ
+That One
+その他
+そのほか
+The Others
+今回
+こんかい
+This Time
+何千
+なんぜん
+Thousands
+〜回
+かい
+Times
+当たる
+あたる
+To Be Right
+見える
+みえる
+To Be Visible
+来る
+くる
+To Come
+下がる
+さがる
+To Get Lower
+生む
+うむ
+To Give Birth
+行く
+いく
+To Go
+上がる
+あがる
+To Go Up
+入れる
+いれる
+To Insert
+学ぶ
+まなぶ
+To Learn
+作る
+つくる
+To Make
+会う
+あう
+To Meet
+交ぜる
+まぜる
+To Mix Something
+回る
+まわる
+To Revolve
+走る
+はしる
+To Run
+言う
+いう
+To Say
+立てる
+たてる
+To Stand Something Up
+止まる
+とまる
+To Stop
+出す
+だす
+To Take Out
+考える
+かんがえる
+To Think About
+分かる
+わかる
+To Understand
+行き
+ゆき
+Train Direction
+走行
+そうこう
+Traveling
+三角
+さんかく
+Triangle
+大学
+だいがく
+University
+今まで
+いままで
+Until Now
+谷
+たに
+Valley
+色々
+いろいろ
+Various
+声
+こえ
+Voice
+西
+にし
+West
+何
+なに
+What
+何月
+なんがつ
+What Month
+何年
+なんねん
+What Year
+麦
+むぎ
+Wheat
+一生
+いっしょう
+Whole Life
+社内
+しゃない
+Within The Company
+毛糸
+けいと
+Wool Yarn
+あなた
+あなた
+You
+弟
+おとうと
+Younger Brother
+青年
+せいねん
+Youth
+Level 6
+後で
+あとで
+After
+全て
+すべて
+All
+全日本
+ぜんにほん
+All Japan
+午前
+ごぜん
+AM
+足首
+あしくび
+Ankle
+カバン
+カバン
+Bag
+後ろ
+うしろ
+Behind
+出血
+しゅっけつ
+Bleeding
+血
+ち
+Blood
+両方
+りょうほう
+Both
+両日
+りょうじつ
+Both Days
+両手
+りょうて
+Both Hands
+明るい
+あかるい
+Bright
+茶色
+ちゃいろ
+Brown
+仕方がない
+しかたがない
+Can't Be Helped
+安い
+やすい
+Cheap
+中国
+ちゅうごく
+China
+社長
+しゃちょう
+Company President
+国
+くに
+Country
+文化
+ぶんか
+Culture
+死体
+したい
+Dead Body
+死
+し
+Death
+方言
+ほうげん
+Dialect
+方向
+ほうこう
+Direction
+ドル
+ドル
+Dollar
+早く
+はやく
+Early
+東
+ひがし
+East
+東方
+とうほう
+Eastward
+活気
+かっき
+Energy
+十分
+じゅうぶん
+Enough
+元パートナー
+もとぱーとなー
+Ex Partner
+有名
+ゆうめい
+Famous
+名曲
+めいきょく
+Famous Music
+早口
+はやくち
+Fast Talker
+外国
+がいこく
+Foreign Country
+外国人
+がいこくじん
+Foreign Person
+四十二
+よんじゅうに
+Forty Two
+前
+まえ
+Front
+全力
+ぜんりょく
+Full Effort
+出社
+しゅっしゃ
+Going To The Office
+正直
+しょうじき
+Honest
+本州
+ほんしゅう
+Honshuu
+家
+いえ
+House
+私
+わたし
+I
+国王
+こくおう
+King
+天国
+てんごく
+Kingdom Of Heaven
+九州
+きゅうしゅう
+Kyuushuu
+土地
+とち
+Land
+生活
+せいかつ
+Life
+長い
+ながい
+Long
+宝くじ
+たからくじ
+Lottery
+小文字
+こもじ
+Lowercase Letters
+地図
+ちず
+Map
+草地
+くさち
+Meadow
+水星
+すいせい
+Mercury
+中東
+ちゅうとう
+Middle East
+死亡
+しぼう
+Mortality
+国宝
+こくほう
+National Treasure
+全国
+ぜんこく
+Nationwide
+首
+くび
+Neck
+夜
+よる
+Night
+直行
+ちょっこう
+Nonstop
+足りない
+たりない
+Not Enough
+ない
+ない
+Not There
+年上
+としうえ
+Older
+姉
+あね
+Older Sister
+お姉さん
+おねえさん
+Older Sister
+一歩
+いっぽ
+One Step
+元
+もと
+Origin
+海外
+かいがい
+Overseas
+平安
+へいあん
+Peace
+私生活
+しせいかつ
+Personal Life
+午後
+ごご
+PM
+点
+てん
+Point
+豚肉
+ぶたにく
+Pork
+私立
+しりつ
+Private
+車両
+しゃりょう
+Railroad Car
+安心
+あんしん
+Relief
+〜室
+しつ
+Room
+安全
+あんぜん
+Safety
+土星
+どせい
+Saturn
+科学
+かがく
+Science
+羊
+ひつじ
+Sheep
+四国
+しこく
+Shikoku
+店
+みせ
+Shop
+姉妹
+しまい
+Sisters
+石ころ
+いしころ
+Small Stone
+他の人
+ほかのひと
+Someone Else
+南
+みなみ
+South
+南東
+なんとう
+Southeast
+州
+しゅう
+State
+代用
+だいよう
+Substitution
+タクシー
+タクシー
+Taxi
+お茶
+おちゃ
+Tea
+あれ
+あれ
+That One Over There
+この
+この
+This
+今年
+ことし
+This Year
+三百
+さんびゃく
+Three Hundred
+足す
+たす
+To Add Something
+出来る
+できる
+To Be Able To Do
+切れる
+きれる
+To Be Cut
+写る
+うつる
+To Be Photographed
+行う
+おこなう
+To Carry Something Out
+死ぬ
+しぬ
+To Die
+食べる
+たべる
+To Eat
+直す
+なおす
+To Fix
+首になる
+くびになる
+To Get Fired
+生える
+はえる
+To Grow
+有る
+ある
+To Have
+東北
+とうほく
+Tohoku
+知る
+しる
+To Know
+東京
+とうきょう
+Tokyo
+今夜
+こんや
+Tonight
+亡くなる
+なくなる
+To Pass Away
+広がる
+ひろがる
+To Spread Out
+取る
+とる
+To Take
+思う
+おもう
+To Think
+向く
+むく
+To Turn Toward
+歩く
+あるく
+To Walk
+曲
+きょく
+Tune
+地中
+ちちゅう
+Underground
+地下
+ちか
+Underground
+不安
+ふあん
+Uneasiness
+米国
+べいこく
+United States Of America
+不明
+ふめい
+Unknown
+大文字
+おおもじ
+Uppercase Letters
+活用
+かつよう
+Utilizing
+金星
+きんせい
+Venus
+どの
+どの
+Which
+耳打ち
+みみうち
+Whisper In Ear
+冬休み
+ふゆやすみ
+Winter Holiday
+羊毛
+ようもう
+Wool
+手首
+てくび
+Wrist
+年下
+としした
+Younger
+妹
+いもうと
+Younger Sister
+Level 7
+以後
+いご
+After This
+この辺
+このへん
+Around Here
+先回り
+さきまわり
+Arriving Ahead
+風船
+ふうせん
+Balloon
+〜札
+さつ
+Bill
+鳥
+とり
+Bird
+黒い
+くろい
+Black
+黒人
+こくじん
+Black Person
+青空
+あおぞら
+Blue Sky
+船
+ふね
+Boat
+教室
+きょうしつ
+Classroom
+活用形
+かつようけい
+Conjugated Form
+日記
+にっき
+Diary
+〜丁目
+ちょうめ
+District Of A Town
+人形
+にんぎょう
+Doll
+小学生
+しょうがくせい
+Elementary School Student
+象
+ぞう
+Elephant
+月末
+げつまつ
+End Of The Month
+魚
+さかな
+Fish
+床
+ゆか
+Floor
+必死
+ひっし
+Frantic
+自由
+じゆう
+Freedom
+氏名
+しめい
+Full Name
+未来
+みらい
+Future
+地理
+ちり
+Geography
+金魚
+きんぎょ
+Goldfish
+組
+くみ
+Group
+手作り
+てづくり
+Handmade
+大空
+おおぞら
+Heavens
+高校
+こうこう
+High School
+作り方
+つくりかた
+How To Make
+船体
+せんたい
+Hull
+人里
+ひとざと
+Human Habitation
+大きく
+おおきく
+In A Big Way
+内ポケット
+うちぽけっと
+Inside Pocket
+近々
+ちかぢか
+In The Near Future
+木星
+もくせい
+Jupiter
+先週
+せんしゅう
+Last Week
+以下
+いか
+Less Than
+手紙
+てがみ
+Letter
+小声
+こごえ
+Low Voice
+火星
+かせい
+Mars
+心理
+しんり
+Mental State
+中学生
+ちゅうがくせい
+Middle School Student
+〜分
+ふん
+Minute
+〜氏
+し
+Mister
+以上
+いじょう
+More Than
+映画
+えいが
+Movie
+ナポレオン三世
+なぽれおんさんせい
+Napoleon The Third
+近く
+ちかく
+Near
+海王星
+かいおうせい
+Neptune
+正月
+しょうがつ
+New Year
+来週
+らいしゅう
+Next Week
+〜時
+じ
+O'clock
+お兄さん
+おにいさん
+Older Brother
+一斤
+いっきん
+One Loaf Of Bread
+一時
+いちじ
+One O'clock
+以外
+いがい
+Other Than
+紙
+かみ
+Paper
+時代
+じだい
+Period
+以前
+いぜん
+Previously
+心理学
+しんりがく
+Psychology
+本当に
+ほんとうに
+Really
+理由
+りゆう
+Reason
+〜号室
+ごうしつ
+Room Number
+失礼
+しつれい
+Rude
+海水魚
+かいすいぎょ
+Saltwater Fish
+同時
+どうじ
+Same Time
+学校
+がっこう
+School
+形
+かたち
+Shape
+欠点
+けってん
+Shortcoming
+雪
+ゆき
+Snow
+社会
+しゃかい
+Society
+強力
+きょうりょく
+Strong
+強い
+つよい
+Strong
+夏
+なつ
+Summer
+夏休み
+なつやすみ
+Summer Vacation
+必ず
+かならず
+Surely
+白鳥
+はくちょう
+Swan
+仕組み
+しくみ
+System
+高い
+たかい
+Tall
+その
+その
+That
+あの
+あの
+That Over There
+末
+すえ
+The End
+一体
+いったい
+The Heck
+国民
+こくみん
+The People
+今週
+こんしゅう
+This Week
+考え
+かんがえ
+Thought
+千円札
+せんえんさつ
+Thousand Yen Bill
+時
+とき
+Time
+付ける
+つける
+To Attach Something
+直る
+なおる
+To Be Fixed
+見当たる
+みあたる
+To Be Found
+切り取る
+きりとる
+To Cut Off
+分ける
+わける
+To Divide Something
+失う
+うしなう
+To Lose
+取り出す
+とりだす
+To Pick Out
+光る
+ひかる
+To Shine
+代わる
+かわる
+To Substitute For
+教える
+おしえる
+To Teach
+町民
+ちょうみん
+Townspeople
+交通
+こうつう
+Traffic
+三角形
+さんかくけい
+Triangle
+二斤
+にきん
+Two Loaves Of Bread
+二時半
+にじはん
+Two Thirty
+台風
+たいふう
+Typhoon
+大学生
+だいがくせい
+University Student
+不人気
+ふにんき
+Unpopular
+言い方
+いいかた
+Way Of Saying
+考え方
+かんがえかた
+Way Of Thinking
+弱い
+よわい
+Weak
+弱点
+じゃくてん
+Weak Point
+週末
+しゅうまつ
+Weekend
+何時
+なんじ
+What Time
+風
+かぜ
+Wind
+年末
+ねんまつ
+Year End
+黄色
+きいろ
+Yellow
+Level 8
+地上
+ちじょう
+Above Ground
+住所
+じゅうしょ
+Address
+助言
+じょげん
+Advice
+全米
+ぜんべい
+All America
+思い出
+おもいで
+A Memory
+〜間
+かん
+Amount Of Time
+他所
+よそ
+Another Place
+答え
+こたえ
+Answer
+辺り
+あたり
+Area
+作者
+さくしゃ
+Author
+電池
+でんち
+Battery
+身
+み
+Body
+心身
+しんしん
+Body And Mind
+両者
+りょうしゃ
+Both People
+〜君
+くん
+Boy Name Ender
+支店
+してん
+Branch Office
+支局
+しきょく
+Branch Office
+朝ごはん
+あさごはん
+Breakfast
+局
+きょく
+Bureau
+でも
+でも
+But
+雲
+くも
+Cloud
+楽
+らく
+Comfort
+全く
+まったく
+Completely
+対立
+たいりつ
+Confrontation
+会話
+かいわ
+Conversation
+決
+けつ
+Decision
+決心
+けっしん
+Determination
+医者
+いしゃ
+Doctor
+役目
+やくめ
+Duty
+東口
+ひがしぐち
+East Exit
+電気
+でんき
+Electricity
+電力
+でんりょく
+Electric Power
+電子
+でんし
+Electron
+絵文字
+えもじ
+Emoji
+工学者
+こうがくしゃ
+Engineer
+入場
+にゅうじょう
+Entrance
+毎朝
+まいあさ
+Every Morning
+工場
+こうじょう
+Factory
+名所
+めいしょ
+Famous Place
+楽しい
+たのしい
+Fun
+もしもし
+もしもし
+Hello
+ここ
+ここ
+Here
+北海道
+ほっかいどう
+Hokkaido
+馬
+うま
+Horse
+馬力
+ばりき
+Horsepower
+人間
+にんげん
+Human
+大役
+たいやく
+Important Task
+間
+あいだ
+Interval
+究明
+きゅうめい
+Investigation
+前回
+ぜんかい
+Last Time
+長さ
+ながさ
+Length
+生地
+きじ
+Material
+数学
+すうがく
+Mathematics
+医学
+いがく
+Medical Science
+医大
+いだい
+Medical University
+地中海
+ちちゅうかい
+Mediterranean Sea
+〜道
+どう
+Method Of
+君主国
+くんしゅこく
+Monarchy
+朝
+あさ
+Morning
+朝日
+あさひ
+Morning Sun
+音楽
+おんがく
+Music
+名前
+なまえ
+Name
+当たり前
+あたりまえ
+Natural
+次回
+じかい
+Next Time
+お知らせ
+おしらせ
+Notice
+番号
+ばんごう
+Number
+数
+かず
+Number
+一番
+いちばん
+Number One
+二番
+にばん
+Number Two
+数字
+すうじ
+Numeral
+反対
+はんたい
+Opposition
+向こう
+むこう
+Over There
+未決
+みけつ
+Pending
+私自身
+わたしじしん
+Personally
+絵
+え
+Picture
+投手
+とうしゅ
+Pitcher
+場所
+ばしょ
+Place
+所
+ところ
+Place
+点数
+てんすう
+Points
+交番
+こうばん
+Police Box
+池
+いけ
+Pond
+私立大学
+しりつだいがく
+Private College
+番組
+ばんぐみ
+Program
+役人
+やくにん
+Public Official
+研究
+けんきゅう
+Research
+住人
+じゅうにん
+Resident
+道
+みち
+Road
+役
+やく
+Role
+円い
+まるい
+Round
+学者
+がくしゃ
+Scholar
+数年
+すうねん
+Several Years
+歩道
+ほどう
+Sidewalk
+おやつ
+おやつ
+Snack
+間もなく
+まもなく
+Soon
+南米
+なんべい
+South America
+南口
+みなみぐち
+South Exit
+空間
+くうかん
+Space
+まだ
+まだ
+Still
+科目
+かもく
+Subject
+代わり
+かわり
+Substitute
+自決
+じけつ
+Suicide
+電話
+でんわ
+Telephone
+身体
+しんたい
+The Body
+人数
+にんずう
+The Number Of People
+この前
+このまえ
+The Other Day
+引き分け
+ひきわけ
+Tie
+時間
+じかん
+Time
+答える
+こたえる
+To Answer
+出来上がる
+できあがる
+To Be Finished
+交じる
+まじる
+To Be Mixed
+曲げる
+まげる
+To Bend
+役に立つ
+やくにたつ
+To Be Useful
+買う
+かう
+To Buy
+化ける
+ばける
+To Change Form
+数える
+かぞえる
+To Count
+決める
+きめる
+To Decide
+見分ける
+みわける
+To Distinguish
+対する
+たいする
+To Face
+近づく
+ちかづく
+To Get Close
+当てる
+あてる
+To Guess
+助ける
+たすける
+To Help
+住む
+すむ
+To Live
+明日
+あした
+Tomorrow
+通る
+とおる
+To Pass
+見直す
+みなおす
+To Reevaluate
+思い出す
+おもいだす
+To Remember
+走り回る
+はしりまわる
+To Run Around
+話す
+はなす
+To Speak
+支える
+ささえる
+To Support
+投げる
+なげる
+To Throw
+回す
+まわす
+To Turn Something
+点ける
+つける
+To Turn Something On
+向ける
+むける
+To Turn Something Towards
+電車
+でんしゃ
+Train
+水道
+すいどう
+Water Supply
+どこ
+どこ
+Where
+全身
+ぜんしん
+Whole Body
+森
+もり
+Woods
+君
+きみ
+You
+お前
+おまえ
+You
+Level 9
+全部
+ぜんぶ
+All
+天使
+てんし
+Angel
+角度
+かくど
+Angle
+発表
+はっぴょう
+Announcement
+記事
+きじ
+Article
+仮定
+かてい
+Assumption
+通り
+とおり
+Avenue
+美しい
+うつくしい
+Beautiful
+美人
+びじん
+Beautiful Woman
+気を付けて
+きをつけて
+Be Careful
+白黒
+しろくろ
+Black And White
+体重
+たいじゅう
+Body Weight
+本屋
+ほんや
+Bookstore
+肉屋
+にくや
+Butcher Shop
+交代
+こうたい
+Change
+服
+ふく
+Clothes
+工事
+こうじ
+Construction
+相談
+そうだん
+Consultation
+対比
+たいひ
+Contrast
+〜ヶ月
+かげつ
+Counter For Months
+決定
+けってい
+Decision
+〜度
+ど
+Degrees
+出発
+しゅっぱつ
+Departure
+不自由
+ふじゆう
+Discomfort
+発見
+はっけん
+Discovery
+二重
+にじゅう
+Double
+毎度
+まいど
+Each Time
+楽勝
+らくしょう
+Easy Victory
+小学校
+しょうがっこう
+Elementary School
+重要
+じゅうよう
+Essential
+丁度
+ちょうど
+Exactly
+試験
+しけん
+Examination
+体験
+たいけん
+Experience
+実験
+じっけん
+Experiment
+事実
+じじつ
+Fact
+火事
+かじ
+Fire
+魚屋
+さかなや
+Fish Shop
+試食
+ししょく
+Food Sample
+映像
+えいぞう
+Footage
+家具
+かぐ
+Furniture
+ガラス
+ガラス
+Glass
+お客さん
+おきゃくさん
+Guest
+客室
+きゃくしつ
+Guest Room
+ハート形
+はーとがた
+Heart Shaped
+高さ
+たかさ
+Height
+高校生
+こうこうせい
+High School Student
+家事
+かじ
+Housework
+何度
+なんど
+How Many Times
+画像
+がぞう
+Image
+大事
+だいじ
+Important
+和風
+わふう
+Japanese Style
+和服
+わふく
+Japanese Style Clothes
+和食
+わしょく
+Japanese Style Food
+和室
+わしつ
+Japanese Style Room
+仮名
+かな
+Kana
+空手
+からて
+Karate
+保持
+ほじ
+Keep
+キロ
+キロ
+Kilo
+生保
+せいほ
+Life Insurance
+明かり
+あかり
+Light
+生物
+せいぶつ
+Living Thing
+名物
+めいぶつ
+Local Specialty
+要点
+ようてん
+Main Point
+勝負
+しょうぶ
+Match
+食事
+しょくじ
+Meal
+中学校
+ちゅうがっこう
+Middle School
+ほとんど
+ほとんど
+Most
+辛子
+からし
+Mustard
+名古屋
+なごや
+Nagoya
+必要
+ひつよう
+Necessary
+付近
+ふきん
+Neighborhood
+新しい
+あたらしい
+New
+新年
+しんねん
+New Year
+海
+うみ
+Ocean
+海魚
+うみざかな
+Ocean Fish
+一ヶ月
+いっかげつ
+One Month
+出身
+しゅっしん
+One's Origin
+元々
+もともと
+Originally
+あそこ
+あそこ
+Over There
+苦しい
+くるしい
+Painful
+平和
+へいわ
+Peace
+予定
+よてい
+Plan
+部分
+ぶぶん
+Portion
+〜県
+けん
+Prefecture
+発音
+はつおん
+Pronunciation
+心強い
+こころづよい
+Reassuring
+返事
+へんじ
+Reply
+住民
+じゅうみん
+Residents
+部屋
+へや
+Room
+発売
+はつばい
+Sale
+辛い
+からい
+Spicy
+辛口
+からくち
+Spicy Taste
+立場
+たちば
+Standpoint
+星
+ほし
+Star
+〜屋
+や
+Store
+仮に
+かりに
+Supposing
+必勝
+ひっしょう
+Sure Victory
+泳ぎ
+およぎ
+Swimming
+目次
+もくじ
+Table Of Contents
+札
+ふだ
+Tag
+受験
+じゅけん
+Taking An Exam
+対談
+たいだん
+Talk
+用事
+ようじ
+Task
+教え
+おしえ
+Teaching
+茶屋
+ちゃや
+Tea Shop
+十分間
+じゅっぷんかん
+Ten Minutes
+表
+おもて
+The Front
+そこ
+そこ
+There
+世界
+せかい
+The World
+物
+もの
+Thing
+事
+こと
+Thing
+今度
+こんど
+This Time
+付く
+つく
+To Be Attached
+曲がる
+まがる
+To Be Bent
+下る
+くだる
+To Descend
+表す
+あらわす
+To Express Something
+見付ける
+みつける
+To Find
+欠ける
+かける
+To Get Chipped
+持つ
+もつ
+To Hold Something
+交わる
+まじわる
+To Intersect
+通す
+とおす
+To Let Something Pass
+負ける
+まける
+To Lose
+要る
+いる
+To Need
+道具
+どうぐ
+Tool
+保つ
+たもつ
+To Preserve Something
+受け取る
+うけとる
+To Receive Something
+受ける
+うける
+To Receive Something
+返す
+かえす
+To Return Something
+乗る
+のる
+To Ride
+売る
+うる
+To Sell Something
+送る
+おくる
+To Send Something
+泳ぐ
+およぐ
+To Swim
+試みる
+こころみる
+To Try To Do Something
+使う
+つかう
+To Use
+勝つ
+かつ
+To Win
+実力
+じつりょく
+True Strength
+実
+じつ
+Truth
+使用
+しよう
+Use
+弱虫
+よわむし
+Weakling
+弱々しい
+よわよわしい
+Weak Looking
+勝者
+しょうしゃ
+Winner
+Level 10
+学院
+がくいん
+Academy
+足し算
+たしざん
+Addition
+進行
+しんこう
+Advance
+農業
+のうぎょう
+Agriculture
+ちょっと
+ちょっと
+A Little
+路地
+ろじ
+Alley
+高度
+こうど
+Altitude
+回答
+かいとう
+Answer
+算数
+さんすう
+Arithmetic
+助手
+じょしゅ
+Assistant
+早速
+さっそく
+At Once
+心配
+しんぱい
+A Worry
+自転車
+じてんしゃ
+Bicycle
+苦い
+にがい
+Bitter Tasting
+パン
+パン
+Bread
+ビル
+ビル
+Building
+千葉
+ちば
+Chiba
+親友
+しんゆう
+Close Friend
+集金
+しゅうきん
+Collecting Money
+集中
+しゅうちゅう
+Concentration
+調子
+ちょうし
+Condition
+曲線
+きょくせん
+Curve
+要求
+ようきゅう
+Demand
+開発
+かいはつ
+Development
+〜病
+びょう
+Disease
+電鉄
+でんてつ
+Electric Railway
+強調
+きょうちょう
+Emphasis
+終了
+しゅうりょう
+End
+進化
+しんか
+Evolution
+顔付き
+かおつき
+Expression
+目医者
+めいしゃ
+Eye Doctor
+顔
+かお
+Face
+農場
+のうじょう
+Farm
+速い
+はやい
+Fast
+一番目
+いちばんめ
+First Thing
+フランス語
+ふらんすご
+French Language
+青葉
+あおば
+Fresh Leaves
+大学院
+だいがくいん
+Graduate School
+頭
+あたま
+Head
+重い
+おもい
+Heavy
+病院
+びょういん
+Hospital
+入院
+にゅういん
+Hospitalization
+しかし
+しかし
+However
+工業
+こうぎょう
+Industry
+親しい
+したしい
+Intimate
+日本語
+にほんご
+Japanese Language
+日本酒
+にほんしゅ
+Japanese Style Alcohol
+漢字
+かんじ
+Kanji
+親切
+しんせつ
+Kind
+台所
+だいどころ
+Kitchen
+研究室
+けんきゅうしつ
+Laboratory
+言語
+げんご
+Language
+最後
+さいご
+Last
+最終
+さいしゅう
+Last
+終点
+しゅうてん
+Last Stop
+葉
+は
+Leaf
+軽い
+かるい
+Lightweight
+線
+せん
+Line
+楽しみ
+たのしみ
+Looking Forward To
+運がいい
+うんがいい
+Lucky
+〜向け
+むけ
+Made For
+山道
+やまみち
+Mountain Road
+近所
+きんじょ
+Neighborhood
+新聞
+しんぶん
+Newspaper
+次
+つぎ
+Next
+番号札
+ばんごうふだ
+Numbered Tag
+次々
+つぎつぎ
+One After Another
+一ヶ所
+いっかしょ
+One Place
+開業
+かいぎょう
+Opening A Business
+公開
+こうかい
+Open To The Public
+頁
+ページ
+Page
+親
+おや
+Parent
+道路
+どうろ
+Paved Road
+農民
+のうみん
+Peasants
+当て字
+あてじ
+Phonetic Kanji
+私大
+しだい
+Private College
+私鉄
+してつ
+Private Railway
+部首
+ぶしゅ
+Radical
+線路
+せんろ
+Railroad Track
+読み方
+よみかた
+Reading
+最近
+さいきん
+Recent
+研究所
+けんきゅうしょ
+Research Institute
+回転
+かいてん
+Revolve
+お酒
+おさけ
+Sake
+サービス
+サービス
+Service
+近道
+ちかみち
+Shortcut
+病気
+びょうき
+Sick
+病人
+びょうにん
+Sick Person
+横
+よこ
+Side
+歌手
+かしゅ
+Singer
+歌
+うた
+Song
+スペイン語
+すぺいんご
+Spanish Language
+速度
+そくど
+Speed
+立ち飲み
+たちのみ
+Standing And Drinking
+開始
+かいし
+Start
+話
+はなし
+Story
+鉄人
+てつじん
+Strong Man
+主語
+しゅご
+Subject
+引き算
+ひきざん
+Subtraction
+地下鉄
+ちかてつ
+Subway
+最高
+さいこう
+The Best
+最も
+もっとも
+The Most
+今朝
+けさ
+This Morning
+進む
+すすむ
+To Advance
+タバコ
+タバコ
+Tobacco
+決まる
+きまる
+To Be Decided
+始める
+はじめる
+To Begin Something
+助かる
+たすかる
+To Be Helped
+点く
+つく
+To Be Lit
+映る
+うつる
+To Be Reflected
+化かす
+ばかす
+To Bewitch
+運ぶ
+はこぶ
+To Carry
+集める
+あつめる
+To Collect Something
+配る
+くばる
+To Distribute
+飲む
+のむ
+To Drink
+運転する
+うんてんする
+To Drive
+終わる
+おわる
+To End
+楽しむ
+たのしむ
+To Enjoy Something
+落ちる
+おちる
+To Fall Down
+病む
+やむ
+To Get Sick
+乗せる
+のせる
+To Give Someone A Ride
+聞く
+きく
+To Hear
+調べる
+しらべる
+To Investigate
+習う
+ならう
+To Learn
+教わる
+おそわる
+To Learn Something From Someone
+去る
+さる
+To Leave
+鳴く
+なく
+To Make An Animal Sound
+出会う
+であう
+To Meet By Chance
+口調
+くちょう
+Tone
+開ける
+あける
+To Open Something
+読む
+よむ
+To Read
+代える
+かえる
+To Replace Something
+転がる
+ころがる
+To Roll
+売れる
+うれる
+To Sell
+語る
+かたる
+To Talk
+投げ付ける
+なげつける
+To Throw Against
+起きる
+おきる
+To Wake Up
+求める
+もとめる
+To Want Something
+役場
+やくば
+Town Hall
+転送
+てんそう
+Transfer
+思わず
+おもわず
+Unintentionally
+とても
+とても
+Very
+作業
+さぎょう
+Work
+入所
+にゅうしょ
+Admission
+上級
+じょうきゅう
+Advanced Level
+味方
+みかた
+Ally
+売り上げ
+うりあげ
+Amount Sold
+不良
+ふりょう
+Bad
+初歩
+しょほ
+Basics
+戦い
+たたかい
+Battle
+戦場
+せんじょう
+Battlefield
+予め
+あらかじめ
+Beforehand
+初級
+しょきゅう
+Beginner Level
+伝記
+でんき
+Biography
+生物学
+せいぶつがく
+Biology
+乗り場
+のりば
+Bus Stop
+注意
+ちゅうい
+Caution
+洋服
+ようふく
+Clothes
+共通点
+きょうつうてん
+Common Point
+仲間
+なかま
+Companion
+競争
+きょうそう
+Competition
+便利
+べんり
+Convenient
+共同
+きょうどう
+Cooperation
+〜部
+ぶ
+Department
+別
+べつ
+Different
+別人
+べつじん
+Different Person
+教育
+きょういく
+Education
+入学試験
+にゅうがくしけん
+Entrance Exam
+特に
+とくに
+Especially
+運命
+うんめい
+Fate
+気持ち
+きもち
+Feeling
+心持ち
+こころもち
+Feeling
+指
+ゆび
+Finger
+一位
+いちい
+First Place
+首位
+しゅい
+First Place
+昔話
+むかしばなし
+Folk Tale
+食べ物
+たべもの
+Food
+友好
+ゆうこう
+Friendship
+仕返し
+しかえし
+Getting Even
+神
+かみ
+God
+良い
+よい
+Good
+気持ちいい
+きもちいい
+Good Feeling
+努力
+どりょく
+Great Effort
+苦労
+くろう
+Hardship
+苦手
+にがて
+Hard To Deal With
+高級
+こうきゅう
+High Class
+平仮名
+ひらがな
+Hiragana
+使い方
+つかいかた
+How To Use
+〜付き
+つき
+Including
+不便
+ふべん
+Inconvenient
+中級
+ちゅうきゅう
+Intermediate Level
+始めに
+はじめに
+In The Beginning
+仕事
+しごと
+Job
+丁度いい
+ちょうどいい
+Just Right
+労働者
+ろうどうしゃ
+Laborer
+命
+いのち
+Life
+好き
+すき
+Like
+文字通り
+もじどおり
+Literal
+昔
+むかし
+Long Ago
+負け犬
+まけいぬ
+Loser
+低い
+ひくい
+Low
+労働
+ろうどう
+Manual Labor
+意味
+いみ
+Meaning
+新た
+あらた
+New
+別に
+べつに
+Not Particularly
+発売中
+はつばいちゅう
+Now For Sale
+老人
+ろうじん
+Old Person
+意見
+いけん
+Opinion
+注文
+ちゅうもん
+Order
+命令
+めいれい
+Order
+太平洋
+たいへいよう
+Pacific Ocean
+用意
+ようい
+Preparation
+公共
+こうきょう
+Public
+〜位
+い
+Rank
+本物
+ほんもの
+Real Thing
+電波
+でんぱ
+Reception
+受付
+うけつけ
+Receptionist
+仲直り
+なかなおり
+Reconciliation
+仲
+なか
+Relationship
+便所
+べんじょ
+Restroom
+金持ち
+かねもち
+Rich Person
+屋上
+おくじょう
+Rooftop
+海岸
+かいがん
+Seashore
+秒
+びょう
+Second
+安売り
+やすうり
+Sell Cheaply
+売り手
+うりて
+Seller
+別の
+べつの
+Separate
+別々
+べつべつ
+Separately
+共有
+きょうゆう
+Shared
+神道
+しんとう
+Shinto
+神社
+じんじゃ
+Shinto Shrine
+買い物
+かいもの
+Shopping
+辺
+へん
+Side
+見物
+けんぶつ
+Sightseeing
+売り切れ
+うりきれ
+Sold Out
+時々
+ときどき
+Sometimes
+特別
+とくべつ
+Special
+見事
+みごと
+Splendid
+成功
+せいこう
+Success
+作戦
+さくせん
+Tactics
+物語
+ものがたり
+Tale
+戦車
+せんしゃ
+Tank
+味
+あじ
+Taste
+最初
+さいしょ
+The First
+初回
+しょかい
+The First Time
+最低
+さいてい
+The Lowest
+西洋
+せいよう
+The West
+進める
+すすめる
+To Advance Something
+指定する
+していする
+To Appoint
+成る
+なる
+To Become
+育つ
+そだつ
+To Be Raised
+返る
+かえる
+To Be Returned
+放送する
+ほうそうする
+To Broadcast Something
+通う
+かよう
+To Commute
+比べる
+くらべる
+To Compare
+争う
+あらそう
+To Compete
+競う
+きそう
+To Compete
+集中する
+しゅうちゅうする
+To Concentrate
+決定する
+けっていする
+To Decide
+欠かす
+かかす
+To Do Without
+追う
+おう
+To Follow
+保持する
+ほじする
+To Keep
+欠く
+かく
+To Lack Something
+開放する
+かいほうする
+To Open Something Up
+拾う
+ひろう
+To Pick Something Up
+指す
+さす
+To Point
+注ぐ
+そそぐ
+To Pour
+気付く
+きづく
+To Realize
+放す
+はなす
+To Release
+転がす
+ころがす
+To Roll Something
+見送る
+みおくる
+To See Off
+苦しむ
+くるしむ
+To Suffer
+伝える
+つたえる
+To Transmit
+試す
+ためす
+To Try Something Out
+働く
+はたらく
+To Work
+利く
+きく
+To Work Well
+意外
+いがい
+Unexpected
+乗り物
+のりもの
+Vehicle
+勝ち
+かち
+Victory
+戦争
+せんそう
+War
+波
+なみ
+Wave
+洋食
+ようしょく
+Western Food
+洋風
+ようふう
+Western Style
+洋室
+ようしつ
+Western Style Room
+誰
+だれ
+Who
+Level 12
+行動
+こうどう
+Action
+活動
+かつどう
+Activity
+空港
+くうこう
+Airport
+全員
+ぜんいん
+All Members
+もう
+もう
+Already
+動物
+どうぶつ
+Animal
+鳴き声
+なきごえ
+Animal Cry
+勝手
+かって
+As One Pleases
+悪い
+わるい
+Bad
+悪人
+あくにん
+Bad Person
+野球
+やきゅう
+Baseball
+飲み物
+のみもの
+Beverage
+酒飲み
+さけのみ
+Boozer
+親分
+おやぶん
+Boss
+息
+いき
+Breath
+商売
+しょうばい
+Business
+心配事
+しんぱいごと
+Cares
+虫歯
+むしば
+Cavity
+第二章
+だいにしょう
+Chapter Two
+陽気
+ようき
+Cheerful
+童話
+どうわ
+Children's Story
+音読み
+おんよみ
+Chinese Reading
+都市
+とし
+City
+部室
+ぶしつ
+Clubroom
+寒い
+さむい
+Cold
+会社員
+かいしゃいん
+Company Employee
+落ち
+おち
+Conclusion
+大根
+だいこん
+Daikon
+深い
+ふかい
+Deep
+最深
+さいしん
+Deepest
+歯医者
+はいしゃ
+Dentist
+消化
+しょうか
+Digestion
+二倍
+にばい
+Double
+運転手
+うんてんしゅ
+Driver
+社員
+しゃいん
+Employee
+民族
+みんぞく
+Ethnic Group
+運動
+うんどう
+Exercise
+期待
+きたい
+Expectation
+落ち葉
+おちば
+Fallen Leaves
+家庭
+かてい
+Family
+家族
+かぞく
+Family
+父親
+ちちおや
+Father
+疲労
+ひろう
+Fatigue
+祭
+まつり
+Festival
+祭日
+さいじつ
+Festival Day
+一階
+いっかい
+First Floor
+第一位
+だいいちい
+First Place
+一流
+いちりゅう
+First Rate
+〜階
+かい
+Floor
+四十二階
+よんじゅうにかい
+Forty Second Floor
+庭
+にわ
+Garden
+集まり
+あつまり
+Gathering
+大学院生
+だいがくいんせい
+Graduate Student
+港
+みなと
+Harbor
+彼
+かれ
+He
+聞こえる
+きこえる
+Hearable
+広島
+ひろしま
+Hiroshima
+温泉
+おんせん
+Hot Springs
+湯
+ゆ
+Hot Water
+暑い
+あつい
+Hot Weather
+僕
+ぼく
+I
+利息
+りそく
+Interest
+島
+しま
+Island
+顔文字
+かおもじ
+Kaomoji
+京都
+きょうと
+Kyoto
+終電
+しゅうでん
+Last Train
+一代
+いちだい
+Lifetime
+運
+うん
+Luck
+本流
+ほんりゅう
+Mainstream
+会員
+かいいん
+Member
+商人
+しょうにん
+Merchant
+深夜
+しんや
+Middle Of The Night
+母親
+ははおや
+Mother
+登山
+とざん
+Mountain Climbing
+都合
+つごう
+One's Convenience
+根気
+こんき
+Patience
+期間
+きかん
+Period
+植物
+しょくぶつ
+Plant
+屋根
+やね
+Roof
+根
+ね
+Root
+根本
+こんぽん
+Root
+船員
+せんいん
+Sailor
+学期
+がっき
+School Term
+二階
+にかい
+Second Floor
+店員
+てんいん
+Shop Staff
+短い
+みじかい
+Short
+短期
+たんき
+Short Period
+短刀
+たんとう
+Short Sword
+誰か
+だれか
+Someone
+息子
+むすこ
+Son
+球
+たま
+Sphere
+泉
+いずみ
+Spring
+着々
+ちゃくちゃく
+Steadily
+湯気
+ゆげ
+Steam
+勉強
+べんきょう
+Studies
+太陽
+たいよう
+Sun
+水泳
+すいえい
+Swimming
+茶の湯
+ちゃのゆ
+Tea Ceremony
+気温
+きおん
+Temperature
+温度
+おんど
+Temperature
+地球
+ちきゅう
+The Earth
+終わり
+おわり
+The End
+第一
+だいいち
+The First
+最悪
+さいあく
+The Worst
+彼ら
+かれら
+They
+三番目
+さんばんめ
+Third Thing
+時期
+じき
+Time
+〜倍
+ばい
+Times
+始まる
+はじまる
+To Begin
+伝わる
+つたわる
+To Be Transmitted
+登る
+のぼる
+To Climb
+取れる
+とれる
+To Come Off
+集まる
+あつまる
+To Come Together
+要求する
+ようきゅうする
+To Demand Something
+落とす
+おとす
+To Drop Something
+消す
+けす
+To Extinguish Something
+転ぶ
+ころぶ
+To Fall Over
+終える
+おえる
+To Finish Something
+流す
+ながす
+To Flush Something
+苦しめる
+くるしめる
+To Hurt Someone
+東京都
+とうきょうと
+Tokyo Metropolis
+動く
+うごく
+To Move
+起こる
+おこる
+To Occur
+開く
+あく
+To Open
+歯
+は
+Tooth
+植える
+うえる
+To Plant Something
+映す
+うつす
+To Project
+鳴る
+なる
+To Ring
+歌う
+うたう
+To Sing
+合う
+あう
+To Suit
+待つ
+まつ
+To Wait
+着る
+きる
+To Wear
+心配する
+しんぱいする
+To Worry
+流行
+りゅうこう
+Trend
+旅
+たび
+Trip
+旅行
+りょこう
+Trip
+都会
+とかい
+Urban Area
+温かい
+あたたかい
+Warm
+水深
+すいしん
+Water Depth
+話し方
+はなしかた
+Way Of Speaking
+言葉
+ことば
+Word
+文章
+ぶんしょう
+Writing
+Level 13
+感心
+かんしん
+Admiration
+入館料
+にゅうかんりょう
+Admission Fee
+養子
+ようし
+Adopted Child
+マンション
+マンション
+Apartment Building
+整理
+せいり
+Arrangement
+〜放題
+ほうだい
+As Much As You Want
+暗殺
+あんさつ
+Assassination
+想定
+そうてい
+Assumption
+初めに
+はじめに
+At First
+銀行
+ぎんこう
+Bank
+彼氏
+かれし
+Boyfriend
+橋
+はし
+Bridge
+缶ビール
+かんびーる
+Can Beer
+賞金
+しょうきん
+Cash Prize
+事情
+じじょう
+Circumstances
+器
+うつわ
+Container
+大会
+たいかい
+Convention
+暗い
+くらい
+Dark
+器用
+きよう
+Dextrous
+疑問
+ぎもん
+Doubt
+ワンピース
+ワンピース
+Dress
+酒好き
+さけずき
+Drinker
+飲み会
+のみかい
+Drinking Party
+空き缶
+あきかん
+Empty Can
+熱心
+ねっしん
+Enthusiasm
+全然
+ぜんぜん
+Entirely
+皆さん
+みなさん
+Everyone
+予想
+よそう
+Expectation
+表情
+ひょうじょう
+Facial Expression
+料金
+りょうきん
+Fee
+感じ
+かんじ
+Feeling
+感情
+かんじょう
+Feeling
+熱
+ねつ
+Fever
+指先
+ゆびさき
+Fingertip
+〜様
+さま
+Formal Name Ender
+初めて
+はじめて
+For The First Time
+仲良く
+なかよく
+Friendly
+駅前
+えきまえ
+Front Of Station
+会
+かい
+Gathering
+目標
+もくひょう
+Goal
+神様
+かみさま
+God
+女神
+めがみ
+Goddess
+仲良し
+なかよし
+Good Friend
+緑色
+みどりいろ
+Green
+緑
+みどり
+Green
+宿題
+しゅくだい
+Homework
+熱い
+あつい
+Hot Thing
+人情
+にんじょう
+Human Feelings
+億
+おく
+Hundred Million
+俺
+おれ
+I
+思想
+しそう
+Ideology
+感想
+かんそう
+Impressions
+旅館
+りょかん
+Japanese Inn
+神風
+かみかぜ
+Kamikaze
+王様
+おうさま
+King
+左利き
+ひだりきき
+Left Handed
+小指
+こゆび
+Little Finger
+宿
+やど
+Lodging
+暗記
+あんき
+Memorization
+水銀
+すいぎん
+Mercury
+中指
+なかゆび
+Middle Finger
+鏡
+かがみ
+Mirror
+映画館
+えいがかん
+Movie Theater
+殺人
+さつじん
+Murder
+楽器
+がっき
+Musical Instrument
+当然
+とうぜん
+Natural
+自然
+しぜん
+Nature
+一億
+いちおく
+One Hundred Million
+一億円
+いちおくえん
+One Hundred Million Yen
+情熱
+じょうねつ
+Passion
+体育
+たいいく
+Pe Class
+情け
+なさけ
+Pity
+詩
+し
+Poem
+詩人
+しじん
+Poet
+詩歌
+しいか
+Poetry
+練習
+れんしゅう
+Practice
+選手
+せんしゅ
+Pro Athlete
+問題
+もんだい
+Problem
+実感
+じっかん
+Realization
+大好き
+だいすき
+Really Like
+回想
+かいそう
+Reminiscence
+右利き
+みぎきき
+Right Handed
+輪
+わ
+Ring
+学問
+がくもん
+Schooling
+課長
+かちょう
+Section Manager
+彼女
+かのじょ
+She
+新宿
+しんじゅく
+Shinjuku
+銀
+ぎん
+Silver
+銀色
+ぎんいろ
+Silver
+特選
+とくせん
+Special Selection
+駅
+えき
+Station
+駅長
+えきちょう
+Station Master
+自殺
+じさつ
+Suicide
+力士
+りきし
+Sumo Wrestler
+同感
+どうかん
+Sympathy
+食器
+しょっき
+Tableware
+田代島
+たしろじま
+Tashirojima
+感謝
+かんしゃ
+Thanks
+五感
+ごかん
+The Five Senses
+親指
+おやゆび
+Thumb
+車輪
+しゃりん
+Tire
+疲れ
+つかれ
+Tiredness
+謝る
+あやまる
+To Apologize
+着く
+つく
+To Arrive
+空く
+あく
+To Become Empty
+感動する
+かんどうする
+To Be Emotionally Moved
+放れる
+はなれる
+To Be Released
+育てる
+そだてる
+To Bring Up
+追い付く
+おいつく
+To Catch Up With
+追いかける
+おいかける
+To Chase
+選ぶ
+えらぶ
+To Choose
+感じる
+かんじる
+To Feel
+戦う
+たたかう
+To Fight
+養う
+やしなう
+To Foster
+受かる
+うかる
+To Get Accepted
+疲れる
+つかれる
+To Get Tired
+温める
+あたためる
+To Heat Something Up
+手伝う
+てつだう
+To Help
+想像する
+そうぞうする
+To Imagine
+殺す
+ころす
+To Kill
+見返る
+みかえる
+To Look Back At
+注文する
+ちゅうもんする
+To Order
+話題
+わだい
+Topic
+別れる
+わかれる
+To Separate
+共有する
+きょうゆうする
+To Share
+駅員
+えきいん
+Train Station Employee
+天王星
+てんのうせい
+Uranus
+俺たち
+おれたち
+We
+Level 14
+能力
+のうりょく
+Ability
+約
+やく
+About
+知り合い
+しりあい
+Acquaintance
+〜的
+てき
+Al
+周年
+しゅうねん
+Anniversary
+協会
+きょうかい
+Association
+雰囲気
+ふんいき
+Atmosphere
+自動
+じどう
+Automatic
+気持ち悪い
+きもちわるい
+Bad Feeling
+悪口
+わるぐち
+Bad Mouthing
+骨
+ほね
+Bone
+骨折
+こっせつ
+Broken Bone
+束
+たば
+Bundle
+世話
+せわ
+Care
+人参
+にんじん
+Carrot
+場合
+ばあい
+Case
+人格
+じんかく
+Character
+周り
+まわり
+Circumference
+芸人
+げいにん
+Comedian
+完全
+かんぜん
+Complete
+完了
+かんりょう
+Completion
+完成
+かんせい
+Completion
+妥協
+だきょう
+Compromise
+具合
+ぐあい
+Condition
+近代的
+きんだいてき
+Contemporary
+料理
+りょうり
+Cooking
+協力
+きょうりょく
+Cooperation
+周期
+しゅうき
+Cycle
+明後日
+あさって
+Day After Tomorrow
+深さ
+ふかさ
+Depth
+願望
+がんぼう
+Desire
+言葉つき
+ことばつき
+Diction
+失望
+しつぼう
+Disappointment
+消しゴム
+けしごむ
+Eraser
+皆様
+みなさま
+Everyone
+悪気
+わるぎ
+Evil Intent
+例文
+れいぶん
+Example Sentence
+例外
+れいがい
+Exception
+女性
+じょせい
+Female
+例えば
+たとえば
+For Example
+基本
+きほん
+Foundation
+毛皮
+けがわ
+Fur
+試合
+しあい
+Game
+芸者
+げいしゃ
+Geisha
+性
+せい
+Gender
+良好
+りょうこう
+Good
+お疲れ様
+おつかれさま
+Good Work
+卒業
+そつぎょう
+Graduation
+固い
+かたい
+Hard
+念願
+ねんがん
+Heart's Desire
+希望
+きぼう
+Hope
+消化不良
+しょうかふりょう
+Indigestion
+材料
+ざいりょう
+Ingredients
+一例
+いちれい
+Instance
+本能
+ほんのう
+Instinct
+意図的
+いとてき
+Intentional
+着物
+きもの
+Kimono
+行
+ぎょう
+Line Of Text
+材木
+ざいもく
+Lumber
+本館
+ほんかん
+Main Building
+男性
+だんせい
+Male
+意地悪
+いじわる
+Malicious
+山登り
+やまのぼり
+Mountain Climbing
+動き
+うごき
+Movement
+明らか
+あきらか
+Obvious
+一周
+いっしゅう
+One Time Around
+開閉
+かいへい
+Opening And Closing
+残業
+ざんぎょう
+Overtime
+周囲
+しゅうい
+Perimeter
+性格
+せいかく
+Personality
+松
+まつ
+Pine
+松葉
+まつば
+Pine Needle
+お願いします
+おねがいします
+Please Help Me
+流行語
+りゅうこうご
+Popular Phrase
+流行歌
+りゅうこうか
+Popular Song
+約束
+やくそく
+Promise
+目的
+もくてき
+Purpose
+理性
+りせい
+Reason
+残り
+のこり
+Remainder
+予約
+よやく
+Reservation
+回転ずし
+かいてんずし
+Rotating Sushi
+文化祭
+ぶんかさい
+School Festival
+性病
+せいびょう
+Sexually Transmitted Disease
+格好
+かっこう
+Shape
+芸能界
+げいのうかい
+Show Business
+合図
+あいず
+Signal
+骨格
+こっかく
+Skeleton
+運動会
+うんどうかい
+Sports Day
+待ちぼうけ
+まちぼうけ
+Stood Up
+閉店
+へいてん
+Store Closed
+苺
+いちご
+Strawberry
+頑固
+がんこ
+Stubborn
+水着
+みずぎ
+Swimsuit
+才能
+さいのう
+Talent
+四季
+しき
+The Four Seasons
+整理する
+せいりする
+To Arrange
+間に合う
+まにあう
+To Be In Time For
+落ち着く
+おちつく
+To Calm Down
+参る
+まいる
+To Come
+消化する
+しょうかする
+To Digest
+消える
+きえる
+To Disappear
+期待する
+きたいする
+To Expect
+折る
+おる
+To Fold Something
+合わせる
+あわせる
+To Join Together
+待たせる
+またせる
+To Make Someone Wait
+動かす
+うごかす
+To Move Something
+合格する
+ごうかくする
+To Pass A Test
+着ける
+つける
+To Put On
+残る
+のこる
+To Remain Behind
+回転する
+かいてんする
+To Rotate
+流れる
+ながれる
+To Stream
+勉強する
+べんきょうする
+To Study
+囲む
+かこむ
+To Surround
+旅行する
+りょこうする
+To Travel
+起こす
+おこす
+To Wake Someone Up
+温まる
+あたたまる
+To Warm Up
+望む
+のぞむ
+To Wish
+旅行者
+りょこうしゃ
+Traveler
+下着
+したぎ
+Underwear
+残念
+ざんねん
+Unfortunate
+日本的
+にほんてき
+Very Japanese
+待合
+まちあい
+Waiting Room
+俺ら
+おれら
+We
+井戸
+いど
+Well
+狼男
+おおかみおとこ
+Werewolf
+望み
+のぞみ
+Wish
+折角
+せっかく
+With Trouble
+狼
+おおかみ
+Wolf
+木材
+もくざい
+Wood
+Level 15
+飲み放題
+のみほうだい
+All You Can Drink
+食べ放題
+たべほうだい
+All You Can Eat
+変人
+へんじん
+An Eccentric
+お願い
+おねがい
+A Request
+軍
+ぐん
+Army
+芸術
+げいじゅつ
+Art
+秋
+あき
+Autumn
+比例
+ひれい
+Being Proportional
+上司
+じょうし
+Boss
+岩
+いわ
+Boulder
+英国
+えいこく
+Britain
+仏
+ほとけ
+Buddha
+仏教
+ぶっきょう
+Buddhism
+計算
+けいさん
+Calculation
+猫
+ねこ
+Cat
+世紀
+せいき
+Century
+式
+しき
+Ceremony
+変化
+へんか
+Change
+晴れ
+はれ
+Clear Weather
+不器用
+ぶきよう
+Clumsy
+紀元後
+きげんご
+Common Era
+自信
+じしん
+Confidence
+勇気
+ゆうき
+Courage
+トランプ
+トランプ
+Deck Of Cards
+区
+く
+District
+地区
+ちく
+District
+不信
+ふしん
+Distrust
+英会話
+えいかいわ
+English Conversation
+英和
+えいわ
+English Japanese
+英語
+えいご
+English Language
+英文
+えいぶん
+English Writing
+毎晩
+まいばん
+Every Night
+信心
+しんじん
+Faith
+美術
+びじゅつ
+Fine Art
+食中毒
+しょくちゅうどく
+Food Poisoning
+四匹
+よんひき
+Four Small Animals
+福島
+ふくしま
+Fukushima
+大仏
+だいぶつ
+Giant Buddha Statue
+今晩は
+こんばんは
+Good Evening
+文法
+ぶんぽう
+Grammar
+丈
+たけ
+Height
+乗馬
+じょうば
+Horseback Riding
+夫
+おっと
+Husband
+不法
+ふほう
+Illegal
+事変
+じへん
+Incident
+伝
+つて
+Intermediary
+子猫
+こねこ
+Kitten
+昨年
+さくねん
+Last Year
+列
+れつ
+Line
+昼休み
+ひるやすみ
+Lunch Break
+飯
+めし
+Meal
+ご飯
+ごはん
+Meal
+方法
+ほうほう
+Method
+情けない
+なさけない
+Miserable
+人殺し
+ひとごろし
+Murder
+殺人者
+さつじんしゃ
+Murderer
+海軍
+かいぐん
+Navy
+晩
+ばん
+Night
+昼
+ひる
+Noon
+オノマトペ
+オノマトペ
+Onomatopoeia
+由来
+ゆらい
+Origin
+相手
+あいて
+Partner
+乗客
+じょうきゃく
+Passenger
+計画
+けいかく
+Plan
+毒
+どく
+Poison
+毒ガス
+どくがす
+Poison Gas
+中毒
+ちゅうどく
+Poisoning
+有毒
+ゆうどく
+Poisonous
+返信
+へんしん
+Reply
+指輪
+ゆびわ
+Ring
+輪ゴム
+わごむ
+Rubber Band
+大変
+たいへん
+Serious
+浅い
+あさい
+Shallow
+単に
+たんに
+Simply
+技能
+ぎのう
+Skill
+坂
+さか
+Slope
+〜匹
+ひき
+Small Animal Counter
+軍人
+ぐんじん
+Soldier
+頑丈
+がんじょう
+Solid
+初耳
+はつみみ
+Something Heard For The First Time
+特技
+とくぎ
+Specialty
+春
+はる
+Spring
+春休み
+はるやすみ
+Spring Break
+変
+へん
+Strange
+丈夫
+じょうぶ
+Sturdy
+同期中
+どうきちゅう
+Syncing
+美味しい
+おいしい
+Tasty
+技
+わざ
+Technique
+寺
+てら
+Temple
+昨今
+さっこん
+These Days
+受け入れる
+うけいれる
+To Accept Something
+整える
+ととのえる
+To Arrange
+好む
+このむ
+To Be Fond Of
+信じる
+しんじる
+To Believe
+変える
+かえる
+To Change Something
+晴れる
+はれる
+To Clear Up
+泣く
+なく
+To Cry
+外す
+はずす
+To Disconnect Something
+疑う
+うたがう
+To Doubt
+放つ
+はなつ
+To Fire
+下りる
+おりる
+To Go Down
+暗記する
+あんきする
+To Memorize
+払う
+はらう
+To Pay
+練習する
+れんしゅうする
+To Practice
+帰る
+かえる
+To Return Home
+見返す
+みかえす
+To Show Someone What One Can Do
+合計
+ごうけい
+Total
+信号
+しんごう
+Traffic Light
+信用
+しんよう
+Trust
+変事
+へんじ
+Unexpected Incident
+変死
+へんし
+Unnatural Death
+様々
+さまざま
+Various
+時計
+とけい
+Watch
+単語
+たんご
+Word
+作家
+さっか
+Writer
+昨日
+きのう
+Yesterday
+Level 16
+留守
+るす
+Absence
+料理人
+りょうりにん
+A Cook
+入門
+にゅうもん
+Admission
+冒険
+ぼうけん
+Adventure
+記念日
+きねんび
+Anniversary
+品
+しな
+Article
+芸術家
+げいじゅつか
+Artist
+自動的
+じどうてき
+Automatic
+自動車
+じどうしゃ
+Automobile
+作品
+さくひん
+A Work
+弁当
+べんとう
+Bento
+箱
+はこ
+Box
+新品
+しんぴん
+Brand New
+仏典
+ぶってん
+Buddhist Scriptures
+天井
+てんじょう
+Ceiling
+字典
+じてん
+Character Dictionary
+古典的
+こてんてき
+Classical
+全治
+ぜんち
+Complete Recovery
+関心
+かんしん
+Concern
+関係
+かんけい
+Connection
+保守的
+ほしゅてき
+Conservative
+取材
+しゅざい
+Covering An Event
+下品
+げひん
+Crude
+危ない
+あぶない
+Dangerous
+曜日
+ようび
+Day Of The Week
+悪化
+あっか
+Deterioration
+〜弁
+べん
+Dialect
+辞典
+じてん
+Dictionary
+辞書
+じしょ
+Dictionary
+事典
+じてん
+Encyclopedia
+証
+あかし
+Evidence
+遠足
+えんそく
+Excursion
+生存
+せいぞん
+Existence
+急行
+きゅうこう
+Express
+外面
+がいめん
+External Appearance
+顔面
+がんめん
+Face Of A Person
+不合格
+ふごうかく
+Fail A Test
+遠い
+とおい
+Far
+お世辞
+おせじ
+Flattery
+ふわふわ
+ふわふわ
+Fluffy
+折り目
+おりめ
+Fold
+前面
+ぜんめん
+Front
+基本的
+きほんてき
+Fundamental
+ゴミ箱
+ごみばこ
+Garbage Can
+門
+もん
+Gate
+幸運
+こううん
+Good Luck
+政府
+せいふ
+Government
+卒業式
+そつぎょうしき
+Graduation Ceremony
+食料品
+しょくりょうひん
+Groceries
+地面
+じめん
+Ground
+保証
+ほしょう
+Guarantee
+阪神
+はんしん
+Hanshin
+幸福
+こうふく
+Happiness
+幸せ
+しあわせ
+Happiness
+不完全
+ふかんぜん
+Incomplete
+不治
+ふじ
+Incurability
+保険
+ほけん
+Insurance
+面白い
+おもしろい
+Interesting
+冗談
+じょうだん
+Joke
+関西
+かんさい
+Kansai
+図書館
+としょかん
+Library
+特急
+とっきゅう
+Limited Express Train
+行列
+ぎょうれつ
+Line
+荷物
+にもつ
+Luggage
+仮面
+かめん
+Mask
+明治
+めいじ
+Meiji Era
+商品
+しょうひん
+Merchandise
+美術館
+びじゅつかん
+Museum
+折り紙
+おりがみ
+Origami
+大阪
+おおさか
+Osaka
+外来
+がいらい
+Outpatient
+支払い
+しはらい
+Payment
+写真
+しゃしん
+Photo
+真っ黒
+まっくろ
+Pitch Black
+企画
+きかく
+Plan
+政治
+せいじ
+Politics
+保存
+ほぞん
+Preservation
+首相
+しゅしょう
+Prime Minister
+証明
+しょうめい
+Proof
+治安
+ちあん
+Public Order
+公園
+こうえん
+Public Park
+危険
+きけん
+Risky
+場面
+ばめん
+Scene
+画面
+がめん
+Screen
+手軽
+てがる
+Simple And Easy
+笑顔
+えがお
+Smile
+専門
+せんもん
+Specialty
+仏像
+ぶつぞう
+Statue Of Buddha
+留学
+りゅうがく
+Study Abroad
+急
+きゅう
+Sudden
+急死
+きゅうし
+Sudden Death
+急に
+きゅうに
+Suddenly
+日光浴
+にっこうよく
+Sunbathe
+荷札
+にふだ
+Tag
+技術
+ぎじゅつ
+Technique
+証言
+しょうげん
+Testimony
+教科書
+きょうかしょ
+Textbook
+浴びる
+あびる
+To Bathe In
+関する
+かんする
+To Be Related To
+折れる
+おれる
+To Break
+閉める
+しめる
+To Close Something
+妥協する
+だきょうする
+To Compromise
+卒業する
+そつぎょうする
+To Graduate
+急ぐ
+いそぐ
+To Hurry
+問い合わせる
+といあわせる
+To Inquire
+存じる
+ぞんじる
+To Know
+東京弁
+とうきょうべん
+Tokyo Dialect
+笑う
+わらう
+To Laugh
+残す
+のこす
+To Leave Behind
+固める
+かためる
+To Make Something Hard
+生じる
+しょうじる
+To Occur
+約束する
+やくそくする
+To Promise
+守る
+まもる
+To Protect
+辞める
+やめる
+To Quit
+帰す
+かえす
+To Send Someone Back
+重ねる
+かさねる
+To Stack
+希望する
+きぼうする
+To Wish
+書く
+かく
+To Write
+真実
+しんじつ
+Truth
+不幸
+ふこう
+Unhappiness
+待合室
+まちあいしつ
+Waiting Room
+証人
+しょうにん
+Witness
+動物園
+どうぶつえん
+Zoo
+Level 17
+欠席
+けっせき
+Absence
+是非
+ぜひ
+Absolutely
+結局
+けっきょく
+After All
+愛知県
+あいちけん
+Aichi Prefecture
+常に
+つねに
+Always
+無名
+むめい
+Anonymous
+兵器
+へいき
+Arms
+相変わらず
+あいかわらず
+As Usual
+原子
+げんし
+Atom
+出席
+しゅっせき
+Attendance
+不味い
+まずい
+Bad Tasting
+紀元前
+きげんぜん
+Before The Common Era
+両側
+りょうがわ
+Both Sides
+底
+そこ
+Bottom
+心底
+しんそこ
+Bottom Of One's Heart
+朝ご飯
+あさごはん
+Breakfast
+食堂
+しょくどう
+Cafeteria
+原因
+げんいん
+Cause
+喜劇
+きげき
+Comedy
+常識
+じょうしき
+Common Sense
+完結
+かんけつ
+Conclusion
+意識
+いしき
+Consciousness
+泣き虫
+なきむし
+Crybaby
+泣き声
+なきごえ
+Crying
+一昨日
+おととい
+Day Before Last
+詳しい
+くわしい
+Detailed
+詳細
+しょうさい
+Details
+晩ご飯
+ばんごはん
+Dinner
+外交官
+がいこうかん
+Diplomat
+劇
+げき
+Drama
+劇的
+げきてき
+Dramatic
+薬物
+やくぶつ
+Drugs
+干天
+かんてん
+Dry Weather
+東側
+ひがしがわ
+East Side
+非常
+ひじょう
+Emergency
+日常
+にちじょう
+Everyday Life
+説明
+せつめい
+Explanation
+失敗
+しっぱい
+Failure
+幻想
+げんそう
+Fantasy
+ペラペラ
+ペラペラ
+Fluent
+外来語
+がいらいご
+Foreign Word
+無料
+むりょう
+Free
+果物
+くだもの
+Fruit
+官金
+かんきん
+Government Funds
+幻覚
+げんかく
+Hallucination
+失恋
+しつれん
+Heartbreak
+鼻歌
+はなうた
+Humming
+仮説
+かせつ
+Hypothesis
+無知
+むち
+Ignorance
+幻
+まぼろし
+Illusion
+図説
+ずせつ
+Illustration
+無理
+むり
+Impossible
+察知
+さっち
+Inference
+内側
+うちがわ
+Inside
+干渉
+かんしょう
+Interference
+無茶
+むちゃ
+Irrational
+知識
+ちしき
+Knowledge
+左側
+ひだりがわ
+Left Side
+伝説
+でんせつ
+Legend
+敗者
+はいしゃ
+Loser
+恋愛
+れんあい
+Love
+愛
+あい
+Love
+愛情
+あいじょう
+Love
+恋
+こい
+Love
+愛人
+あいじん
+Lover
+昼ご飯
+ひるごはん
+Lunch
+主因
+しゅいん
+Main Cause
+薬用
+やくよう
+Medicinal
+薬
+くすり
+Medicine
+兵員
+へいいん
+Military Personnel
+水兵
+すいへい
+Navy Sailor
+交渉
+こうしょう
+Negotiation
+無休
+むきゅう
+No Holidays
+鼻
+はな
+Nose
+鼻血
+はなぢ
+Nosebleed
+小説
+しょうせつ
+Novel
+願い事
+ねがいごと
+One's Wish
+空席
+くうせき
+Open Seat
+歌劇
+かげき
+Opera
+原作
+げんさく
+Original Work
+外側
+そとがわ
+Outside
+愛国心
+あいこくしん
+Patriotism
+警察
+けいさつ
+Police
+無力
+むりょく
+Powerless
+結果
+けっか
+Result
+右側
+みぎがわ
+Right Side
+川底
+かわぞこ
+Riverbed
+無事
+ぶじ
+Safe And Sound
+塩
+しお
+Salt
+塩水
+しおみず
+Salt Water
+塩味
+しおあじ
+Salty Taste
+席
+せき
+Seat
+自愛
+じあい
+Self Love
+感覚
+かんかく
+Sense
+側
+そば
+Side
+署名
+しょめい
+Signature
+無言
+むごん
+Silence
+鼻くそ
+はなくそ
+Snot
+兵士
+へいし
+Soldier
+兵
+へい
+Soldier
+薬学
+やくがく
+Study Of Pharmacy
+劇場
+げきじょう
+Theater
+細い
+ほそい
+Thin
+鼻先
+はなさき
+Tip Of The Nose
+変わる
+かわる
+To Be Changed
+敗れる
+やぶれる
+To Be Defeated
+悲しむ
+かなしむ
+To Be Sad About
+治す
+なおす
+To Cure
+干す
+ほす
+To Dry Something
+果てる
+はてる
+To End
+察する
+さっする
+To Guess
+愛する
+あいする
+To Love
+喜ぶ
+よろこぶ
+To Rejoice
+悲劇
+ひげき
+Tragedy
+梅
+うめ
+Ume
+梅酒
+うめしゅ
+Ume Wine
+不詳
+ふしょう
+Unknown
+米兵
+べいへい
+Us Soldier
+勝敗
+しょうはい
+Victory Or Defeat
+西側
+にしがわ
+West Side
+無し
+なし
+Without
+青春
+せいしゅん
+Youth
+Level 18
+予告
+よこく
+Advance Notice
+広告
+こうこく
+Advertisement
+笑い
+わらい
+A Laugh
+お守り
+おまもり
+Amulet
+弓道
+きゅうどう
+Archery
+黒煙
+こくえん
+Black Smoke
+借用
+しゃくよう
+Borrowing
+叩頭
+こうとう
+Bow
+弓
+ゆみ
+Bow
+脳
+のう
+Brain
+脳死
+のうし
+Brain Death
+脳みそ
+のうみそ
+Brains
+洗脳
+せんのう
+Brainwashing
+仏僧
+ぶっそう
+Buddhist Priest
+喫茶店
+きっさてん
+Cafe
+平静
+へいせい
+Calm
+飴
+あめ
+Candy
+留守番
+るすばん
+Caretaker
+洗車
+せんしゃ
+Car Wash
+証明書
+しょうめいしょ
+Certificate
+胸
+むね
+Chest
+分類
+ぶんるい
+Classification
+お笑い
+おわらい
+Comedy
+文句
+もんく
+Complaint
+告白
+こくはく
+Confession
+可愛い
+かわいい
+Cute
+借金
+しゃっきん
+Debt
+辞書形
+じしょけい
+Dictionary Form
+書類
+しょるい
+Document
+上品
+じょうひん
+Elegant
+等しい
+ひとしい
+Equal
+対等
+たいとう
+Equality
+等号
+とうごう
+Equal Sign
+留学生
+りゅうがくせい
+Exchange Student
+遠く
+とおく
+Far Away
+一等
+いっとう
+First Class
+初恋
+はつこい
+First Love
+五枚
+ごまい
+Five Flat Objects
+〜枚
+まい
+Flat Object Counter
+禁止
+きんし
+Forbidden
+予報
+よほう
+Forecast
+金曜日
+きんようび
+Friday
+友達
+ともだち
+Friend
+銀座
+ぎんざ
+Ginza
+品物
+しなもの
+Goods
+落書き
+らくがき
+Graffiti
+焼き鳥
+やきとり
+Grilled Chicken
+焼き肉
+やきにく
+Grilled Meat
+手荷物
+てにもつ
+Hand Baggage
+幸い
+さいわい
+Happiness
+高等
+こうとう
+High Class
+何枚
+なんまい
+How Many Flat Objects
+不可欠
+ふかけつ
+Indispensable
+情報
+じょうほう
+Information
+関西弁
+かんさいべん
+Kansai Dialect
+種類
+しゅるい
+Kind
+訓読み
+くんよみ
+Kun'yomi
+喉頭
+こうとう
+Larynx
+教訓
+きょうくん
+Lesson
+子守歌
+こもりうた
+Lullaby
+人類
+じんるい
+Mankind
+達人
+たつじん
+Master
+月曜日
+げつようび
+Monday
+報道
+ほうどう
+News Report
+禁煙
+きんえん
+No Smoking
+枚数
+まいすう
+Number Of Sheets
+大阪弁
+おおさかべん
+Osaka Dialect
+許可
+きょか
+Permission
+〜達
+たち
+Pluralizing Suffix
+可能
+かのう
+Possible
+葉書
+はがき
+Postcard
+静か
+しずか
+Quiet
+人種
+じんしゅ
+Race Of People
+ドキドキ
+ドキドキ
+Racing Heart
+洗練
+せんれん
+Refinement
+親類
+しんるい
+Relatives
+借家
+しゃくや
+Rented House
+報告
+ほうこく
+Report
+下書き
+したがき
+Rough Draft
+大丈夫
+だいじょうぶ
+Safe
+土曜日
+どようび
+Saturday
+座席
+ざせき
+Seat
+正座
+せいざ
+Seiza
+煙
+けむり
+Smoke
+喫煙
+きつえん
+Smoking
+汽船
+きせん
+Steam Ship
+汽車
+きしゃ
+Steam Train
+静止
+せいし
+Still
+飴細工
+あめざいく
+Sugar Sculpture
+日焼け
+ひやけ
+Sunburn
+日曜日
+にちようび
+Sunday
+夕焼け
+ゆうやけ
+Sunset
+禁句
+きんく
+Taboo Word
+僧院
+そういん
+Temple
+喉
+のど
+Throat
+木曜日
+もくようび
+Thursday
+告げる
+つげる
+To Announce
+達する
+たっする
+To Attain
+焼く
+やく
+To Bake
+繋がる
+つながる
+To Be Connected
+関わる
+かかわる
+To Be Involved
+借りる
+かりる
+To Borrow
+苛める
+いじめる
+To Bully
+閉まる
+しまる
+To Close
+配達する
+はいたつする
+To Deliver
+忘れる
+わすれる
+To Forget
+治る
+なおる
+To Get Better
+固まる
+かたまる
+To Harden
+許す
+ゆるす
+To Permit
+禁じる
+きんじる
+To Prohibit
+報じる
+ほうじる
+To Report On
+書き直す
+かきなおす
+To Rewrite
+座る
+すわる
+To Sit
+叩く
+たたく
+To Strike
+洗う
+あらう
+To Wash
+書き入れる
+かきいれる
+To Write In
+訓練
+くんれん
+Training
+駅弁
+えきべん
+Train Station Bento
+伝達
+でんたつ
+Transmission
+火曜日
+かようび
+Tuesday
+警告
+けいこく
+Warning
+書き方
+かきかた
+Way To Write
+水曜日
+すいようび
+Wednesday
+忘年会
+ぼうねんかい
+Year End Party
+座禅
+ざぜん
+Zen Meditation
+禅僧
+ぜんそう
+Zen Priest
+禅寺
+ぜんでら
+Zen Temple
+Level 19
+学歴
+がくれき
+Academic History
+形容詞
+けいようし
+Adjective
+五十音順
+ごじゅうおんじゅん
+Aiueo Order
+流石
+さすが
+As Expected
+猫舌
+ねこじた
+Aversion To Hot Foods
+焼き芋
+やきいも
+Baked Sweet Potato
+信徒
+しんと
+Believer
+得
+とく
+Benefit
+毛布
+もうふ
+Blanket
+〜冊
+さつ
+Book Counter
+仏教徒
+ぶっきょうと
+Buddhist
+忙しい
+いそがしい
+Busy
+多忙
+たぼう
+Busy
+年代順
+ねんだいじゅん
+Chronological Order
+布
+ぬの
+Cloth
+混乱
+こんらん
+Confusion
+内容
+ないよう
+Contents
+大きい順
+おおきいじゅん
+Decreasing Order
+細かい
+こまかい
+Detailed
+劇団
+げきだん
+Drama Troupe
+飲酒
+いんしゅ
+Drinking Alcohol
+容易
+ようい
+Ease
+易しい
+やさしい
+Easy
+八冊
+はっさつ
+Eight Books
+非常口
+ひじょうぐち
+Emergency Exit
+入団
+にゅうだん
+Enrollment
+連日
+れんじつ
+Every Day
+笛
+ふえ
+Flute
+二枚舌
+にまいじた
+Forked Tongue
+布団
+ふとん
+Futon
+善悪
+ぜんあく
+Good And Evil
+得意
+とくい
+Good At
+助詞
+じょし
+Grammar Particle
+集団
+しゅうだん
+Group
+歴史
+れきし
+History
+改善
+かいぜん
+Improvement
+小さい順
+ちいさいじゅん
+Increasing Order
+昆虫
+こんちゅう
+Insect
+自動詞
+じどうし
+Intransitive Verb
+いい加減
+いいかげん
+Irresponsible
+求人
+きゅうじん
+Job Posting
+喜び
+よろこび
+Joy
+昆布
+こんぶ
+Konbu
+恋人
+こいびと
+Lover
+乱戦
+らんせん
+Melee
+宙
+ちゅう
+Midair
+混血
+こんけつ
+Mixed Race
+名詞
+めいし
+Noun
+原子力
+げんしりょく
+Nuclear Power
+数詞
+すうし
+Numeral
+続々
+ぞくぞく
+One After Another
+一冊
+いっさつ
+One Book
+一匹
+いっぴき
+One Small Animal
+順番
+じゅんばん
+Order
+宇宙
+うちゅう
+Outer Space
+参加
+さんか
+Participation
+品詞
+ひんし
+Part Of Speech
+履歴書
+りれきしょ
+Personal History
+説得
+せっとく
+Persuasion
+梅干し
+うめぼし
+Pickled Plums
+財閥
+ざいばつ
+Plutocrats
+警官
+けいかん
+Police Officer
+警察署
+けいさつしょ
+Police Station
+じゃが芋
+じゃがいも
+Potato
+芋
+いも
+Potato
+私財
+しざい
+Private Funds
+順位
+じゅんい
+Ranking
+果たして
+はたして
+Really
+関連
+かんれん
+Relation
+改正
+かいせい
+Revision
+暴走
+ぼうそう
+Run Wild
+悲しい
+かなしい
+Sad
+悲しみ
+かなしみ
+Sadness
+季節
+きせつ
+Season
+節句
+せっく
+Seasonal Festival
+席順
+せきじゅん
+Seating Order
+別冊
+べっさつ
+Separate Volume
+連続
+れんぞく
+Serial
+歌詞
+かし
+Song Lyrics
+汽笛
+きてき
+Steam Whistle
+生徒
+せいと
+Student
+減法
+げんぽう
+Subtraction
+容疑
+ようぎ
+Suspicion
+お持ち帰り
+おもちかえり
+Takeout
+連中
+れんちゅう
+The Gang
+三冊
+さんさつ
+Three Books
+得る
+える
+To Acquire
+暴れる
+あばれる
+To Act Violently
+加える
+くわえる
+To Add
+外れる
+はずれる
+To Be Disconnected
+乱れる
+みだれる
+To Be In Disorder
+絡む
+からむ
+To Be Involved With
+重なる
+かさなる
+To Be Piled Up
+埋める
+うめる
+To Bury
+改める
+あらためる
+To Change Something
+連絡する
+れんらくする
+To Contact
+続く
+つづく
+To Continue
+減る
+へる
+To Decrease
+覚える
+おぼえる
+To Memorize
+混ぜる
+まぜる
+To Mix Something
+舌
+した
+Tongue
+通じる
+つうじる
+To Pass Through
+履く
+はく
+To Put On Shoes
+連れる
+つれる
+To Take Along
+大失敗
+だいしっぱい
+Total Failure
+無意識
+むいしき
+Unconsciousness
+動詞
+どうし
+Verb
+非常に
+ひじょうに
+Very
+暴力
+ぼうりょく
+Violence
+乱暴
+らんぼう
+Violent
+若布
+わかめ
+Wakame
+財布
+さいふ
+Wallet
+世
+よ
+World
+説明書
+せつめいしょ
+Written Explanation
+一昨年
+おととし
+Year Before Last
+若い
+わかい
+Young
+若者
+わかもの
+Young Person
+若々しい
+わかわかしい
+Youthful
+Level 20
+共犯者
+きょうはんしゃ
+Accomplice
+正確
+せいかく
+Accurate
+余震
+よしん
+Aftershock
+飛行機
+ひこうき
+Airplane
+留守番電話
+るすばんでんわ
+Answering Machine
+人類学
+じんるいがく
+Anthropology
+議論
+ぎろん
+Argument
+倒産
+とうさん
+Bankruptcy
+血圧
+けつあつ
+Blood Pressure
+借り手
+かりて
+Borrower
+弓矢
+ゆみや
+Bow And Arrow
+お尻
+おしり
+Butt
+確かに
+たしかに
+Certainly
+議長
+ぎちょう
+Chairman
+会議室
+かいぎしつ
+Conference Room
+穴子
+あなご
+Conger Eel
+喉飴
+のどあめ
+Cough Drop
+夢中
+むちゅう
+Crazy About
+犯罪
+はんざい
+Crime
+危機
+きき
+Crisis
+非難
+ひなん
+Criticism
+犯人
+はんにん
+Culprit
+被害
+ひがい
+Damage
+議会
+ぎかい
+Diet
+難しい
+むずかしい
+Difficult
+災い
+わざわい
+Disaster
+嫌悪
+けんお
+Disgust
+皿洗い
+さらあらい
+Dishwashing
+嫌い
+きらい
+Dislike
+嫌
+いや
+Dislike
+立入禁止
+たちいりきんし
+Do Not Enter
+夢
+ゆめ
+Dream
+地震
+じしん
+Earthquake
+震災
+しんさい
+Earthquake Disaster
+震度
+しんど
+Earthquake Intensity
+電子機器
+でんしきき
+Electronic Device
+最後尾
+さいこうび
+End Of A Line
+存在
+そんざい
+Existence
+経験
+けいけん
+Experience
+火災
+かさい
+Fire Disaster
+水害
+すいがい
+Flood Damage
+忘れ物
+わすれもの
+Forgotten Item
+自在
+じざい
+Full Control
+有罪
+ゆうざい
+Guilty
+手洗い
+てあらい
+Hand Washing
+困難
+こんなん
+Hardship
+無害
+むがい
+Harmless
+胸焼け
+むねやけ
+Heartburn
+穴場
+あなば
+Hole In The Wall
+夫妻
+ふさい
+Husband And Wife
+不可分
+ふかぶん
+Indivisible
+余裕
+よゆう
+Leeway
+論理
+ろんり
+Logic
+機
+き
+Machine
+機械
+きかい
+Machine
+会議
+かいぎ
+Meeting
+議員
+ぎいん
+Member Of The Diet
+災難
+さいなん
+Misfortune
+機嫌
+きげん
+Mood
+災害
+さいがい
+Natural Disaster
+悪夢
+あくむ
+Nightmare
+鼻の穴
+はなのあな
+Nostril
+一個
+いっこ
+One Small Thing
+音訓
+おんくん
+On'yomi And Kun'yomi
+在外
+ざいがい
+Overseas
+人達
+ひとたち
+People
+個人
+こじん
+Personal
+公害
+こうがい
+Pollution
+一夫多妻
+いっぷたさい
+Polygamy
+可能性
+かのうせい
+Possibility
+圧力
+あつりょく
+Pressure
+防止
+ぼうし
+Prevention
+予防
+よぼう
+Prevention
+個室
+こしつ
+Private Room
+確率
+かくりつ
+Probability
+静々
+しずしず
+Quietly
+比率
+ひりつ
+Ratio
+読者
+どくしゃ
+Reader
+実在
+じつざい
+Reality
+在留
+ざいりゅう
+Residence
+経路
+けいろ
+Route
+種
+たね
+Seed
+自覚
+じかく
+Self Awareness
+高等学校
+こうとうがっこう
+Senior High School
+指圧
+しあつ
+Shiatsu
+罪
+つみ
+Sin
+煙い
+けむい
+Smoky
+臭い
+くさい
+Stinky
+嫌疑
+けんぎ
+Suspicion
+尾
+お
+Tail
+理論
+りろん
+Theory
+論文
+ろんぶん
+Thesis
+厚い
+あつい
+Thick
+三個
+さんこ
+Three Small Things
+産まれる
+うまれる
+To Be Born
+困る
+こまる
+To Be Distressed
+無くなる
+なくなる
+To Be Gone
+余る
+あまる
+To Be In Surplus
+改まる
+あらたまる
+To Be Renewed
+閉じる
+とじる
+To Close Something
+犯す
+おかす
+To Commit A Crime
+繋ぐ
+つなぐ
+To Connect Something
+防ぐ
+ふせぐ
+To Defend Against
+飛ぶ
+とぶ
+To Fly
+焼ける
+やける
+To Get Baked
+混ざる
+まざる
+To Get Mixed
+倒す
+たおす
+To Knock Over
+被る
+かぶる
+To Put On
+刺す
+さす
+To Stab
+面倒
+めんどう
+Trouble
+余計
+よけい
+Unneeded
+経由
+けいゆ
+Via
+裕福
+ゆうふく
+Wealthy
+天気予報
+てんきよほう
+Weather Forecast
+妻
+つま
+Wife
+妻子
+さいし
+Wife And Kids
+不思議
+ふしぎ
+Wonder
+実際
+じっさい
+Actually
+宇宙人
+うちゅうじん
+Alien
+大敵
+たいてき
+Arch Enemy
+権利
+けんり
+A Right
+総体的
+そうたいてき
+As A Whole
+暴走族
+ぼうそうぞく
+Biker Gang
+分解
+ぶんかい
+Breakdown
+資本
+しほん
+Capital
+得体
+えたい
+Character
+検査
+けんさ
+Checkup
+布地
+ぬのじ
+Cloth
+理解
+りかい
+Comprehension
+強制
+きょうせい
+Compulsory
+条件
+じょうけん
+Condition
+確認
+かくにん
+Confirmation
+建設
+けんせつ
+Construction
+正解
+せいかい
+Correct Answer
+暴力団
+ぼうりょくだん
+Crime Syndicate
+批判
+ひはん
+Criticism
+いい加減にしろ
+いいかげんにしろ
+Cut It Out
+定義
+ていぎ
+Definition
+飲酒運転
+いんしゅうんてん
+Drunk Driving
+任務
+にんむ
+Duty
+経済
+けいざい
+Economy
+選挙
+せんきょ
+Election
+敵
+てき
+Enemy
+羨望
+せんぼう
+Envy
+解説
+かいせつ
+Explanation
+外れ
+はずれ
+Extremity
+履き物
+はきもの
+Footwear
+資金
+しきん
+Funds
+立派
+りっぱ
+High Class
+人権
+じんけん
+Human Rights
+事件
+じけん
+Incident
+増加
+ぞうか
+Increase
+国際
+こくさい
+International
+投資
+とうし
+Investment
+主義
+しゅぎ
+Ism
+判断
+はんだん
+Judgment
+正義
+せいぎ
+Justice
+心得
+こころえ
+Knowledge
+資料
+しりょう
+Material
+委員
+いいん
+Member Of A Committee
+〜務省
+むしょう
+Ministry Of
+形容動詞
+けいようどうし
+Na Adjective
+義務
+ぎむ
+Obligation
+事務所
+じむしょ
+Office
+岡山県
+おかやまけん
+Okayama Prefecture
+判子
+はんこ
+One's Seal
+任意
+にんい
+Optional
+総合
+そうごう
+Overall
+参加者
+さんかしゃ
+Participant
+警察官
+けいさつかん
+Police Officer
+祈願
+きがん
+Prayer
+手続き
+てつづき
+Procedure
+固有名詞
+こゆうめいし
+Proper Noun
+公設
+こうせつ
+Public
+資格
+しかく
+Qualifications
+素材
+そざい
+Raw Material
+反省
+はんせい
+Reconsideration
+責任
+せきにん
+Responsibility
+刺身
+さしみ
+Sashimi
+自制
+じせい
+Self Control
+義理
+ぎり
+Sense Of Duty
+派手
+はで
+Showy
+際
+きわ
+Side
+世の中
+よのなか
+Society
+解決
+かいけつ
+Solution
+宇宙船
+うちゅうせん
+Spaceship
+急増
+きゅうぞう
+Sudden Increase
+容疑者
+ようぎしゃ
+Suspect
+制度
+せいど
+System
+税金
+ぜいきん
+Tax
+無税
+むぜい
+Tax Free
+増税
+ぞうぜい
+Tax Increase
+認める
+みとめる
+To Acknowledge
+混乱する
+こんらんする
+To Be Confused
+挙がる
+あがる
+To Be Raised
+解ける
+とける
+To Be Solved
+責める
+せめる
+To Blame
+済む
+すむ
+To Come To An End
+埋め合わせる
+うめあわせる
+To Compensate For
+続ける
+つづける
+To Continue Something
+減らす
+へらす
+To Decrease Something
+羨む
+うらやむ
+To Envy
+設ける
+もうける
+To Establish
+苛々する
+いらいらする
+To Get Irritated
+無くす
+なくす
+To Get Rid Of Something
+産む
+うむ
+To Give Birth
+増える
+ふえる
+To Increase
+検問する
+けんもんする
+To Inspect
+立ち去る
+たちさる
+To Leave
+省く
+はぶく
+To Omit
+参加する
+さんかする
+To Participate
+説得する
+せっとくする
+To Persuade
+企てる
+くわだてる
+To Plan
+祈る
+いのる
+To Pray For
+乱す
+みだす
+To Put In Disorder
+貰う
+もらう
+To Receive Something
+断る
+ことわる
+To Refuse
+設定する
+せっていする
+To Set
+目覚める
+めざめる
+To Wake Up
+務める
+つとめる
+To Work As
+他動詞
+たどうし
+Transitive Verb
+条約
+じょうやく
+Treaty
+制服
+せいふく
+Uniform
+無敵
+むてき
+Unrivaled
+口笛
+くちぶえ
+Whistling
+Level 22
+副詞
+ふくし
+Adverb
+罰金
+ばっきん
+A Fine
+変更
+へんこう
+Alteration
+策
+さく
+A Plan
+建築
+けんちく
+Architecture
+反応
+はんのう
+A Reaction
+援助
+えんじょ
+Assistance
+態度
+たいど
+Attitude
+観客
+かんきゃく
+Audience
+赤ん坊
+あかんぼう
+Baby
+不機嫌
+ふきげん
+Bad Mood
+罰ゲーム
+ばつげーむ
+Batsu Game
+誕生
+たんじょう
+Birth
+失態
+しったい
+Blunder
+書評
+しょひょう
+Book Review
+坊主
+ぼうず
+Buddhist Priest
+営業
+えいぎょう
+Business
+衣服
+いふく
+Clothes
+社費
+しゃひ
+Company Expenses
+状態
+じょうたい
+Condition
+消費
+しょうひ
+Consumption
+防犯
+ぼうはん
+Crime Prevention
+評論
+ひょうろん
+Critique
+大勢
+おおぜい
+Crowd
+対応
+たいおう
+Dealing With
+領域
+りょういき
+Domain
+各〜
+かく
+Each
+各々
+おのおの
+Each
+各地
+かくち
+Each Area
+各自
+かくじ
+Each Person
+評価
+ひょうか
+Evaluation
+費用
+ひよう
+Expense
+経験者
+けいけんしゃ
+Experienced Person
+外観
+がいかん
+External Appearance
+姿
+すがた
+Figure
+勢い
+いきおい
+Force
+一応
+いちおう
+For Now
+降車
+こうしゃ
+Getting Off
+官営
+かんえい
+Government Management
+案内
+あんない
+Guide
+大嫌い
+だいきらい
+Hate
+高血圧
+こうけつあつ
+High Blood Pressure
+嫌味
+いやみ
+Hurtful Words
+観念
+かんねん
+Idea
+宮
+みや
+Imperial Palace
+不可能
+ふかのう
+Impossible
+産業
+さんぎょう
+Industry
+勢力
+せいりょく
+Influence
+指示
+しじ
+Instructions
+寝不足
+ねぶそく
+Lack Of Sleep
+地価
+ちか
+Land Value
+素敵
+すてき
+Lovely
+坊さん
+ぼうさん
+Monk
+昼寝
+ひるね
+Nap
+新築
+しんちく
+Newly Built
+年賀状
+ねんがじょう
+New Year's Card
+脱字
+だつじ
+Omitted Character
+態と
+わざと
+On Purpose
+機会
+きかい
+Opportunity
+寝坊
+ねぼう
+Oversleeping
+過去
+かこ
+Past
+罰
+ばつ
+Penalty
+変態
+へんたい
+Pervert
+政策
+せいさく
+Policy
+位置
+いち
+Position
+姿勢
+しせい
+Posture
+大統領
+だいとうりょう
+President
+価格
+かかく
+Price
+物価
+ぶっか
+Prices
+私営
+しえい
+Private
+提案
+ていあん
+Proposition
+公営
+こうえい
+Public
+公示
+こうじ
+Public Announcement
+地域
+ちいき
+Region
+更新
+こうしん
+Renewal
+市営
+しえい
+Run By The City
+県営
+けんえい
+Run By The Prefecture
+副業
+ふくぎょう
+Side Business
+観光
+かんこう
+Sightseeing
+袖
+そで
+Sleeve
+お土産
+おみやげ
+Souvenir
+待機
+たいき
+Standby
+主観
+しゅかん
+Subjective View
+提出
+ていしゅつ
+Submission
+副題
+ふくだい
+Subtitle
+応援
+おうえん
+Support
+支援
+しえん
+Support
+尻尾
+しっぽ
+Tail
+領土
+りょうど
+Territory
+有り難う
+ありがとう
+Thank You
+混む
+こむ
+To Be Crowded
+刺さる
+ささる
+To Be Pierced
+非難する
+ひなんする
+To Criticize
+検査する
+けんさする
+To Examine
+存在する
+そんざいする
+To Exist
+倒れる
+たおれる
+To Get Knocked Over
+諦める
+あきらめる
+To Give Up
+お手洗い
+おてあらい
+Toilet
+示す
+しめす
+To Indicate
+判断する
+はんだんする
+To Judge
+飛ばす
+とばす
+To Let Something Fly
+確かめる
+たしかめる
+To Make Sure Of
+圧倒する
+あっとうする
+To Overwhelm
+過ぎる
+すぎる
+To Pass
+経つ
+たつ
+To Pass
+罰する
+ばっする
+To Punish
+置く
+おく
+To Put Down
+在留する
+ざいりゅうする
+To Reside
+応じる
+おうじる
+To Respond
+営む
+いとなむ
+To Run A Business
+震える
+ふるえる
+To Shake
+寝る
+ねる
+To Sleep
+吸う
+すう
+To Smoke
+観る
+みる
+To View
+伝統
+でんとう
+Tradition
+面倒臭い
+めんどうくさい
+Troublesome
+脱衣
+だつい
+Undressing
+案外
+あんがい
+Unexpectedly
+統合
+とうごう
+Unification
+嫌悪感
+けんおかん
+Unpleasant Feelings
+値
+あたい
+Value
+価値
+かち
+Value
+被害者
+ひがいしゃ
+Victim
+藤
+ふじ
+Wisteria
+区域
+くいき
+Zone
+Level 23
+吸収
+きゅうしゅう
+Absorption
+演技
+えんぎ
+Acting
+俳優
+はいゆう
+Actor
+男優
+だんゆう
+Actor
+現に
+げんに
+Actually
+沢山
+たくさん
+A Lot
+建築家
+けんちくか
+Architect
+弁護士
+べんごし
+Attorney
+本棚
+ほんだな
+Bookcase
+新幹線
+しんかんせん
+Bullet Train
+出張
+しゅっちょう
+Business Trip
+バス停
+ばすてい
+Bus Stop
+戸棚
+とだな
+Cabinet
+崎
+さき
+Cape
+城
+しろ
+Castle
+更衣室
+こういしつ
+Changing Room
+委員会
+いいんかい
+Committee
+保守主義
+ほしゅしゅぎ
+Conservative
+鬼
+おに
+Demon
+脱線
+だっせん
+Derailment
+割り算
+わりざん
+Division
+医師
+いし
+Doctor
+住宅
+じゅうたく
+Dwelling
+経済的
+けいざいてき
+Economic
+経済学
+けいざいがく
+Economics
+作用
+さよう
+Effect
+有職
+ゆうしょく
+Employed
+施行
+しこう
+Enforcement
+羨ましい
+うらやましい
+Envious
+表現
+ひょうげん
+Expression
+反則
+はんそく
+Foul
+優しい
+やさしい
+Gentle
+公社
+こうしゃ
+Government Run Company
+指導
+しどう
+Guidance
+俳句
+はいく
+Haiku
+〜宅
+たく
+House
+収入
+しゅうにゅう
+Income
+施設
+しせつ
+Institution
+痒い
+かゆい
+Itchy
+求職
+きゅうしょく
+Job Hunting
+川崎
+かわさき
+Kawasaki
+法律
+ほうりつ
+Law
+皮革
+ひかく
+Leather
+革
+かわ
+Leather
+各駅停車
+かくえきていしゃ
+Local Train
+贅沢
+ぜいたく
+Luxury
+牛乳
+ぎゅうにゅう
+Milk
+長崎
+ながさき
+Nagasaki
+乳首
+ちくび
+Nipple
+看護師
+かんごし
+Nurse
+職業
+しょくぎょう
+Occupation
+自宅
+じたく
+One's Home
+楽天主義
+らくてんしゅぎ
+Optimism
+町外れ
+まちはずれ
+Outskirts Of Town
+上演
+じょうえん
+Performance
+演芸
+えんげい
+Performing Arts
+職員
+しょくいん
+Personnel
+法則
+ほうそく
+Physical Law
+職場
+しょくば
+Place Of Work
+停電
+ていでん
+Power Outage
+準備
+じゅんび
+Preparation
+現在
+げんざい
+Present
+優先
+ゆうせん
+Priority
+紫色
+むらさきいろ
+Purple
+紫
+むらさき
+Purple
+割合
+わりあい
+Ratio
+現実
+げんじつ
+Reality
+領収書
+りょうしゅうしょ
+Receipt
+評判
+ひょうばん
+Reputation
+辞職
+じしょく
+Resignation
+革命
+かくめい
+Revolution
+役割
+やくわり
+Role
+現場
+げんば
+Scene
+責任感
+せきにんかん
+Sense Of Responsibility
+棚
+たな
+Shelf
+雨戸
+あまど
+Shutter
+台詞
+せりふ
+Speech
+基準
+きじゅん
+Standard
+停止
+ていし
+Stoppage
+突然
+とつぜん
+Suddenly
+優秀
+ゆうしゅう
+Superior
+脱税
+だつぜい
+Tax Evasion
+教師
+きょうし
+Teacher
+一割
+いちわり
+Ten Percent
+現れる
+あらわれる
+To Appear
+加わる
+くわわる
+To Be Added To
+埋まる
+うまる
+To Be Buried
+建てる
+たてる
+To Build
+呼ぶ
+よぶ
+To Call
+確認する
+かくにんする
+To Confirm
+保護する
+ほごする
+To Conserve
+批判する
+ひはんする
+To Criticize
+断つ
+たつ
+To Cut Off
+割る
+わる
+To Divide
+選挙する
+せんきょする
+To Elect
+脱走する
+だっそうする
+To Escape
+秀でる
+ひいでる
+To Excel
+済ます
+すます
+To Finish Something
+収まる
+おさまる
+To Fit Inside
+混じる
+まじる
+To Get Mixed Up In
+降りる
+おりる
+To Get Off
+増やす
+ふやす
+To Increase Something
+裁く
+さばく
+To Judge
+心得る
+こころえる
+To Know
+導く
+みちびく
+To Lead
+演ずる
+えんずる
+To Perform
+備える
+そなえる
+To Provide
+挙げる
+あげる
+To Raise Something
+解く
+とく
+To Solve
+張る
+はる
+To Stretch Over Something
+理解する
+りかいする
+To Understand
+幹
+みき
+Tree Trunk
+裁判
+さいばん
+Trial
+節目
+ふしめ
+Turning Point
+了解
+りょうかい
+Understanding
+無職
+むしょく
+Unemployed
+吸血鬼
+きゅうけつき
+Vampire
+優勝
+ゆうしょう
+Victory
+素晴らしい
+すばらしい
+Wonderful
+Level 24
+上述
+じょうじゅつ
+Above Mentioned
+年額
+ねんがく
+Annual Amount
+触角
+しょっかく
+Antenna
+腕
+うで
+Arm
+誕生日
+たんじょうび
+Birthday
+輸血
+ゆけつ
+Blood Transfusion
+血管
+けっかん
+Blood Vessel
+両腕
+りょううで
+Both Arms
+境界
+きょうかい
+Boundary
+境
+さかい
+Boundary
+建物
+たてもの
+Building
+負担
+ふたん
+Burden
+可燃ゴミ
+かねんごみ
+Burnable Garbage
+特質
+とくしつ
+Characteristic
+子供
+こども
+Child
+親展
+しんてん
+Confidential
+対策
+たいさく
+Counter Plan
+違い
+ちがい
+Difference
+差別
+さべつ
+Discrimination
+環境
+かんきょう
+Environment
+本質
+ほんしつ
+Essence
+審査
+しんさ
+Examination
+輸出
+ゆしゅつ
+Export
+遠視
+えんし
+Farsightedness
+定額
+ていがく
+Fixed Amount
+定量
+ていりょう
+Fixed Quantity
+額
+がく
+Framed Picture
+燃料
+ねんりょう
+Fuel
+更に
+さらに
+Furthermore
+良質
+りょうしつ
+Good Quality
+官庁
+かんちょう
+Government Office
+半額
+はんがく
+Half Price
+高値
+たかね
+High Price
+自家製
+じかせい
+Homemade
+担当
+たんとう
+In Charge
+交差点
+こうさてん
+Intersection
+審判
+しんぱん
+Judgment
+多額
+たがく
+Large Amount
+大量
+たいりょう
+Large Quantity
+朝寝坊
+あさねぼう
+Late Riser
+〜層
+そう
+Layer Of
+左腕
+ひだりうで
+Left Arm
+長袖
+ながそで
+Long Sleeves
+安値
+やすね
+Low Price
+中国製
+ちゅうごくせい
+Made In China
+日本製
+にほんせい
+Made In Japan
+アメリカ製
+あめりかせい
+Made In Usa
+通販
+つうはん
+Mail Order
+管理
+かんり
+Management
+製作
+せいさく
+Manufacturing
+武道
+ぶどう
+Martial Arts
+品質
+ひんしつ
+Material Quality
+都庁
+とちょう
+Metropolitan Government Building
+警視庁
+けいしちょう
+Metropolitan Police Department
+型
+かた
+Model
+月額
+げつがく
+Monthly Amount
+一層
+いっそう
+Much More
+狭い
+せまい
+Narrow
+国境
+こっきょう
+National Border
+祝日
+しゅくじつ
+National Holiday
+警察庁
+けいさつちょう
+National Police Agency
+近視
+きんし
+Nearsightedness
+不燃ゴミ
+ふねんごみ
+Nonburnable Garbage
+提供
+ていきょう
+Offer
+営業中
+えいぎょうちゅう
+Open For Business
+過去形
+かこけい
+Past Tense
+現象
+げんしょう
+Phenomenon
+管
+くだ
+Pipe
+置き場
+おきば
+Place To Put Something
+値札
+ねふだ
+Price Tag
+製品
+せいひん
+Product
+原型
+げんけい
+Prototype
+質
+しつ
+Quality
+量
+りょう
+Quantity
+質問
+しつもん
+Question
+記載
+きさい
+Record
+所載
+しょさい
+Recorded
+残額
+ざんがく
+Remaining Amount
+応援団
+おうえんだん
+Rooting Section
+規律
+きりつ
+Rule
+規則
+きそく
+Rule
+販売
+はんばい
+Sales
+武士
+ぶし
+Samurai
+視覚
+しかく
+Sense Of Sight
+半袖
+はんそで
+Short Sleeves
+肩
+かた
+Shoulder
+株式
+かぶしき
+Stock
+株
+かぶ
+Stock
+主観的
+しゅかんてき
+Subjective
+対象
+たいしょう
+Target
+時差
+じさ
+Time Difference
+援助する
+えんじょする
+To Assist
+届く
+とどく
+To Be Delivered
+違う
+ちがう
+To Be Different
+載る
+のる
+To Be Placed On
+築く
+きずく
+To Build Something
+燃やす
+もやす
+To Burn Something
+担ぐ
+かつぐ
+To Carry
+祝う
+いわう
+To Celebrate
+発展する
+はってんする
+To Develop
+無視する
+むしする
+To Ignore
+供える
+そなえる
+To Make An Offering
+量る
+はかる
+To Measure
+述べる
+のべる
+To Mention
+過ぎ
+すぎ
+Too Much
+寝坊する
+ねぼうする
+To Oversleep
+指差す
+ゆびさす
+To Point At
+提案する
+ていあんする
+To Propose
+応援する
+おうえんする
+To Root For
+営業する
+えいぎょうする
+To Run A Business
+差す
+さす
+To Shine At
+突く
+つく
+To Stab
+支援する
+しえんする
+To Support
+全額
+ぜんがく
+Total
+触る
+さわる
+To Touch Something
+感触
+かんしょく
+Touch
+脱ぐ
+ぬぐ
+To Undress
+観光客
+かんこうきゃく
+Tourist
+展示会
+てんじかい
+Trade Show
+伝統的
+でんとうてき
+Traditional
+輸送
+ゆそう
+Transportation
+典型的
+てんけいてき
+Typical
+展開
+てんかい
+Unfolding
+価値観
+かちかん
+Values
+自動販売機
+じどうはんばいき
+Vending Machine
+副大統領
+ふくだいとうりょう
+Vice President
+腰
+こし
+Waist
+武器
+ぶき
+Weapon
+気象
+きしょう
+Weather
+木製
+もくせい
+Wooden
+腕時計
+うでどけい
+Wristwatch
+記述
+きじゅつ
+Writing Down
+Level 25
+絶対
+ぜったい
+Absolutely
+告訴
+こくそ
+Accusation
+現役
+げんえき
+Actively Working
+女優
+じょゆう
+Actress
+所属
+しょぞく
+Affiliation
+効果
+こうか
+An Effect
+逮捕
+たいほ
+Arrest
+票
+ひょう
+Ballot
+賞与金
+しょうよきん
+Bonus
+名刺
+めいし
+Business Card
+景況
+けいきょう
+Business Climate
+候補者
+こうほしゃ
+Candidate
+気候
+きこう
+Climate
+衣
+ころも
+Clothes
+構成
+こうせい
+Composition
+状況
+じょうきょう
+Condition
+涼しい
+すずしい
+Cool
+捜査
+そうさ
+Criminal Investigation
+習慣
+しゅうかん
+Custom
+期限
+きげん
+Deadline
+絶望
+ぜつぼう
+Despair
+割引
+わりびき
+Discount
+区分
+くぶん
+Division
+地
+ち
+Earth
+反響
+はんきょう
+Echo
+効率
+こうりつ
+Efficiency
+年配
+ねんぱい
+Elderly
+結構
+けっこう
+Fine
+防火
+ぼうか
+Fire Prevention
+上巻
+じょうかん
+First Volume
+まぐれ
+まぐれ
+Fluke
+〜毎に
+ごとに
+For Every
+新鮮
+しんせん
+Fresh
+鮮魚
+せんぎょ
+Fresh Fish
+満員
+まんいん
+Full House
+満月
+まんげつ
+Full Moon
+公用
+こうよう
+Government Business
+素直
+すなお
+Honest
+光栄
+こうえい
+Honor
+莫大
+ばくだい
+Huge
+含意
+がんい
+Implication
+無限
+むげん
+Infinite
+影響
+えいきょう
+Influence
+不規則
+ふきそく
+Irregularity
+後輩
+こうはい
+Junior
+下巻
+げかん
+Last Volume
+訴訟
+そしょう
+Lawsuit
+革ジャン
+かわじゃん
+Leather Jacket
+限界
+げんかい
+Limit
+肥料
+ひりょう
+Manure
+金属
+きんぞく
+Metal
+掛け算
+かけざん
+Multiplication
+絞殺
+こうさつ
+Murder By Strangling
+長崎県
+ながさきけん
+Nagasaki Prefecture
+肥満
+ひまん
+Obesity
+岡山城
+おかやまじょう
+Okayama Castle
+一巻
+いっかん
+One Volume
+模様
+もよう
+Pattern
+減給
+げんきゅう
+Pay Cut
+満点
+まんてん
+Perfect Score
+模型
+もけい
+Plastic Model
+豊満
+ほうまん
+Plump
+受領書
+じゅりょうしょ
+Receipt
+不況
+ふきょう
+Recession
+規則正しい
+きそくただしい
+Regular
+隠居
+いんきょ
+Retirement
+革命家
+かくめいか
+Revolutionary
+豊か
+ゆたか
+Rich
+給料
+きゅうりょう
+Salary
+満足
+まんぞく
+Satisfied
+光景
+こうけい
+Scene
+景色
+けしき
+Scenery
+時候
+じこう
+Seasonal Climate
+二巻
+にかん
+Second Volume
+先輩
+せんぱい
+Senior
+影
+かげ
+Shadow
+肩こり
+かたこり
+Shoulder Stiffness
+天候
+てんこう
+The Weather
+吸収する
+きゅうしゅうする
+To Absorb
+建つ
+たつ
+To Be Built
+呼ばれる
+よばれる
+To Be Called
+捕まる
+つかまる
+To Be Caught
+慣れる
+なれる
+To Become Accustomed To
+割れる
+われる
+To Be Divided
+効く
+きく
+To Be Effective
+係わる
+かかわる
+To Be Involved
+構う
+かまう
+To Care About
+捉える
+とらえる
+To Catch
+渡る
+わたる
+To Cross
+響く
+ひびく
+To Echo
+居る
+いる
+To Exist
+掛ける
+かける
+To Hang Something
+隠す
+かくす
+To Hide Something
+含む
+ふくむ
+To Include
+増す
+ます
+To Increase
+限る
+かぎる
+To Limit
+見渡す
+みわたす
+To Look Out Over
+今更
+いまさら
+Too Late
+頑張る
+がんばる
+To Persevere
+準備する
+じゅんびする
+To Prepare
+抜く
+ぬく
+To Pull Something Out
+問う
+とう
+To Question Something
+替える
+かえる
+To Replace
+巻く
+まく
+To Roll
+捜す
+さがす
+To Search For
+現す
+あらわす
+To Show
+収める
+おさめる
+To Store
+絞める
+しめる
+To Strangle
+訴える
+うったえる
+To Sue
+補う
+おぎなう
+To Supplement
+優れる
+すぐれる
+To Surpass
+降ろす
+おろす
+To Take Down
+投票する
+とうひょうする
+To Vote
+絞る
+しぼる
+To Wring Out
+家庭教師
+かていきょうし
+Tutor
+鮮やか
+あざやか
+Vivid
+防水
+ぼうすい
+Waterproof
+人狼
+じんろう
+Werewolf
+Level 26
+事故
+じこ
+Accident
+針医
+はりい
+Acupuncturist
+再度
+さいど
+Again
+独り
+ひとり
+Alone
+間違い
+まちがい
+A Mistake
+獣
+けもの
+Beast
+獣類
+じゅうるい
+Beasts
+大違い
+おおちがい
+Big Difference
+酒造
+しゅぞう
+Brewing
+運河
+うんが
+Canal
+お祝い
+おいわい
+Celebration
+特徴
+とくちょう
+Characteristic
+比較
+ひかく
+Comparison
+株式会社
+かぶしきがいしゃ
+Corporation
+気違い
+きちがい
+Crazy
+創造
+そうぞう
+Creation
+討論
+とうろん
+Debate
+独裁
+どくさい
+Dictatorship
+直接
+ちょくせつ
+Direct
+障害
+しょうがい
+Disability
+創立
+そうりつ
+Establishment
+第一印象
+だいいちいんしょう
+First Impression
+占い
+うらない
+Fortune Telling
+万年筆
+まんねんひつ
+Fountain Pen
+河豚
+ふぐ
+Fugu
+怪談
+かいだん
+Ghost Story
+怪獣
+かいじゅう
+Giant Monster
+氷河
+ひょうが
+Glacier
+お誕生日おめでとう
+おたんじょうびおめでとう
+Happy Birthday
+我
+われ
+I
+輸入
+ゆにゅう
+Import
+独立
+どくりつ
+Independence
+人差し指
+ひとさしゆび
+Index Finger
+間接
+かんせつ
+Indirect
+激しい
+はげしい
+Intense
+故意
+こい
+Intentional
+面接
+めんせつ
+Interview
+河童
+かっぱ
+Kappa
+造園
+ぞうえん
+Landscape Gardening
+鉛
+なまり
+Lead
+鉛管
+えんかん
+Lead Pipe
+鉛毒
+えんどく
+Lead Toxicity
+授業
+じゅぎょう
+Lesson
+限定
+げんてい
+Limit
+郵便
+ゆうびん
+Mail
+故障
+こしょう
+Malfunction
+人造
+じんぞう
+Man Made
+製造
+せいぞう
+Manufacturing
+印
+しるし
+Mark
+読み違い
+よみちがい
+Misreading
+人違い
+ひとちがい
+Mistaken Identity
+独占
+どくせん
+Monopoly
+怪物
+かいぶつ
+Monster
+従順
+じゅうじゅん
+Obedient
+鉛筆
+えんぴつ
+Pencil
+故
+ゆえ
+Reason
+回復
+かいふく
+Recovery
+改造
+かいぞう
+Remodeling
+再開
+さいかい
+Reopening
+復習
+ふくしゅう
+Review
+右腕
+みぎうで
+Right Arm
+河
+かわ
+River
+往復
+おうふく
+Round Trip
+給与
+きゅうよ
+Salary
+貯金
+ちょきん
+Savings
+規模
+きぼ
+Scale
+秒針
+びょうしん
+Second Hand
+保障
+ほしょう
+Security
+無我
+むが
+Selflessness
+独学
+どくがく
+Self Study
+障子
+しょうじ
+Shoji Screen
+独身
+どくしん
+Single
+お菓子
+おかし
+Snack Foods
+絶景
+ぜっけい
+Spectacular View
+刺激
+しげき
+Stimulation
+株式市場
+かぶしきしじょう
+Stock Market
+怪事件
+かいじけん
+Strange Mystery
+激励
+げきれい
+Strong Encouragement
+構造
+こうぞう
+Structure
+管理人
+かんりにん
+Superintendent
+怪しい
+あやしい
+Suspicious
+汗
+あせ
+Sweat
+汗臭い
+あせくさい
+Sweaty Smelling
+象徴
+しょうちょう
+Symbol
+教授
+きょうじゅ
+Teaching
+替わる
+かわる
+To Be Replaced
+燃える
+もえる
+To Burn
+燃え付く
+もえつく
+To Catch Fire
+造る
+つくる
+To Construct
+涼む
+すずむ
+To Cool Oneself
+届ける
+とどける
+To Deliver
+差別する
+さべつする
+To Discriminate
+励ます
+はげます
+To Encourage Someone
+任せる
+まかせる
+To Entrust Something
+検討する
+けんとうする
+To Examine
+輸出する
+ゆしゅつする
+To Export
+栄える
+さかえる
+To Flourish
+差し上げる
+さしあげる
+To Give
+渡す
+わたす
+To Hand Over
+障る
+さわる
+To Irritate
+狭める
+せばめる
+To Narrow Something
+従う
+したがう
+To Obey
+占める
+しめる
+To Occupy
+過ごす
+すごす
+To Pass Time
+載せる
+のせる
+To Place On Something
+振る
+ふる
+To Shake Something
+担う
+になう
+To Take Responsibility
+触れる
+ふれる
+To Touch
+独特
+どくとく
+Unique
+従来
+じゅうらい
+Up To Now
+自販機
+じはんき
+Vending Machine
+獣医
+じゅうい
+Veterinarian
+振動
+しんどう
+Vibration
+違反
+いはん
+Violation
+気象庁
+きしょうちょう
+Weather Agency
+何故
+なぜ
+Why
+野獣
+やじゅう
+Wild Beast
+筆
+ふで
+Writing Brush
+Level 27
+健忘症
+けんぼうしょう
+Amnesia
+南極
+なんきょく
+Antarctica
+取り決め
+とりきめ
+Arrangement
+訪問
+ほうもん
+A Visit
+悩み
+なやみ
+A Worry
+悪影響
+あくえいきょう
+Bad Influence
+野郎
+やろう
+Bastard
+腹
+はら
+Belly
+退屈
+たいくつ
+Boring
+両替
+りょうがえ
+Change Money
+着替え
+きがえ
+Change Of Clothes
+手掛かり
+てがかり
+Clue
+腰抜け
+こしぬけ
+Coward
+濃い
+こい
+Dense
+濃度
+のうど
+Density
+お構いなく
+おかまいなく
+Don't Mind Me
+頑張れ
+がんばれ
+Do Your Best
+端
+はし
+Edge
+効果的
+こうかてき
+Effective
+年輩
+ねんぱい
+Elderly Person
+限定販売
+げんていはんばい
+Exclusive Sale
+極端
+きょくたん
+Extreme
+就職
+しゅうしょく
+Finding Employment
+栄光
+えいこう
+Glory
+段々
+だんだん
+Gradually
+中途半端
+ちゅうとはんぱ
+Half Finished
+頭痛
+ずつう
+Headache
+健康
+けんこう
+Health
+間抜け
+まぬけ
+Idiot
+不眠症
+ふみんしょう
+Insomnia
+居酒屋
+いざかや
+Izakaya
+昇進
+しょうしん
+Job Promotion
+景観
+けいかん
+Landscape
+大規模
+だいきぼ
+Large Scale
+早退
+そうたい
+Leave Early
+お任せ
+おまかせ
+Leaving Decisions To Someone Else
+居間
+いま
+Living Room
+理屈
+りくつ
+Logic
+迷子
+まいご
+Lost Child
+迷路
+めいろ
+Maze
+再来月
+さらいげつ
+Month After Next
+結構です
+けっこうです
+No Thank You
+客観的
+きゃっかんてき
+Objective
+途中
+とちゅう
+On The Way
+組織
+そしき
+Organization
+痛い
+いたい
+Painful
+昇給
+しょうきゅう
+Pay Raise
+迫害
+はくがい
+Persecution
+支度
+したく
+Preparation
+圧迫
+あっぱく
+Pressure
+値段
+ねだん
+Price
+貸し切り
+かしきり
+Private Reservation
+建前
+たてまえ
+Public Behavior
+長靴
+ながぐつ
+Rain Boots
+引退
+いんたい
+Retiring
+巻きずし
+まきずし
+Rolled Sushi
+誘惑
+ゆうわく
+Seduction
+切腹
+せっぷく
+Seppuku
+靴
+くつ
+Shoes
+靴屋
+くつや
+Shoe Store
+睡眠
+すいみん
+Sleep
+眠い
+ねむい
+Sleepy
+小規模
+しょうきぼ
+Small Scale
+靴下
+くつした
+Socks
+暇
+ひま
+Spare Time
+春巻き
+はるまき
+Spring Rolls
+段階
+だんかい
+Stage
+階段
+かいだん
+Stairs
+胃
+い
+Stomach
+胃痛
+いつう
+Stomachache
+迷信
+めいしん
+Superstition
+供給
+きょうきゅう
+Supply
+症状
+しょうじょう
+Symptom
+〜症
+しょう
+Syndrome
+第一段
+だいいちだん
+The First Step
+先端
+せんたん
+Tip
+逮捕する
+たいほする
+To Arrest
+従える
+したがえる
+To Be Accompanied By
+退院する
+たいいんする
+To Be Discharged
+隠れる
+かくれる
+To Be Hidden
+掛かる
+かかる
+To Be Hung
+属する
+ぞくする
+To Belong To
+屈む
+かがむ
+To Bend Down
+捕える
+とらえる
+To Capture Something
+抜ける
+ぬける
+To Come Out
+比較する
+ひかくする
+To Compare
+締結する
+ていけつする
+To Conclude
+怒る
+おこる
+To Get Angry
+迷う
+まよう
+To Get Lost
+与える
+あたえる
+To Give
+手渡す
+てわたす
+To Hand Over
+招待する
+しょうたいする
+To Invite
+貸す
+かす
+To Lend
+憧れる
+あこがれる
+To Long For
+抜き出す
+ぬきだす
+To Pull Something Out
+取り替える
+とりかえる
+To Replace
+応える
+こたえる
+To Respond To
+隠居する
+いんきょする
+To Retire
+見抜く
+みぬく
+To See Something's True Nature
+費やす
+ついやす
+To Spend
+締める
+しめる
+To Tighten
+迫る
+せまる
+To Urge
+訪ねる
+たずねる
+To Visit
+織る
+おる
+To Weave
+悩む
+なやむ
+To Worry
+怒鳴る
+どなる
+To Yell
+迷惑
+めいわく
+Trouble
+究極
+きゅうきょく
+Ultimate
+統一
+とういつ
+Unity
+残品
+ざんぴん
+Unsold Merchandise
+切迫
+せっぱく
+Urgency
+休暇
+きゅうか
+Vacation
+就業
+しゅうぎょう
+Working
+再来年
+さらいねん
+Year After Next
+浴衣
+ゆかた
+Yukata
+Level 28
+進撃
+しんげき
+Advance
+前売り券
+まえうりけん
+Advance Ticket
+再び
+ふたたび
+Again
+巨人
+きょじん
+A Giant
+軍隊
+ぐんたい
+Army
+矢印
+やじるし
+Arrow
+金庫
+きんこ
+A Safe
+星占い
+ほしうらない
+Astrology
+攻撃
+こうげき
+Attack
+浜
+はま
+Beach
+浜辺
+はまべ
+Beach
+何故なら
+なぜなら
+Because
+有益
+ゆうえき
+Beneficial
+大間違い
+おおまちがい
+Big Mistake
+身振り
+みぶり
+Body Language
+沼
+ぬま
+Bog
+回数券
+かいすうけん
+Book Of Tickets
+お菓子屋
+おかしや
+Candy Store
+幼年時代
+ようねんじだい
+Childhood
+幼稚
+ようち
+Childish
+児童
+じどう
+Children
+清潔
+せいけつ
+Clean
+冷たい
+つめたい
+Cold
+比較的
+ひかくてき
+Comparatively
+全景
+ぜんけい
+Complete View
+憲法
+けんぽう
+Constitution
+憲政
+けんせい
+Constitutional Government
+冷静
+れいせい
+Cool Headed
+反攻
+はんこう
+Counterattack
+従兄弟
+いとこ
+Cousin
+創造的
+そうぞうてき
+Creative
+創造力
+そうぞうりょく
+Creative Power
+規準
+きじゅん
+Criterion
+処理
+しょり
+Deal With
+程度
+ていど
+Degree
+直接的
+ちょくせつてき
+Directly
+処分
+しょぶん
+Disposal
+入隊
+にゅうたい
+Enlist In The Army
+程
+ほど
+Extent
+不潔
+ふけつ
+Filthy
+前景
+ぜんけい
+Foreground
+冷凍庫
+れいとうこ
+Freezer
+凍死
+とうし
+Freeze To Death
+凍結
+とうけつ
+Freezing
+振り仮名
+ふりがな
+Furigana
+博打
+ばくち
+Gambling
+車庫
+しゃこ
+Garage
+大衆
+たいしゅう
+General Public
+潔い
+いさぎよい
+Honorable
+家政婦
+かせいふ
+Housekeeper
+衆議院
+しゅうぎいん
+House Of Representatives
+主婦
+しゅふ
+Housewife
+巨大
+きょだい
+Huge
+夫婦
+ふうふ
+Husband And Wife
+移民
+いみん
+Immigration
+並行
+へいこう
+In Parallel
+婦人
+ふじん
+Lady
+限度
+げんど
+Limit
+郵便箱
+ゆうびんばこ
+Mailbox
+専攻
+せんこう
+Major
+沼地
+ぬまち
+Marshland
+修士
+しゅうし
+Master's Degree
+微生物
+びせいぶつ
+Microorganism
+移住
+いじゅう
+Migration
+移動
+いどう
+Movement
+博物館
+はくぶつかん
+Museum
+国益
+こくえき
+National Interests
+微妙
+びみょう
+Not So Good
+未だ
+いまだ
+Not Yet
+逆効果
+ぎゃくこうか
+Opposite Effect
+並
+なみ
+Ordinary
+逆説
+ぎゃくせつ
+Paradox
+並列
+へいれつ
+Parallel
+旅券
+りょけん
+Passport
+妙
+みょう
+Peculiar
+郵便番号
+ゆうびんばんごう
+Post Number
+郵便局
+ゆうびんきょく
+Post Office
+精度
+せいど
+Precision
+綺麗
+きれい
+Pretty
+過程
+かてい
+Process
+利益
+りえき
+Profit
+公益
+こうえき
+Public Benefit
+清い
+きよい
+Pure
+記録
+きろく
+Record
+登録
+とうろく
+Registration
+修理
+しゅうり
+Repair
+逆
+ぎゃく
+Reverse
+修辞学
+しゅうじがく
+Rhetoric
+貯金箱
+ちょきんばこ
+Savings Box
+日程
+にってい
+Schedule
+兵隊
+へいたい
+Soldier
+録音
+ろくおん
+Sound Recording
+精神
+せいしん
+Spirit
+〜隊
+たい
+Squad
+庫
+くら
+Storehouse
+独り言
+ひとりごと
+Talking To Yourself
+解凍
+かいとう
+Thawing
+故に
+ゆえに
+Therefore
+券
+けん
+Ticket
+攻める
+せめる
+To Attack
+招く
+まねく
+To Beckon
+揃う
+そろう
+To Be Complete
+痛む
+いたむ
+To Be Painful
+絶つ
+たつ
+To Break Off Contact
+幼児
+ようじ
+Toddler
+降る
+ふる
+To Fall
+凍る
+こおる
+To Freeze
+逆らう
+さからう
+To Go Against
+輸入する
+ゆにゅうする
+To Import
+面接する
+めんせつする
+To Interview With
+並ぶ
+ならぶ
+To Line Up
+間違える
+まちがえる
+To Make A Mistake
+極める
+きわめる
+To Reach The Peak Of Something
+回復する
+かいふくする
+To Recover
+退く
+しりぞく
+To Retreat
+誘惑する
+ゆうわくする
+To Seduce
+移す
+うつす
+To Shift
+撃つ
+うつ
+To Shoot
+無我夢中
+むがむちゅう
+Total Absorption
+研修
+けんしゅう
+Training
+傘
+かさ
+Umbrella
+傘立て
+かさたて
+Umbrella Stand
+幼い
+おさない
+Very Young
+我々
+われわれ
+We
+再来週
+さらいしゅう
+Week After Next
+針金
+はりがね
+Wire
+妙薬
+みょうやく
+Wonder Drug
+憧れ
+あこがれ
+Yearning
+横浜
+よこはま
+Yokohama
+Level 29
+省略
+しょうりゃく
+Abbreviation
+略語
+りゃくご
+Abbreviation
+怒り
+いかり
+Anger
+怒気
+どき
+Anger
+痛み
+いたみ
+A Pain
+申請
+しんせい
+Application
+面積
+めんせき
+Area
+添付
+てんぷ
+Attachment
+航空
+こうくう
+Aviation
+宴
+うたげ
+Banquet
+宴会
+えんかい
+Banquet
+招き猫
+まねきねこ
+Beckoning Cat
+お腹
+おなか
+Belly
+黒板
+こくばん
+Blackboard
+板
+いた
+Board
+大略
+たいりゃく
+Broad Outline
+官僚
+かんりょう
+Bureaucrat
+閣議
+かくぎ
+Cabinet Meeting
+閣僚
+かくりょう
+Cabinet Ministers
+中欧
+ちゅうおう
+Central Europe
+倒壊
+とうかい
+Collapse
+同僚
+どうりょう
+Colleague
+全壊
+ぜんかい
+Complete Destruction
+寄与
+きよ
+Contribution
+好奇心
+こうきしん
+Curiosity
+娘
+むすめ
+Daughter
+締切
+しめきり
+Deadline
+請求
+せいきゅう
+Demand
+診断
+しんだん
+Diagnosis
+寄付
+きふ
+Donation
+乾季
+かんき
+Dry Season
+江戸
+えど
+Edo
+効力
+こうりょく
+Effectiveness
+玄関
+げんかん
+Entranceway
+欧米
+おうべい
+Europe And America
+極めて
+きわめて
+Extremely
+熱烈
+ねつれつ
+Fervent
+猛烈
+もうれつ
+Fierce
+猛〜
+もう
+Fierce
+腹切り
+はらきり
+Harakiri
+英雄
+えいゆう
+Hero
+迷い
+まよい
+Hesitation
+主催
+しゅさい
+Host
+腹が減った
+はらがへった
+Hungry
+索引
+さくいん
+Index
+入り江
+いりえ
+Inlet
+日欧
+にちおう
+Japan And Europe
+日韓
+にっかん
+Japan And South Korea
+乾杯
+かんぱい
+Kanpai
+検索
+けんさく
+Lookup
+街道
+かいどう
+Main Road
+診察
+しんさつ
+Medical Exam
+大臣
+だいじん
+Minister
+居眠り
+いねむり
+Nap
+航法
+こうほう
+Navigation
+直航
+ちょっこう
+Nonstop Flight
+催告
+さいこく
+Notice
+監視
+かんし
+Observation
+奇数
+きすう
+Odd Number
+一杯
+いっぱい
+One Cup
+一人娘
+ひとりむすめ
+Only Daughter
+痛み止め
+いたみどめ
+Painkiller
+乗車券
+じょうしゃけん
+Passenger Ticket
+恐怖症
+きょうふしょう
+Phobia
+激怒
+げきど
+Rage
+再建
+さいけん
+Rebuilding
+宗教
+しゅうきょう
+Religion
+貸し〜
+かし
+Rental
+略図
+りゃくず
+Rough Diagram
+怖い
+こわい
+Scary
+捜索
+そうさく
+Search
+宗派
+しゅうは
+Sect
+商店街
+しょうてんがい
+Shopping Street
+看板
+かんばん
+Signboard
+睡眠薬
+すいみんやく
+Sleeping Pills
+眠り薬
+ねむりぐすり
+Sleeping Potion
+勧誘
+かんゆう
+Solicitation
+韓国
+かんこく
+South Korea
+迷惑メール
+めいわくめーる
+Spam
+奇妙
+きみょう
+Strange
+緊張
+きんちょう
+Stress
+監督
+かんとく
+Supervision
+恐ろしい
+おそろしい
+Terrifying
+恐怖
+きょうふ
+Terror
+織物
+おりもの
+Textile
+三杯
+さんばい
+Three Cups
+略す
+りゃくす
+To Abbreviate
+積もる
+つもる
+To Accumulate
+添える
+そえる
+To Add Something To
+怒らせる
+おこらせる
+To Anger Someone
+昇る
+のぼる
+To Ascend
+壊す
+こわす
+To Break Something
+寄る
+よる
+To Draw Near
+任す
+まかす
+To Entrust Something
+診る
+みる
+To Examine A Patient
+就く
+つく
+To Get A Position
+乾く
+かわく
+To Get Dry
+道に迷う
+みちにまよう
+To Get Lost
+腹立つ
+はらだつ
+To Get Mad
+見極める
+みきわめる
+To Get To The Bottom Of
+相次ぐ
+あいつぐ
+To Happen Successively
+誘う
+さそう
+To Invite
+豚カツ
+とんかつ
+Tonkatsu
+勧める
+すすめる
+To Recommend
+構える
+かまえる
+To Set Up
+眠る
+ねむる
+To Sleep
+詰める
+つめる
+To Stuff In
+請ける
+うける
+To Take
+締まる
+しまる
+To Tighten
+促す
+うながす
+To Urge
+訪れる
+おとずれる
+To Visit
+二杯
+にはい
+Two Cups
+不健康
+ふけんこう
+Unhealthy
+玄米
+げんまい
+Unpolished Rice
+催促
+さいそく
+Urge
+緊急
+きんきゅう
+Urgent
+強烈
+きょうれつ
+Very Strong
+体積
+たいせき
+Volume
+禅宗
+ぜんしゅう
+Zen Sect
+Level 30
+浮気
+うわき
+Affair
+先程
+さきほど
+A Little While Ago
+魅力
+みりょく
+Allure
+一覧
+いちらん
+A Look
+遊園地
+ゆうえんち
+Amusement Park
+適当
+てきとう
+Appropriate
+服飾
+ふくしょく
+Attire
+背景
+はいけい
+Background
+背後
+はいご
+Background
+預金
+よきん
+Bank Deposit
+バイキング
+バイキング
+Buffet
+官僚的
+かんりょうてき
+Bureaucratic
+強盗
+ごうとう
+Burglary
+版権
+はんけん
+Copyright
+電飾
+でんしょく
+Decorative Lighting
+微か
+かすか
+Delicate
+電気柵
+でんきさく
+Electric Fence
+移住者
+いじゅうしゃ
+Emigrant
+博覧会
+はくらんかい
+Exposition
+柵
+さく
+Fence
+初版
+しょはん
+First Edition
+旗
+はた
+Flag
+背
+せ
+Height
+快速
+かいそく
+High Speed
+新婚旅行
+しんこんりょこう
+Honeymoon
+照明
+しょうめい
+Illumination
+鉄柵
+てっさく
+Iron Fence
+鉄板
+てっぱん
+Iron Plate
+成程
+なるほど
+I See
+日系
+にっけい
+Japanese Descent
+幼稚園
+ようちえん
+Kindergarten
+欠乏
+けつぼう
+Lack
+漏出
+ろうしゅつ
+Leak
+ご覧
+ごらん
+Look At
+結婚
+けっこん
+Marriage
+求婚
+きゅうこん
+Marriage Proposal
+精神的
+せいしんてき
+Mental
+精神病
+せいしんびょう
+Mental Illness
+国旗
+こっき
+National Flag
+騒音
+そうおん
+Noise
+懐かしい
+なつかしい
+Nostalgic
+我が〜
+わが
+Our
+越権
+えっけん
+Overstepping Your Authority
+主
+ぬし
+Owner
+撮影
+さつえい
+Photography
+枕
+まくら
+Pillow
+盗作
+とうさく
+Plagiarism
+快い
+こころよい
+Pleasant
+快適
+かいてき
+Pleasant
+快楽
+かいらく
+Pleasure
+快感
+かいかん
+Pleasure
+貧しい
+まずしい
+Poor
+貧乏
+びんぼう
+Poor
+総理
+そうり
+Prime Minister
+総理大臣
+そうりだいじん
+Prime Minister
+延長
+えんちょう
+Prolonging
+程よく
+ほどよく
+Properly
+出版
+しゅっぱん
+Publishing
+購入
+こうにゅう
+Purchase
+購買
+こうばい
+Purchasing
+押し
+おし
+Push
+更生
+こうせい
+Rehabilitation
+乏しい
+とぼしい
+Scarce
+盗撮
+とうさつ
+Secret Photography
+太陽系
+たいようけい
+Solar System
+構え
+かまえ
+Stance
+盗品
+とうひん
+Stolen Goods
+購読
+こうどく
+Subscription
+体系的
+たいけいてき
+Systematic
+翌日
+よくじつ
+The Next Day
+翌月
+よくげつ
+The Next Month
+翌朝
+よくあさ
+The Next Morning
+翌年
+よくねん
+The Next Year
+切符
+きっぷ
+Ticket
+揃える
+そろえる
+To Arrange Something
+攻撃する
+こうげきする
+To Attack
+渇く
+かわく
+To Become Thirsty
+怖がる
+こわがる
+To Be Scared
+移る
+うつる
+To Be Shifted
+詰まる
+つまる
+To Be Stuffed
+冷やす
+ひやす
+To Chill Something
+飾る
+かざる
+To Decorate
+預ける
+あずける
+To Deposit
+診断する
+しんだんする
+To Diagnose
+絶える
+たえる
+To Die Out
+照れる
+てれる
+To Feel Shy
+浮く
+うく
+To Float
+埋もれる
+うもれる
+To Get Buried
+越える
+こえる
+To Go Beyond
+押さえる
+おさえる
+To Hold Something Down
+痛める
+いためる
+To Injure Something
+漏れる
+もれる
+To Leak
+並べる
+ならべる
+To Line Something Up
+騒ぐ
+さわぐ
+To Make Noise
+寄せる
+よせる
+To Move Something Close To
+豚骨ラーメン
+とんこつらーめん
+Tonkotsu Ramen
+遊ぶ
+あそぶ
+To Play
+延期する
+えんきする
+To Postpone
+延ばす
+のばす
+To Prolong Something
+押す
+おす
+To Push
+登録する
+とうろくする
+To Register
+退ける
+しりぞける
+To Repel Something
+匂う
+におう
+To Smell
+盗む
+ぬすむ
+To Steal
+撮る
+とる
+To Take A Picture
+濡らす
+ぬらす
+To Wet
+研修生
+けんしゅうせい
+Trainee
+処置
+しょち
+Treatment
+〜系
+けい
+Type
+浮世絵
+うきよえ
+Ukiyo E
+未婚
+みこん
+Unmarried
+不快
+ふかい
+Unpleasant
+不適
+ふてき
+Unsuitable
+逆さま
+さかさま
+Upside Down
+節々
+ふしぶし
+Various Joints
+観覧
+かんらん
+Viewing
+漏水
+ろうすい
+Water Leakage
+精一杯
+せいいっぱい
+With All One's Might
+豊富
+ほうふ
+Abundant
+探究
+たんきゅう
+Academic Inquiry
+驚嘆
+きょうたん
+Admiration
+航空券
+こうくうけん
+Airplane Ticket
+既に
+すでに
+Already
+救急車
+きゅうきゅうしゃ
+Ambulance
+鑑定
+かんてい
+Appraisal
+散歩
+さんぽ
+A Stroll
+平均
+へいきん
+Average
+ハチの巣
+はちのす
+Beehive
+用心棒
+ようじんぼう
+Bodyguard
+墓地
+ぼち
+Cemetery
+中華
+ちゅうか
+Chinese
+掃除
+そうじ
+Cleaning
+大陸
+たいりく
+Continent
+廊下
+ろうか
+Corridor
+通貨
+つうか
+Currency
+既決
+きけつ
+Decided
+子孫
+しそん
+Descendant
+直径
+ちょっけい
+Diameter
+解散
+かいさん
+Dissolution
+離婚
+りこん
+Divorce
+編集
+へんしゅう
+Edit
+編者
+へんしゃ
+Editor
+均等
+きんとう
+Equality
+除外
+じょがい
+Exception
+感嘆符
+かんたんふ
+Exclamation Mark
+既存
+きそん
+Existing
+恐れ
+おそれ
+Fear
+融資
+ゆうし
+Financing
+華道
+かどう
+Flower Arrangement
+壊れ物
+こわれもの
+Fragile Thing
+貨物
+かもつ
+Freight
+融合
+ゆうごう
+Fusion
+華美
+かび
+Gaudy
+幾何学
+きかがく
+Geometry
+孫
+まご
+Grandchild
+墓
+はか
+Grave
+花粉症
+かふんしょう
+Hay Fever
+幾つ
+いくつ
+How Many
+幾度
+いくど
+How Many Times
+幾ら
+いくら
+How Much
+尋問
+じんもん
+Interrogation
+陸軍
+りくぐん
+Land Army
+巣立ち
+すだち
+Leave The Nest
+豪華
+ごうか
+Luxurious
+雄
+おす
+Male
+雄犬
+おすいぬ
+Male Dog
+外務大臣
+がいむだいじん
+Minister Of Foreign Affairs
+道徳
+どうとく
+Morals
+山脈
+さんみゃく
+Mountain Range
+富士山
+ふじさん
+Mt Fuji
+泥
+どろ
+Mud
+泥水
+どろみず
+Muddy Water
+巣
+す
+Nest
+普通
+ふつう
+Normal
+帯
+おび
+Obi
+妨害
+ぼうがい
+Obstruction
+我が国
+わがくに
+Our Country
+画廊
+がろう
+Picture Gallery
+棒
+ぼう
+Pole
+粉
+こな
+Powder
+粉状
+ふんじょう
+Powdered
+探偵
+たんてい
+Private Detective
+恐らく
+おそらく
+Probably
+半径
+はんけい
+Radius
+内偵
+ないてい
+Scouting
+印鑑
+いんかん
+Seal
+分離
+ぶんり
+Separation
+華やか
+はなやか
+Showy
+嘆息
+たんそく
+Sigh
+クモの巣
+くものす
+Spiderweb
+倉
+くら
+Storehouse
+鼻詰まり
+はなづまり
+Stuffy Nose
+均整
+きんせい
+Symmetry
+壊れる
+こわれる
+To Be Broken
+延びる
+のびる
+To Be Extended
+富む
+とむ
+To Be Rich In
+散る
+ちる
+To Be Scattered
+驚く
+おどろく
+To Be Surprised
+思い詰める
+おもいつめる
+To Brood
+除く
+のぞく
+To Exclude
+恐れる
+おそれる
+To Fear
+照らす
+てらす
+To Illuminate
+尋ねる
+たずねる
+To Inquire
+絶やす
+たやす
+To Kill Off
+編む
+あむ
+To Knit
+徳川
+とくがわ
+Tokugawa
+徳島県
+とくしまけん
+Tokushima Prefecture
+嘆く
+なげく
+To Lament
+迷わす
+まよわす
+To Lead Astray
+探す
+さがす
+To Look For
+積む
+つむ
+To Pile Things Up
+救う
+すくう
+To Rescue
+似る
+にる
+To Resemble
+離れる
+はなれる
+To Separate
+主催する
+しゅさいする
+To Sponsor
+見詰める
+みつめる
+To Stare At
+緊張する
+きんちょうする
+To Stress
+掃く
+はく
+To Sweep
+催促する
+さいそくする
+To Urge
+地下街
+ちかがい
+Underground Shopping Mall
+普段
+ふだん
+Usual
+野菜
+やさい
+Vegetable
+菜食
+さいしょく
+Vegetarian Diet
+倉庫
+そうこ
+Warehouse
+富
+とみ
+Wealth
+富裕
+ふゆう
+Wealthy
+地帯
+ちたい
+Zone
+Level 32
+功績
+こうせき
+Achievement
+賛成
+さんせい
+Agreement
+志
+こころざし
+Ambition
+先祖
+せんぞ
+Ancestors
+食欲
+しょくよく
+Appetite
+恩人
+おんじん
+Benefactor
+血液
+けつえき
+Blood
+ゆで卵
+ゆでたまご
+Boiled Egg
+火傷
+やけど
+Burn
+背広
+せびろ
+Business Suit
+肉欲
+にくよく
+Carnal Desires
+桜んぼ
+さくらんぼ
+Cherry
+大騒ぎ
+おおさわぎ
+Clamor
+押入れ
+おしいれ
+Closet
+銭
+ぜに
+Coin
+共産党
+きょうさんとう
+Communist Party
+複雑
+ふくざつ
+Complicated
+便秘
+べんぴ
+Constipation
+伝染病
+でんせんびょう
+Contagious Disease
+複写
+ふくしゃ
+Copying
+飾り
+かざり
+Decoration
+志望
+しぼう
+Desire
+机
+つくえ
+Desk
+汚水
+おすい
+Dirty Water
+卵
+たまご
+Egg
+英訳
+えいやく
+English Translation
+眼
+め
+Eye
+眼球
+がんきゅう
+Eyeball
+老眼
+ろうがん
+Farsightedness
+永久
+えいきゅう
+Forever
+永遠
+えいえん
+Forever
+成績
+せいせき
+Grades
+祖父
+そふ
+Grandfather
+祖母
+そぼ
+Grandmother
+傷心
+しょうしん
+Heartbreak
+桜肉
+さくらにく
+Horse Meat
+衛生
+えいせい
+Hygiene
+感染
+かんせん
+Infection
+傷者
+しょうしゃ
+Injured Person
+興味
+きょうみ
+Interest
+通訳
+つうやく
+Interpreting
+和訳
+わやく
+Japanese Translation
+自民党
+じみんとう
+Liberal Democratic Party
+液体
+えきたい
+Liquid
+久しい
+ひさしい
+Long Ago
+結婚式
+けっこんしき
+Marriage Ceremony
+雑費
+ざっぴ
+Miscellaneous Expenses
+複数
+ふくすう
+Multiple
+雑音
+ざつおん
+Noise
+撮影禁止
+さつえいきんし
+No Photos
+背中
+せなか
+One's Back
+酸素
+さんそ
+Oxygen
+党員
+とういん
+Party Member
+人脈
+じんみゃく
+Personal Connections
+桜色
+さくらいろ
+Pink
+遊び
+あそび
+Play
+政党
+せいとう
+Political Party
+汚染
+おせん
+Pollution
+貧乏人
+びんぼうにん
+Poor Person
+序文
+じょぶん
+Preface
+採算
+さいさん
+Profit
+銭湯
+せんとう
+Public Bath
+出版社
+しゅっぱんしゃ
+Publishing Company
+押しボタン
+おしぼたん
+Push Button
+生卵
+なまたまご
+Raw Egg
+訳
+わけ
+Reason
+恩賞
+おんしょう
+Reward
+桜
+さくら
+Sakura
+衛星
+えいせい
+Satellite
+恐い
+こわい
+Scary
+密か
+ひそか
+Secret
+秘密
+ひみつ
+Secret
+密告
+みっこく
+Secret Information
+密会
+みっかい
+Secret Meeting
+自衛
+じえい
+Self Defense
+順序
+じゅんじょ
+Sequence
+飾り気
+かざりけ
+Showing Off
+匂い
+におい
+Smell
+密輸
+みつゆ
+Smuggling
+社会党
+しゃかいとう
+Socialist Party
+酸っぱい
+すっぱい
+Sour
+汚点
+おてん
+Stain
+背丈
+せたけ
+Stature
+厳しい
+きびしい
+Strict
+厳禁
+げんきん
+Strictly Forbidden
+背が高い
+せがたかい
+Tall
+照り焼き
+てりやき
+Teriyaki
+冷える
+ひえる
+To Be Chilled
+浮かれる
+うかれる
+To Be Happy
+秘める
+ひめる
+To Conceal
+染める
+そめる
+To Dye
+火照る
+ほてる
+To Feel Hot
+採る
+とる
+To Gather
+汚れる
+よごれる
+To Get Dirty
+濡れる
+ぬれる
+To Get Wet
+越す
+こす
+To Go Beyond
+飼う
+かう
+To Keep A Pet
+漏らす
+もらす
+To Let Something Leak
+預かる
+あずかる
+To Look After
+結婚する
+けっこんする
+To Marry
+迎える
+むかえる
+To Pick Someone Up
+延長する
+えんちょうする
+To Prolong
+出版する
+しゅっぱんする
+To Publish
+購読する
+こうどくする
+To Subscribe
+似合う
+にあう
+To Suit
+捨てる
+すてる
+To Throw Away
+訳す
+やくす
+To Translate
+訳語
+やくご
+Translated Term
+訳者
+やくしゃ
+Translator
+採用
+さいよう
+Use
+採決
+さいけつ
+Voting
+欲しい
+ほしい
+Wanted
+欲求
+よっきゅう
+Wants
+温暖
+おんだん
+Warm
+暖かい
+あたたかい
+Warm
+白旗
+しろはた
+White Flag
+意志
+いし
+Will
+意欲
+いよく
+Will
+傷
+きず
+Wound
+Level 33
+異常
+いじょう
+Abnormal
+異状
+いじょう
+Abnormality
+忠告
+ちゅうこく
+Advice
+裏通り
+うらどおり
+Alley
+年次
+ねんじ
+Annual
+武装
+ぶそう
+Arms
+灰
+はい
+Ash
+灰皿
+はいざら
+Ashtray
+不振
+ふしん
+A Slump
+服装
+ふくそう
+Attire
+装い
+よそおい
+Attire
+著者
+ちょしゃ
+Author
+裏口
+うらぐち
+Back Door
+裏
+うら
+Backside
+裏切り
+うらぎり
+Betrayal
+体操
+たいそう
+Calisthenics
+操
+みさお
+Chastity
+熟語
+じゅくご
+Compound Word
+股間
+こかん
+Crotch
+皇太子
+こうたいし
+Crown Prince
+否定
+ひてい
+Denial
+異性
+いせい
+Different Gender
+異義
+いぎ
+Different Meaning
+変装
+へんそう
+Disguise
+編集者
+へんしゅうしゃ
+Editor
+天皇
+てんのう
+Emperor Of Japan
+拡張
+かくちょう
+Enlargement
+装置
+そうち
+Equipment
+除いて
+のぞいて
+Except
+忠実
+ちゅうじつ
+Faithful
+屁
+へ
+Flatulence
+居候
+いそうろう
+Freeloader
+貨物船
+かもつせん
+Freighter
+果糖
+かとう
+Fructose
+園
+その
+Garden
+諸君
+しょくん
+Gentlemen
+華々しい
+はなばなしい
+Gorgeous
+墓場
+はかば
+Graveyard
+灰色
+はいいろ
+Gray
+股関節
+こかんせつ
+Hip Joint
+敬語
+けいご
+Honorific
+家賃
+やちん
+House Rent
+屁理屈
+へりくつ
+Illogical Argument
+真似
+まね
+Imitation
+皇室
+こうしつ
+Imperial Family
+皇族
+こうぞく
+Imperial Family
+地蔵
+じぞう
+Jizo
+散らし
+ちらし
+Leaflet
+肺
+はい
+Lung
+肺がん
+はいがん
+Lung Cancer
+肺病
+はいびょう
+Lung Disease
+雑誌
+ざっし
+Magazine
+温厚
+おんこう
+Mild Mannered
+沢
+さわ
+Mountain Stream
+筋肉
+きんにく
+Muscle
+天然
+てんねん
+Natural
+否
+いな
+No
+操作
+そうさ
+Operation
+納入
+のうにゅう
+Payment
+宣言
+せんげん
+Proclamation
+宣伝
+せんでん
+Propaganda
+泥沼
+どろぬま
+Quagmire
+冷蔵庫
+れいぞうこ
+Refrigerator
+否決
+ひけつ
+Rejection
+著しい
+いちじるしい
+Remarkable
+賃貸
+ちんたい
+Rental
+尊敬
+そんけい
+Respect
+尊い
+とうとい
+Revered
+成熟
+せいじゅく
+Ripen
+泥棒
+どろぼう
+Robber
+噂
+うわさ
+Rumor
+簡単
+かんたん
+Simple
+簡易
+かんい
+Simple
+蒸気
+じょうき
+Steam
+収納
+しゅうのう
+Storage
+蔵
+くら
+Storehouse
+砂糖
+さとう
+Sugar
+無糖
+むとう
+Sugar Free
+里芋
+さといも
+Taro
+筋
+すじ
+Tendon
+窓口
+まどぐち
+Ticket Window
+裏切る
+うらぎる
+To Backstab
+掃除する
+そうじする
+To Clean
+垂らす
+たらす
+To Dangle Something
+異なる
+ことなる
+To Differ
+乾かす
+かわかす
+To Dry Something
+編集する
+へんしゅうする
+To Edit
+拡がる
+ひろがる
+To Extend
+蒸れる
+むれる
+To Get Hot And Sticky
+散歩する
+さんぽする
+To Go For A Walk
+盛る
+もる
+To Heap Up
+暮らす
+くらす
+To Live
+操る
+あやつる
+To Manipulate
+妨げる
+さまたげる
+To Obstruct
+熟れる
+うれる
+To Ripen
+散らかす
+ちらかす
+To Scatter
+離す
+はなす
+To Separate
+納める
+おさめる
+To Supply
+驚かす
+おどろかす
+To Surprise
+野暮
+やぼ
+Unrefined
+未熟
+みじゅく
+Unripe
+掃除機
+そうじき
+Vacuum Cleaner
+諸〜
+しょ
+Various
+垂直
+すいちょく
+Vertical
+小麦粉
+こむぎこ
+Wheat Flour
+窓
+まど
+Window
+著作
+ちょさく
+Writing
+拡大
+かくだい
+Zoom
+Level 34
+純毛
+じゅんもう
+All Wool
+沿線
+えんせん
+Along The Train Line
+承認
+しょうにん
+Approval
+紅葉
+こうよう
+Autumn Leaves
+歓迎
+かんげい
+A Welcome
+小豆
+あずき
+Azuki Beans
+幕府
+ばくふ
+Bakufu
+豆
+まめ
+Beans
+牛丼
+ぎゅうどん
+Beef Bowl
+聖書
+せいしょ
+Bible
+紅茶
+こうちゃ
+Black Tea
+血液型
+けつえきがた
+Blood Type
+枝
+えだ
+Branch
+爪
+つめ
+Claw
+沿岸
+えんがん
+Coast
+沿海
+えんかい
+Coastal Waters
+指揮
+しき
+Command
+通勤
+つうきん
+Commute
+承知
+しょうち
+Consent
+腐食
+ふしょく
+Corrosion
+咳
+せき
+Cough
+股
+また
+Crotch
+人込み
+ひとごみ
+Crowd Of People
+幕
+まく
+Curtain
+損害
+そんがい
+Damage
+腐敗
+ふはい
+Decomposition
+損
+そん
+Disadvantage
+使い捨て
+つかいすて
+Disposable
+飛び込み
+とびこみ
+Diving In
+奴
+やつ
+Dude
+震源地
+しんげんち
+Epicenter
+推定
+すいてい
+Estimation
+言い訳
+いいわけ
+Excuse
+常勤
+じょうきん
+Full Time Employment
+源氏
+げんじ
+Genji
+眼鏡
+めがね
+Glasses
+祖父母
+そふぼ
+Grandparents
+心臓
+しんぞう
+Heart
+大損
+おおぞん
+Heavy Loss
+以降
+いこう
+Hereafter
+神聖
+しんせい
+Holiness
+聖地
+せいち
+Holy Land
+物真似
+ものまね
+Impersonation
+不純
+ふじゅん
+Impure
+内臓
+ないぞう
+Internal Organ
+痩身
+そうしん
+Lean
+縦横
+たてよこ
+Length And Width
+久しぶり
+ひさしぶり
+Long Time No See
+肺臓
+はいぞう
+Lung
+磁石
+じしゃく
+Magnet
+磁場
+じば
+Magnetic Field
+磁気
+じき
+Magnetism
+迎え
+むかえ
+Meeting
+誤算
+ごさん
+Miscalculation
+誤解
+ごかい
+Misunderstanding
+誤用
+ごよう
+Misuse
+爪切り
+つめきり
+Nail Clipper
+納豆
+なっとう
+Natto
+興味がない
+きょうみがない
+No Interest
+兄貴
+あにき
+Older Brother
+源
+みなもと
+Origin
+飼い主
+かいぬし
+Pet Owner
+歓楽街
+かんらくがい
+Pleasure Quarter
+複数形
+ふくすうけい
+Plural
+電源
+でんげん
+Power Source
+貴重
+きちょう
+Precious
+純粋
+じゅんすい
+Pure
+放射
+ほうしゃ
+Radiation
+推理
+すいり
+Reasoning
+推薦
+すいせん
+Recommendation
+縮小
+しゅくしょう
+Reduction
+反射
+はんしゃ
+Reflection
+丼
+どんぶり
+Rice Bowl
+自薦
+じせん
+Self Recommendation
+深刻
+しんこく
+Serious
+注射
+ちゅうしゃ
+Shot
+単純
+たんじゅん
+Simple
+奴隷
+どれい
+Slave
+染み
+しみ
+Stain
+粋
+いき
+Stylish
+字幕
+じまく
+Subtitles
+降参
+こうさん
+Surrender
+貴族
+きぞく
+The Nobility
+時刻表
+じこくひょう
+Timetable
+賛成する
+さんせいする
+To Agree
+申し込む
+もうしこむ
+To Apply
+傷む
+いたむ
+To Be Damaged
+染まる
+そまる
+To Be Dyed
+勤める
+つとめる
+To Be Employed At
+刻む
+きざむ
+To Carve
+発揮する
+はっきする
+To Exhibit
+痩せる
+やせる
+To Get Thin
+損なう
+そこなう
+To Harm
+拝見する
+はいけんする
+To Have A Look At
+承る
+うけたまわる
+To Humbly Hear
+傷つける
+きずつける
+To Hurt Someone
+発射する
+はっしゃする
+To Launch
+汚す
+よごす
+To Make Dirty
+引っ越す
+ひっこす
+To Move
+追い越す
+おいこす
+To Overtake
+吐く
+はく
+To Puke
+込める
+こめる
+To Put In
+薦める
+すすめる
+To Recommend
+腐る
+くさる
+To Rot
+沿う
+そう
+To Run Alongside
+縮まる
+ちぢまる
+To Shrink
+詰め込む
+つめこむ
+To Stuff
+全損
+ぜんそん
+Total Loss
+投げ捨てる
+なげすてる
+To Throw Away
+拝む
+おがむ
+To Worship
+書き込む
+かきこむ
+To Write In
+誤字
+ごじ
+Typo
+貴い
+とうとい
+Valuable
+縦
+たて
+Vertical
+縦書
+たてがき
+Vertical Writing
+黒幕
+くろまく
+Wirepuller
+貴様
+きさま
+You
+Level 35
+交互
+こうご
+Alternately
+素人
+しろうと
+Amateur
+破産
+はさん
+Bankruptcy
+兵舎
+へいしゃ
+Barracks
+熊
+くま
+Bear
+納得
+なっとく
+Being Convinced
+遅刻
+ちこく
+Be Late
+三つ編み
+みつあみ
+Braided Hair
+青銅
+せいどう
+Bronze
+杉
+すぎ
+Cedar
+推測
+すいそく
+Conjecture
+銅山
+どうざん
+Copper Mine
+銅像
+どうぞう
+Copper Statue
+著作権
+ちょさくけん
+Copyright
+田舎
+いなか
+Countryside
+原油
+げんゆ
+Crude Oil
+泥酔
+でいすい
+Dead Drunk
+行為
+こうい
+Deed
+遅延
+ちえん
+Delay
+遅滞
+ちたい
+Delay
+砂漠
+さばく
+Desert
+破壊
+はかい
+Destruction
+恥ずかしい
+はずかしい
+Embarrassing
+脱獄
+だつごく
+Escape From Prison
+炎
+ほのお
+Flame
+為に
+ために
+For
+果汁
+かじゅう
+Fruit Juice
+給油
+きゅうゆ
+Fueling
+庁舎
+ちょうしゃ
+Government Office Building
+福寿
+ふくじゅ
+Happiness And Longevity
+地獄
+じごく
+Hell
+同音異義語
+どうおんいぎご
+Homonym
+尊敬語
+そんけいご
+Honorific Japanese
+蒸し暑い
+むしあつい
+Hot And Humid
+〜軒
+けん
+House Counter
+入獄
+にゅうごく
+Imprisonment
+油断
+ゆだん
+Inattentiveness
+炎症
+えんしょう
+Inflammation
+獄内
+ごくない
+In Prison
+股下
+またした
+Inseam
+介入
+かいにゅう
+Intervention
+紹介
+しょうかい
+Introduction
+剣道
+けんどう
+Kendo
+熊本県
+くまもとけん
+Kumamoto Prefecture
+湖
+みずうみ
+Lake
+山中湖
+やまなかこ
+Lake Yamanaka
+講演
+こうえん
+Lecture
+講義
+こうぎ
+Lecture
+講師
+こうし
+Lecturer
+暮らし
+くらし
+Life
+寿命
+じゅみょう
+Lifespan
+長寿
+ちょうじゅ
+Long Life
+味噌
+みそ
+Miso
+互い
+たがい
+Mutual
+相互
+そうご
+Mutual
+否定形
+ひていけい
+Negative Form
+観測
+かんそく
+Observation
+油
+あぶら
+Oil
+石油
+せきゆ
+Oil
+油田
+ゆでん
+Oil Field
+己
+おのれ
+Oneself
+白熊
+しろくま
+Polar Bear
+鍋
+なべ
+Pot
+予測
+よそく
+Prediction
+総理府
+そうりふ
+Prime Minister's Office
+雨天
+うてん
+Rainy Weather
+親戚
+しんせき
+Relatives
+出獄
+しゅつごく
+Release From Prison
+起床
+きしょう
+Rising
+彫刻
+ちょうこく
+Sculpture
+海亀
+うみがめ
+Sea Turtle
+自己
+じこ
+Self
+自撮り
+じどり
+Selfie
+真剣
+しんけん
+Serious
+喜寿
+きじゅ
+Seventy Seventh Birthday
+恥
+はじ
+Shame
+破船
+はせん
+Shipwreck
+醤油
+しょうゆ
+Shoyu
+有意
+ゆうい
+Significance
+一筋
+ひとすじ
+Single Mindedly
+汁
+しる
+Soup
+寿司
+すし
+Sushi
+剣
+けん
+Sword
+涙
+なみだ
+Tears
+酔う
+よう
+To Be Drunk
+勇む
+いさむ
+To Be In High Spirits
+鑑みる
+かんがみる
+To Be In Light Of Something
+遅れる
+おくれる
+To Be Late
+滞る
+とどこおる
+To Be Overdue
+算定する
+さんていする
+To Calculate
+喋る
+しゃべる
+To Chat
+垂れる
+たれる
+To Dangle
+否定する
+ひていする
+To Deny
+装う
+よそおう
+To Feign
+暮れる
+くれる
+To Get Dark
+傷つく
+きずつく
+To Get Hurt
+盛り上げる
+もりあげる
+To Heap Up
+測る
+はかる
+To Measure
+宣言する
+せんげんする
+To Proclaim
+蒸し返す
+むしかえす
+To Rehash
+尊敬する
+そんけいする
+To Respect
+納まる
+おさまる
+To Settle Into
+破る
+やぶる
+To Tear
+裏切り者
+うらぎりもの
+Traitor
+厄介
+やっかい
+Troublesome
+亀
+かめ
+Turtle
+漠然
+ばくぜん
+Vague
+諸々
+もろもろ
+Various
+酢
+す
+Vinegar
+酢の物
+すのもの
+Vinegared Food
+Level 36
+廃止
+はいし
+Abolition
+受諾
+じゅだく
+Acceptance
+同盟
+どうめい
+Alliance
+叔母
+おば
+Aunt
+悪例
+あくれい
+Bad Example
+献血
+けんけつ
+Blood Donation
+債券
+さいけん
+Bond
+親子丼
+おやこどんぶり
+Chicken And Egg Rice Bowl
+同窓会
+どうそうかい
+Class Reunion
+主将
+しゅしょう
+Commander
+指揮者
+しきしゃ
+Conductor
+承諾
+しょうだく
+Consent
+諾否
+だくひ
+Consent Or Refusal
+変換
+へんかん
+Conversion
+遺体
+いたい
+Corpse
+債権
+さいけん
+Credit
+舞
+まい
+Dancing
+舞踏
+ぶとう
+Dancing
+鹿
+しか
+Deer
+歯科
+しか
+Dentistry
+依存
+いぞん
+Dependence
+普及
+ふきゅう
+Diffusion
+汚い
+きたない
+Dirty
+献金
+けんきん
+Donation
+枝豆
+えだまめ
+Edamame
+うなぎ丼
+うなぎどんぶり
+Eel Bowl
+電磁場
+でんじば
+Electromagnetic Field
+牙
+きば
+Fang
+旧姓
+きゅうせい
+Former Surname
+姓名
+せいめい
+Full Name
+将来
+しょうらい
+Future
+一般
+いっぱん
+General
+大将
+たいしょう
+General
+遺伝
+いでん
+Heredity
+馬鹿
+ばか
+Idiot
+遺産
+いさん
+Inheritance
+怪我
+けが
+Injury
+象牙
+ぞうげ
+Ivory
+縄文
+じょうもん
+Jomon
+歌舞伎
+かぶき
+Kabuki
+鹿児島県
+かごしまけん
+Kagoshima Prefecture
+神奈川県
+かながわけん
+Kanagawa Prefecture
+大幅
+おおはば
+Large
+連盟
+れんめい
+League
+口紅
+くちべに
+Lipstick
+遺失
+いしつ
+Loss
+維持
+いじ
+Maintenance
+及第
+きゅうだい
+Make The Grade
+治療
+ちりょう
+Medical Therapy
+医療
+いりょう
+Medical Treatment
+誤り
+あやまり
+Mistake
+奈良
+なら
+Nara
+国債
+こくさい
+National Debt
+吐き気
+はきけ
+Nausea
+核実験
+かくじっけん
+Nuclear Test
+核兵器
+かくへいき
+Nuclear Weapons
+核
+かく
+Nucleus
+沖合
+おきあい
+Open Sea
+整然
+せいぜん
+Orderly
+許諾
+きょだく
+Permission
+盟約
+めいやく
+Pledge
+指摘
+してき
+Pointing Out
+放射能
+ほうしゃのう
+Radioactivity
+薦め
+すすめ
+Recommendation
+信頼
+しんらい
+Reliance
+依頼
+いらい
+Request
+維新
+いしん
+Restoration
+復旧
+ふっきゅう
+Restoration
+縄
+なわ
+Rope
+鮭
+さけ
+Salmon
+砂
+すな
+Sand
+将軍
+しょうぐん
+Shogun
+病床
+びょうしょう
+Sickbed
+湧水
+ゆうすい
+Spring Water
+舞台
+ぶたい
+Stage
+継承
+けいしょう
+Succession
+超自然的
+ちょうしぜんてき
+Supernatural
+甘い
+あまい
+Sweet
+甘党
+あまとう
+Sweet Tooth
+源氏物語
+げんじものがたり
+Tale Of Genji
+奴ら
+やつら
+Those Dudes
+頼む
+たのむ
+To Ask For
+廃れる
+すたれる
+To Become Obsolete
+傷める
+いためる
+To Damage Something
+舞う
+まう
+To Dance
+換える
+かえる
+To Exchange
+炒める
+いためる
+To Fry
+豆腐
+とうふ
+Tofu
+伸びる
+のびる
+To Grow Longer
+継ぐ
+つぐ
+To Inherit
+甘く見る
+あまくみる
+To Not Take Seriously
+漬ける
+つける
+To Pickle Something
+摘む
+つむ
+To Pluck
+及ぶ
+およぶ
+To Reach
+吐き出す
+はきだす
+To Spit Out
+踏む
+ふむ
+To Step On
+降参する
+こうさんする
+To Surrender
+摘発する
+てきはつする
+To Unmask
+湧く
+わく
+To Well Up
+貿易
+ぼうえき
+Trade
+津波
+つなみ
+Tsunami
+超〜
+ちょう
+Ultra
+超音波
+ちょうおんぱ
+Ultrasonic Wave
+叔父
+おじ
+Uncle
+貴重品
+きちょうひん
+Valuables
+換気
+かんき
+Ventilation
+幅
+はば
+Width
+勤め
+つとめ
+Work
+レントゲン
+レントゲン
+X Ray
+Level 37
+狙い
+ねらい
+Aim
+抗体
+こうたい
+Antibody
+患者
+かんじゃ
+A Patient
+応募
+おうぼ
+Application
+陣
+じん
+Army Camp
+執着
+しゅうちゃく
+Attachment To
+塁
+るい
+Baseball Base
+塁審
+るいしん
+Baseball Umpire
+塁打
+るいだ
+Base Hit
+戦闘
+せんとう
+Battle
+爆弾
+ばくだん
+Bomb
+爆撃
+ばくげき
+Bombing
+眉間
+みけん
+Brow
+弾
+たま
+Bullet
+弾丸
+だんがん
+Bullet
+陣営
+じんえい
+Camp
+契機
+けいき
+Chance
+崩壊
+ほうかい
+Collapse
+契約
+けいやく
+Contract
+火葬
+かそう
+Cremation
+死刑
+しけい
+Death Penalty
+削除
+さくじょ
+Deletion
+派遣
+はけん
+Dispatch
+酔っ払い
+よっぱらい
+Drunk
+弾力
+だんりょく
+Elasticity
+急患
+きゅうかん
+Emergency Patient
+証跡
+しょうせき
+Evidence
+試験地獄
+しけんじごく
+Exam Hell
+爆発
+ばくはつ
+Explosion
+爆笑
+ばくしょう
+Explosive Laughter
+眉
+まゆ
+Eyebrows
+闘志
+とうし
+Fighting Spirit
+上旬
+じょうじゅん
+First Ten Days Of The Month
+漁師
+りょうし
+Fisherman
+漁船
+ぎょせん
+Fishing Boat
+漁業
+ぎょぎょう
+Fishing Industry
+募金
+ぼきん
+Fundraising
+葬式
+そうしき
+Funeral
+給油所
+きゅうゆじょ
+Gas Station
+大抵
+たいてい
+Generally
+串焼き
+くしやき
+Grilled Skewers
+湾
+わん
+Gulf
+二日酔い
+ふつかよい
+Hangover
+聴力
+ちょうりょく
+Hearing Ability
+抱っこ
+だっこ
+Holding In One's Arms
+温床
+おんしょう
+Hotbed
+旬
+しゅん
+In Season
+刑務所
+けいむしょ
+Jail
+下旬
+げじゅん
+Last Ten Days Of The Month
+紹介状
+しょうかいじょう
+Letter Of Introduction
+終身刑
+しゅうしんけい
+Life Sentence
+聴者
+ちょうしゃ
+Listener
+一人暮らし
+ひとりぐらし
+Living Alone
+中旬
+ちゅうじゅん
+Middle Ten Days Of The Month
+奇跡
+きせき
+Miracle
+味噌汁
+みそしる
+Miso Soup
+掲示
+けいじ
+Notice
+油絵
+あぶらえ
+Oil Painting
+前兆
+ぜんちょう
+Omen
+払い
+はらい
+Payment
+香水
+こうすい
+Perfume
+刑事
+けいじ
+Police Detective
+〜鍋
+なべ
+Pot
+刑期
+けいき
+Prison Term
+掲載
+けいさい
+Publication
+刑罰
+けいばつ
+Punishment
+募集
+ぼしゅう
+Recruiting
+削減
+さくげん
+Reduction
+弁償
+べんしょう
+Reimbursement
+抗戦
+こうせん
+Resistance
+遺跡
+いせき
+Ruins
+船酔い
+ふなよい
+Seasickness
+臨海
+りんかい
+Seaside
+自己紹介
+じこしょうかい
+Self Introduction
+恥知らず
+はじしらず
+Shameless Person
+狙撃
+そげき
+Shooting
+昭和
+しょうわ
+Showa Era
+兆候
+ちょうこう
+Sign
+絹
+きぬ
+Silk
+串
+くし
+Skewer
+遅い
+おそい
+Slow
+汁物
+しるもの
+Soups
+自爆
+じばく
+Suicide Bomb
+甘酢
+あまず
+Sweet Vinegar
+台湾
+たいわん
+Taiwan
+臨時
+りんじ
+Temporary
+募る
+つのる
+To Appeal For Something
+患う
+わずらう
+To Be Afflicted With
+対向する
+たいこうする
+To Be Oncoming
+恥ずかしがる
+はずかしがる
+To Be Shy
+弾む
+はずむ
+To Bounce
+葬る
+ほうむる
+To Bury
+償う
+つぐなう
+To Compensate For
+遣う
+つかう
+To Consider
+崩す
+くずす
+To Demolish
+恵む
+めぐむ
+To Do A Favor
+抱く
+だく
+To Embrace
+臨む
+のぞむ
+To Face
+破れる
+やぶれる
+To Get Torn
+紹介する
+しょうかいする
+To Introduce
+跳ぶ
+とぶ
+To Jump
+聴く
+きく
+To Listen To
+掲げる
+かかげる
+To Put Up A Sign
+反抗する
+はんこうする
+To Rebel
+抵抗する
+ていこうする
+To Resist
+戻る
+もどる
+To Return
+闘う
+たたかう
+To Struggle
+盛り上がる
+もりあがる
+To Swell
+執る
+とる
+To Take Control
+削る
+けずる
+To Whittle Something Down
+跡
+あと
+Traces
+漬物
+つけもの
+Tsukemono
+盗聴
+とうちょう
+Wiretapping
+知恵
+ちえ
+Wisdom
+執筆
+しっぴつ
+Writing
+Level 38
+馬鹿馬鹿しい
+ばかばかしい
+Absurd
+馬鹿らしい
+ばからしい
+Absurd
+頼み
+たのみ
+A Favor
+冷房
+れいぼう
+Air Conditioning
+併合
+へいごう
+Annexation
+及び
+および
+As Well As
+舞踏会
+ぶとうかい
+Ball
+基盤
+きばん
+Base
+受託
+じゅたく
+Be Entrusted With
+避妊
+ひにん
+Birth Control
+湯豆腐
+ゆどうふ
+Boiled Tofu
+賄賂
+わいろ
+Bribe
+贈収賄
+ぞうしゅうわい
+Bribery
+依頼人
+いらいにん
+Client
+房
+ふさ
+Cluster
+考慮
+こうりょ
+Consideration
+配慮
+はいりょ
+Consideration
+委託
+いたく
+Consign
+抑制
+よくせい
+Control
+日刊
+にっかん
+Daily Edition
+需要
+じゅよう
+Demand
+描写
+びょうしゃ
+Depiction
+奥底
+おくそこ
+Depths
+抑止
+よくし
+Deterrent
+円盤
+えんばん
+Disk
+描画
+びょうが
+Drawing
+懸命
+けんめい
+Eager
+高齢者
+こうれいしゃ
+Elderly Person
+逃亡
+とうぼう
+Escape
+避難
+ひなん
+Evacuation
+夕刊
+ゆうかん
+Evening Edition
+奥
+おく
+Far Back
+致命的
+ちめいてき
+Fatal
+第一弾
+だいいちだん
+First Installment
+一人称
+いちにんしょう
+First Person
+対外
+たいがい
+Foreign
+全般的
+ぜんぱんてき
+General
+遺伝子
+いでんし
+Genes
+還元
+かんげん
+Give Something Back
+宜しい
+よろしい
+Good
+暖房
+だんぼう
+Heating
+膝
+ひざ
+Knee
+膝頭
+ひざがしら
+Kneecap
+由緒
+ゆいしょ
+Lineage
+緩やか
+ゆるやか
+Loose
+緩い
+ゆるい
+Loose
+明治維新
+めいじいしん
+Meiji Restoration
+月刊
+げっかん
+Monthly Edition
+朝刊
+ちょうかん
+Morning Edition
+演奏
+えんそう
+Musical Performance
+奏楽
+そうがく
+Musical Performance
+奈良県
+ならけん
+Nara Prefecture
+必需品
+ひつじゅひん
+Necessities
+沖縄
+おきなわ
+Okinawa
+老齢
+ろうれい
+Old Age
+却って
+かえって
+On The Contrary
+抑圧
+よくあつ
+Oppression
+一般的
+いっぱんてき
+Ordinary
+辛抱
+しんぼう
+Patience
+完璧
+かんぺき
+Perfect
+〜漬け
+づけ
+Pickled In
+妊婦
+にんぷ
+Pregnant Woman
+奥深い
+おくぶかい
+Profound
+生還
+せいかん
+Reaching Home Plate
+却下
+きゃっか
+Rejection
+出所
+しゅっしょ
+Release From Prison
+遠慮
+えんりょ
+Restraint
+返還
+へんかん
+Return
+縄張り
+なわばり
+Rope Off
+内緒
+ないしょ
+Secret
+選択
+せんたく
+Selection
+香辛料
+こうしんりょう
+Spices
+対称
+たいしょう
+Symmetry
+お見舞い
+おみまい
+Sympathy Visit
+傾向
+けいこう
+Tendency
+時限
+じげん
+Time Limit
+廃止する
+はいしする
+To Abolish
+伴う
+ともなう
+To Accompany
+同伴する
+どうはんする
+To Accompany
+避ける
+さける
+To Avoid
+傾く
+かたむく
+To Be Leaned
+妊娠する
+にんしんする
+To Be Pregnant
+噛む
+かむ
+To Bite
+致す
+いたす
+To Do
+描く
+かく
+To Draw
+食う
+くう
+To Eat
+託す
+たくす
+To Entrust
+逃げる
+にげる
+To Escape
+超す
+こす
+To Exceed
+及ぼす
+およぼす
+To Exert
+一緒
+いっしょ
+Together
+贈る
+おくる
+To Give A Present
+扱う
+あつかう
+To Handle
+緩む
+ゆるむ
+To Loosen
+維持する
+いじする
+To Maintain
+一致する
+いっちする
+To Match
+賄う
+まかなう
+To Pay
+指摘する
+してきする
+To Point Out
+刊行する
+かんこうする
+To Publish
+頼る
+たよる
+To Rely On
+戻す
+もどす
+To Return
+炒る
+いる
+To Roast
+繰る
+くる
+To Spin
+懸ける
+かける
+To Stake
+踏み込む
+ふみこむ
+To Step Into
+伸ばす
+のばす
+To Stretch Something
+乗り換える
+のりかえる
+To Transfer
+貿易会社
+ぼうえきがいしゃ
+Trading Firm
+盤
+ばん
+Tray
+信託
+しんたく
+Trust
+奥さん
+おくさん
+Wife
+仮称
+かしょう
+Working Name
+欠伸
+あくび
+Yawn
+年齢
+ねんれい
+Years Old
+Level 39
+活躍
+かつやく
+Active Participation
+宛名
+あてな
+Addressee
+小遣い
+こづかい
+Allowance
+南極圏
+なんきょくけん
+Antarctic Circle
+原子爆弾
+げんしばくだん
+Atomic Bomb
+控え
+ひかえ
+Backup
+渋い
+しぶい
+Bitter Flavor
+片言
+かたこと
+Broken Language
+掲示板
+けいじばん
+Bulletin Board
+免状
+めんじょう
+Certificate
+言葉遣い
+ことばづかい
+Choice Of Words
+連邦
+れんぽう
+Commonwealth
+死刑囚
+しけいしゅう
+Condemned Criminal
+御飯
+ごはん
+Cooked Rice
+群集
+ぐんしゅう
+Crowd
+水仙
+すいせん
+Daffodil
+銃殺
+じゅうさつ
+Death By Shooting
+紅
+くれない
+Deep Red
+慎重
+しんちょう
+Discreet
+呼び鈴
+よびりん
+Doorbell
+併殺
+へいさつ
+Double Play
+甲斐
+かい
+Effect
+雇用
+こよう
+Employment
+英語圏
+えいごけん
+English Speaking World
+免除
+めんじょ
+Exemption
+眉毛
+まゆげ
+Eyebrow
+邦人
+ほうじん
+Fellow Countryman
+群れ
+むれ
+Flock
+足跡
+あしあと
+Footprint
+片〜
+かた
+Fragment
+香り
+かおり
+Fragrance
+枠
+わく
+Frame
+枠組み
+わくぐみ
+Frame
+充実
+じゅうじつ
+Fullness
+岐阜
+ぎふ
+Gifu
+棋院
+きいん
+Go Hall
+銃
+じゅう
+Gun
+群馬県
+ぐんまけん
+Gunma Prefecture
+跡継ぎ
+あとつぎ
+Heir
+仙人
+せんにん
+Hermit
+本塁打
+ほんるいだ
+Home Run
+謙譲語
+けんじょうご
+Humble Japanese
+要項
+ようこう
+Important Points
+項目
+こうもく
+Item
+跳躍
+ちょうやく
+Jump
+縄跳び
+なわとび
+Jump Rope
+片仮名
+かたかな
+Katakana
+免許
+めんきょ
+License
+事項
+じこう
+Matter
+謙虚
+けんきょ
+Modesty
+募集中
+ぼしゅうちゅう
+Now Hiring
+由緒正しい
+ゆいしょただしい
+Of Honorable Lineage
+片手
+かたて
+One Handed
+片道
+かたみち
+One Way
+圏外
+けんがい
+Out Of Range
+短銃
+たんじゅう
+Pistol
+祈念
+きねん
+Prayer
+囚人
+しゅうじん
+Prisoner
+隆盛
+りゅうせい
+Prosperity
+隆起
+りゅうき
+Protuberance
+梅雨
+つゆ
+Rainy Season
+充電
+じゅうでん
+Recharge
+勧告
+かんこく
+Recommendation
+拒否
+きょひ
+Refusal
+補充
+ほじゅう
+Resupply
+稲作
+いなさく
+Rice Cultivation
+稲田
+いなだ
+Rice Field
+稲
+いね
+Rice Plant
+銃弾
+じゅうだん
+Rifle Bullet
+埼玉県
+さいたまけん
+Saitama Prefecture
+仙台
+せんだい
+Sendai
+将棋
+しょうぎ
+Shogi
+棋士
+きし
+Shogi Player
+鈴
+すず
+Small Bell
+御免
+ごめん
+Sorry
+鋼
+はがね
+Steel
+製鋼
+せいこう
+Steel Manufacture
+鋼材
+こうざい
+Steel Material
+依然
+いぜん
+Still
+免税
+めんぜい
+Tax Exemption
+狙う
+ねらう
+To Aim At
+応募する
+おうぼする
+To Apply For
+惑う
+まどう
+To Be At A Loss
+慎む
+つつしむ
+To Be Discreet
+譲る
+ゆずる
+To Concede
+崩れる
+くずれる
+To Crumble
+削除する
+さくじょする
+To Delete
+雇う
+やとう
+To Employ
+免れる
+まぬかれる
+To Escape Something
+解雇する
+かいこする
+To Fire Someone
+跳ねる
+はねる
+To Jump
+躍る
+おどる
+To Leap
+御覧になる
+ごらんになる
+To Look
+弾く
+ひく
+To Play A Stringed Instrument
+掲載する
+けいさいする
+To Publish
+拒む
+こばむ
+To Refuse
+払い戻す
+はらいもどす
+To Repay
+奪う
+うばう
+To Rob
+取り戻す
+とりもどす
+To Take Back
+渋滞
+じゅうたい
+Traffic Jam
+移譲
+いじょう
+Transfer
+邦訳
+ほうやく
+Translation Into Japanese
+甲
+こう
+Turtle Shell
+虚栄心
+きょえいしん
+Vanity
+壁
+かべ
+Wall
+壁紙
+かべがみ
+Wallpaper
+戻り道
+もどりみち
+Way Back
+福祉
+ふくし
+Welfare
+Level 40
+拉致
+らち
+Abduction
+獲得
+かくとく
+Acquisition
+戒告
+かいこく
+Admonition
+顧問
+こもん
+Advisor
+主唱
+しゅしょう
+Advocate
+贈り物
+おくりもの
+A Present
+雅致
+がち
+Artistry
+宜しく
+よろしく
+Best Regards
+宜しくお願いします
+よろしくおねがいします
+Best Regards
+繁殖
+はんしょく
+Breeding
+贈賄
+ぞうわい
+Bribery
+捕獲
+ほかく
+Capture
+中華麺
+ちゅうかめん
+Chinese Noodles
+合唱団
+がっしょうだん
+Chorus
+薄情
+はくじょう
+Cold Hearted
+衝突
+しょうとつ
+Collision
+兼用
+けんよう
+Combined Use
+内緒話
+ないしょばなし
+Confidential Talk
+新鋭
+しんえい
+Cutting Edge
+洗剤
+せんざい
+Detergent
+不孝
+ふこう
+Disobedience To Parents
+堀
+ほり
+Ditch
+排水
+はいすい
+Drainage
+優雅
+ゆうが
+Elegance
+排出
+はいしゅつ
+Emission
+虚しい
+むなしい
+Empty
+妖しい
+あやしい
+Enchanting
+排他
+はいた
+Exclusion
+排除
+はいじょ
+Exclusion
+排気
+はいき
+Exhaust
+妖精
+ようせい
+Fairy
+殿様
+とのさま
+Feudal Lord
+孝行
+こうこう
+Filial Piety
+頻度
+ひんど
+Frequency
+頻繁
+ひんぱん
+Frequent
+頻りに
+しきりに
+Frequently
+頻発
+ひんぱつ
+Frequent Occurrence
+逃亡者
+とうぼうしゃ
+Fugitive
+俊才
+しゅんさい
+Genius
+嬉しい
+うれしい
+Glad
+扱い
+あつかい
+Handling
+栄誉
+えいよ
+Honor
+名誉
+めいよ
+Honor
+内堀
+うちぼり
+Inner Moat
+雅楽
+ががく
+Japanese Court Music
+香川県
+かがわけん
+Kagawa Prefecture
+膝小僧
+ひざこぞう
+Kneecap
+飛躍
+ひやく
+Leaping
+繁茂
+はんも
+Luxuriant Growth
+褒賞
+ほうしょう
+Medal
+〜剤
+ざい
+Medicine
+薬剤
+やくざい
+Medicine
+回顧録
+かいころく
+Memoirs
+麺つゆ
+めんつゆ
+Mentsuyu
+妖怪
+ようかい
+Monster
+〜殿
+どの
+Mr.
+隣
+となり
+Neighbor
+隣人
+りんじん
+Neighbor
+近隣
+きんりん
+Neighborhood
+隣国
+りんごく
+Neighboring Country
+隣家
+りんか
+Neighboring House
+麺
+めん
+Noodles
+沖縄県
+おきなわけん
+Okinawa Prefecture
+外堀
+そとぼり
+Outer Moat
+過敏
+かびん
+Oversensitivity
+殿堂
+でんどう
+Palace
+駐車場
+ちゅうしゃじょう
+Parking Lot
+巡回
+じゅんかい
+Patrol
+薬剤師
+やくざいし
+Pharmacist
+巡礼
+じゅんれい
+Pilgrimage
+柱
+はしら
+Pillar
+巡査
+じゅんさ
+Police Officer
+携帯
+けいたい
+Portable
+防腐剤
+ぼうふざい
+Preservative
+繁栄
+はんえい
+Prospering
+機敏
+きびん
+Quick
+生殖
+せいしょく
+Reproduction
+駐在
+ちゅうざい
+Residence
+屋敷
+やしき
+Residence
+褒美
+ほうび
+Reward
+麺棒
+めんぼう
+Rolling Pin
+犠打
+ぎだ
+Sacrifice Fly
+〜房
+ふさ
+Section
+敷金
+しききん
+Security Deposit
+敏感
+びんかん
+Sensitivity
+鋭い
+するどい
+Sharp
+鋭利
+えいり
+Sharpness
+鋭敏
+えいびん
+Sharpness
+衝撃
+しょうげき
+Shock
+兼業
+けんぎょう
+Side Business
+唱歌
+しょうか
+Singing
+歌唱
+かしょう
+Singing
+独唱
+どくしょう
+Solo
+獲物
+えもの
+Spoils
+嬉々
+きき
+State Of Enjoyment
+駐日
+ちゅうにち
+Stationed In Japan
+駐留軍
+ちゅうりゅうぐん
+Stationed Troops
+座敷
+ざしき
+Tatami Room
+電柱
+でんちゅう
+Telephone Pole
+薄い
+うすい
+Thin
+薄まる
+うすまる
+To Be Diluted
+茂る
+しげる
+To Be Luxuriant
+透ける
+すける
+To Be Transparent
+吹く
+ふく
+To Blow
+唱える
+となえる
+To Chant
+兼ねる
+かねる
+To Combine
+遠慮する
+えんりょする
+To Decline
+携わる
+たずさわる
+To Engage In
+避難する
+ひなんする
+To Evacuate
+駆ける
+かける
+To Gallop
+巡る
+めぐる
+To Go Around
+世に出る
+よにでる
+To Go Out Into The World
+懸かる
+かかる
+To Hang
+傾ける
+かたむける
+To Lean Something
+顧みる
+かえりみる
+To Look Back On Something
+緩める
+ゆるめる
+To Loosen
+取り扱う
+とりあつかう
+To Manage
+逃す
+のがす
+To Miss
+殖える
+ふえる
+To Multiply
+褒める
+ほめる
+To Praise
+称える
+たたえる
+To Praise
+繰り返す
+くりかえす
+To Repeat
+選択する
+せんたくする
+To Select
+敷く
+しく
+To Spread Out
+戒める
+いましめる
+To Warn
+透明
+とうめい
+Transparent
+警戒
+けいかい
+Vigilance
+訓戒
+くんかい
+Warning
+薄弱
+はくじゃく
+Weakness
+一生懸命
+いっしょうけんめい
+With All One's Might
+奥様
+おくさま
+Your Wife
+放棄
+ほうき
+Abandonment
+航空母艦
+こうくうぼかん
+Aircraft Carrier
+徹夜
+てつや
+All Night
+凄い
+すごい
+Amazing
+鉱山
+こうざん
+A Mine
+原爆
+げんばく
+Atomic Bomb
+手の甲
+てのこう
+Back Of One's Hand
+根拠
+こんきょ
+Basis
+軍艦
+ぐんかん
+Battleship
+蜂
+はち
+Bee
+偽装
+ぎそう
+Camouflage
+炭素
+たんそ
+Carbon
+儀式
+ぎしき
+Ceremony
+炭
+すみ
+Charcoal
+拳骨
+げんこつ
+Clenched Fist
+石炭
+せきたん
+Coal
+炭鉱
+たんこう
+Coal Mine
+祝儀
+しゅうぎ
+Congratulatory Gift
+思い遣り
+おもいやり
+Consideration
+廃棄
+はいき
+Disposal
+潜水
+せんすい
+Diving
+雇用者
+こようしゃ
+Employer
+凄絶
+せいぜつ
+Extremely Gruesome
+偽
+にせ
+Fake
+畑
+はたけ
+Field
+田畑
+たはた
+Fields
+喧嘩
+けんか
+Fight
+蛍
+ほたる
+Firefly
+拳
+こぶし
+Fist
+偽造
+ぎぞう
+Forgery
+破片
+はへん
+Fragment
+果樹
+かじゅ
+Fruit Tree
+葬儀
+そうぎ
+Funeral
+岐阜県
+ぎふけん
+Gifu Prefecture
+故郷
+こきょう
+Hometown
+郷里
+きょうり
+Hometown
+蜜
+みつ
+Honey
+蜂蜜
+はちみつ
+Honey
+香港
+ほんこん
+Hong Kong
+仁
+じん
+Humanity
+仁義
+じんぎ
+Humanity And Justice
+謙遜
+けんそん
+Humble
+必至
+ひっし
+Inevitable
+侵害
+しんがい
+Infringement
+侵入
+しんにゅう
+Intrusion
+侵攻
+しんこう
+Invasion
+鉄鉱
+てっこう
+Iron Ore
+躍り
+おどり
+Jumping
+包丁
+ほうちょう
+Kitchen Knife
+嘘吐き
+うそつき
+Liar
+嘘
+うそ
+Lie
+忠誠
+ちゅうせい
+Loyalty
+礼儀
+れいぎ
+Manners
+措置
+そち
+Measures
+鉱物
+こうぶつ
+Mineral
+鉱業
+こうぎょう
+Mining Industry
+艦隊
+かんたい
+Naval Fleet
+喧しい
+やかましい
+Noisy
+鉱石
+こうせき
+Ore
+証拠
+しょうこ
+Physical Evidence
+拠点
+きょてん
+Position
+瀬
+せ
+Rapids
+生き甲斐
+いきがい
+Reason For Living
+渋々
+しぶしぶ
+Reluctantly
+甲斐性
+かいしょう
+Resourcefulness
+御手洗
+おてあらい
+Restroom
+拳銃
+けんじゅう
+Revolver
+廃墟
+はいきょ
+Ruins
+瀬戸
+せと
+Seto
+高瀬
+たかせ
+Shallows
+渋谷
+しぶや
+Shibuya
+焼酎
+しょうちゅう
+Shochu
+包囲
+ほうい
+Siege
+誠実
+せいじつ
+Sincere
+誠意
+せいい
+Sincerity
+誠
+まこと
+Sincerity
+社会福祉
+しゃかいふくし
+Social Welfare
+御免なさい
+ごめんなさい
+Sorry
+潜在意識
+せんざいいしき
+Subconscious
+潜水艦
+せんすいかん
+Submarine
+夏至
+げし
+Summer Solstice
+至上
+しじょう
+Supremacy
+早瀬
+はやせ
+Swift Currents
+徹底
+てってい
+Thoroughness
+虎
+とら
+Tiger
+控える
+ひかえる
+To Abstain
+至る
+いたる
+To Arrive At
+拠る
+よる
+To Be Due To
+辞儀する
+じぎする
+To Bow
+充電する
+じゅうでんする
+To Charge A Battery
+徹する
+てっする
+To Devote Oneself
+群れる
+むれる
+To Flock
+伺う
+うかがう
+To Inquire
+侵す
+おかす
+To Invade
+偽る
+いつわる
+To Lie
+潜む
+ひそむ
+To Lurk
+帰郷する
+ききょうする
+To Return To One's Hometown
+包む
+つつむ
+To Wrap
+樹皮
+じゅひ
+Tree Bark
+植樹
+しょくじゅ
+Tree Planting
+艦船
+かんせん
+Warship
+虚弱
+きょじゃく
+Weak
+麦畑
+むぎばたけ
+Wheat Field
+冬至
+とうじ
+Winter Solstice
+撤去
+てっきょ
+Withdrawal
+撤回
+てっかい
+Withdrawal
+撤兵
+てっぺい
+Withdrawal Of Troops
+措辞
+そじ
+Wording
+やり甲斐
+やりがい
+Worth Doing
+Level 42
+挑戦
+ちょうせん
+A Challenge
+万人
+ばんにん
+All People
+一括
+いっかつ
+All Together
+解析
+かいせき
+Analysis
+分析
+ぶんせき
+Analysis
+円弧
+えんこ
+Arc
+到着
+とうちゃく
+Arrival
+枢軸
+すうじく
+Axis
+中軸
+ちゅうじく
+Axis
+軸
+じく
+Axis
+双眼鏡
+そうがんきょう
+Binoculars
+糾弾
+きゅうだん
+Blame
+中枢
+ちゅうすう
+Center
+衣装
+いしょう
+Clothing
+通信網
+つうしんもう
+Communications Network
+紛糾
+ふんきゅう
+Complication
+克服
+こくふく
+Conquest
+要請
+ようせい
+Demand
+克明
+こくめい
+Detailed
+不孝者
+ふこうもの
+Disobedient Child
+投棄
+とうき
+Dumping
+円滑
+えんかつ
+Effortless
+動揺
+どうよう
+Emotional Turmoil
+範
+はん
+Example
+発掘
+はっくつ
+Excavation
+模範
+もはん
+Exemplification
+範囲
+はんい
+Extent
+親孝行
+おやこうこう
+Filial Piety
+焦点
+しょうてん
+Focal Point
+暫く
+しばらく
+For A Little While
+炒飯
+ちゃーはん
+Fried Rice
+斎場
+さいじょう
+Funeral Hall
+ゴミ袋
+ごみぶくろ
+Garbage Bag
+握力
+あくりょく
+Grip
+握手
+あくしゅ
+Handshake
+掛軸
+かけじく
+Hanging Scroll
+肝炎
+かんえん
+Hepatitis
+殺虫剤
+さっちゅうざい
+Insecticide
+親不孝
+おやふこう
+Lack Of Filial Piety
+潟
+かた
+Lagoon
+芝生
+しばふ
+Lawn
+芝
+しば
+Lawn
+芝草
+しばくさ
+Lawn
+肝
+きも
+Liver
+肝臓
+かんぞう
+Liver
+宿泊
+しゅくはく
+Lodging
+喪失
+そうしつ
+Loss
+餅
+もち
+Mochi
+喪
+も
+Mourning
+福袋
+ふくぶくろ
+Mystery Bag
+国柄
+くにがら
+National Character
+網
+あみ
+Net
+一泊
+いっぱく
+One Night's Stay
+不透明
+ふとうめい
+Opacity
+双
+そう
+Pair
+括弧
+かっこ
+Parentheses
+柄
+がら
+Pattern
+人柄
+ひとがら
+Personal Character
+哲学
+てつがく
+Philosophy
+携帯電話
+けいたいでんわ
+Portable Phone
+挑発
+ちょうはつ
+Provocation
+拉麺
+らーめん
+Ramen
+躍進
+やくしん
+Rapid Progress
+綱
+つな
+Rope
+袋
+ふくろ
+Sack
+犠飛
+ぎひ
+Sacrifice Fly
+小柄
+こがら
+Small Build
+堅い
+かたい
+Solid
+素麺
+そうめん
+Somen
+最新鋭
+さいしんえい
+State Of The Art
+書斎
+しょさい
+Study
+総括
+そうかつ
+Synthesis
+暫定
+ざんてい
+Tentative
+干潟
+ひがた
+Tidal Flat
+焦げる
+こげる
+To Be Burned
+吹き出す
+ふきだす
+To Begin To Blow
+荒れる
+あれる
+To Be Stormy
+透き通る
+すきとおる
+To Be Transparent
+漬かる
+つかる
+To Be Well Pickled
+吹き飛ばす
+ふきとばす
+To Blow Away
+吹き込む
+ふきこむ
+To Blow In
+挑む
+いどむ
+To Challenge Someone
+揚げる
+あげる
+To Deep Fry
+掘る
+ほる
+To Dig
+薄める
+うすめる
+To Dilute
+紛らす
+まぎらす
+To Divert
+逃れる
+のがれる
+To Escape
+握る
+にぎる
+To Grasp
+逃がす
+にがす
+To Let Go
+駆け回る
+かけまわる
+To Run Around
+駆け込む
+かけこむ
+To Rush Into
+駆け出す
+かけだす
+To Rush Out
+揺る
+ゆる
+To Shake
+東芝
+とうしば
+Toshiba
+滑る
+すべる
+To Slide
+泊まる
+とまる
+To Stay The Night
+括る
+くくる
+To Tie Up
+口笛を吹く
+くちぶえをふく
+To Whistle
+交通網
+こうつうもう
+Traffic Network
+綱引き
+つなひき
+Tug Of War
+双子
+ふたご
+Twins
+二泊
+にはく
+Two Night's Stay
+統括
+とうかつ
+Unification
+躍動
+やくどう
+Vibrancy
+荒い
+あらい
+Wild
+横綱
+よこづな
+Yokozuna
+Level 43
+空襲
+くうしゅう
+Air Raid
+御札
+おふだ
+Amulet
+球威
+きゅうい
+A Pitcher's Stuff
+原子炉
+げんしろ
+Atomic Reactor
+襲撃
+しゅうげき
+Attack
+権威
+けんい
+Authority
+凄く
+すごく
+Awfully
+軍艦島
+ぐんかんじま
+Battleship Island
+高炉
+こうろ
+Blast Furnace
+決裂
+けつれつ
+Breakdown
+朗らか
+ほがらか
+Bright
+明朗
+めいろう
+Bright
+包み
+つつみ
+Bundle
+趣
+おもむき
+Charm
+国籍
+こくせき
+Citizenship
+慰謝料
+いしゃりょう
+Compensation
+慰謝
+いしゃ
+Consolation
+貢献
+こうけん
+Contribution
+逆襲
+ぎゃくしゅう
+Counterattack
+水晶
+すいしょう
+Crystal
+珍味
+ちんみ
+Delicacy
+旨い
+うまい
+Delicious
+壊滅
+かいめつ
+Destruction
+露
+つゆ
+Dew
+威厳
+いげん
+Dignity
+懲罰
+ちょうばつ
+Discipline
+暴露
+ばくろ
+Disclosure
+幻滅
+げんめつ
+Disillusionment
+距離
+きょり
+Distance
+滅亡
+めつぼう
+Downfall
+軒
+のき
+Eaves
+封筒
+ふうとう
+Envelope
+露出
+ろしゅつ
+Exposure
+撲滅
+ぼくめつ
+Extermination
+絶滅
+ぜつめつ
+Extinction
+偽物
+にせもの
+Fake
+濡れ衣
+ぬれぎぬ
+False Accusations
+戸籍
+こせき
+Family Register
+垣
+かき
+Fence
+封建主義
+ほうけんしゅぎ
+Feudalism
+暖炉
+だんろ
+Fireplace
+露骨
+ろこつ
+Frank
+摩擦
+まさつ
+Friction
+懇意
+こんい
+Friendly
+懇話
+こんわ
+Friendly Talk
+懇親
+こんしん
+Friendship
+柔和
+にゅうわ
+Gentle
+柔らかい
+やわらかい
+Gentle
+旨
+むね
+Gist
+朗報
+ろうほう
+Good News
+垣根
+かきね
+Hedge
+満潮
+まんちょう
+High Tide
+趣味
+しゅみ
+Hobby
+即〜
+そく
+Immediate
+即座
+そくざ
+Immediate
+即効
+そっこう
+Immediate Effect
+即興
+そっきょう
+Improvisation
+誠に
+まことに
+Indeed
+懇談
+こんだん
+Informal Talk
+伺い
+うかがい
+Inquiry
+即死
+そくし
+Instant Death
+柔道
+じゅうどう
+Judo
+琴
+こと
+Koto
+液晶
+えきしょう
+Liquid Crystal
+牧場
+ぼくじょう
+Livestock Farm
+要旨
+ようし
+Main Point
+沼田
+ぬまた
+Marshy Rice Field
+滋養
+じよう
+Nourishment
+炉心
+ろしん
+Nuclear Reactor Core
+牧師
+ぼくし
+Pastor
+牧草
+ぼくそう
+Pasture
+牧野
+ぼくや
+Pasture Land
+慰問
+いもん
+Paying A Sympathy Call
+安泰
+あんたい
+Peace
+筒
+つつ
+Pipe
+論旨
+ろんし
+Point Of An Argument
+印刷
+いんさつ
+Printing
+珍しい
+めずらしい
+Rare
+即日
+そくじつ
+Same Day
+封
+ふう
+Seal
+封書
+ふうしょ
+Sealed Letter
+一斉
+いっせい
+Simultaneous
+慰安
+いあん
+Solace
+分裂
+ぶんれつ
+Split
+沈滞
+ちんたい
+Stagnation
+石垣
+いしがき
+Stone Wall
+露店
+ろてん
+Street Stall
+相撲
+すもう
+Sumo Wrestling
+奇襲
+きしゅう
+Surprise Attack
+沼沢
+しょうたく
+Swamp
+潮流
+ちょうりゅう
+Tide
+潮
+しお
+Tide
+風潮
+ふうちょう
+Tide
+威張る
+いばる
+To Act Big
+襲う
+おそう
+To Attack
+揚がる
+あがる
+To Be Fried Up
+慰める
+なぐさめる
+To Console
+滅ぼす
+ほろぼす
+To Destroy
+群がる
+むらがる
+To Flock
+潜る
+もぐる
+To Go Under
+懲りる
+こりる
+To Learn By Experience
+刷る
+する
+To Print
+沈む
+しずむ
+To Sink
+裂く
+さく
+To Tear
+開封
+かいふう
+Unsealing
+珍〜
+ちん
+Unusual
+Level 44
+挑戦者
+ちょうせんしゃ
+A Challenger
+軒並み
+のきなみ
+Across The Board
+一翼
+いちよく
+A Part
+助力
+じょりょく
+Assistance
+寝床
+ねどこ
+Bed
+刃
+は
+Blade
+金髪
+きんぱつ
+Blonde
+両翼
+りょうよく
+Both Wings
+缶コーヒー
+かんこーひー
+Canned Coffee
+大砲
+たいほう
+Cannon
+携帯ストラップ
+けいたいすとらっぷ
+Cell Phone Strap
+選択肢
+せんたくし
+Choices
+紛らわしい
+まぎらわしい
+Confusing
+笠
+かさ
+Conical Hat
+管制塔
+かんせいとう
+Control Tower
+為替
+かわせ
+Currency Exchange
+揚げ
+あげ
+Deep Fried
+恐竜
+きょうりゅう
+Dinosaur
+竜
+りゅう
+Dragon
+縁
+ふち
+Edge
+刃物
+はもの
+Edged Tool
+刃先
+はさき
+Edge Of Blade
+エッフェル塔
+えっふぇるとう
+Eiffel Tower
+一斗缶
+いっとかん
+Eighteen Liter Container
+絶叫
+ぜっきょう
+Exclamation
+釣り
+つり
+Fishing
+狐
+きつね
+Fox
+手袋
+てぶくろ
+Gloves
+吉
+きち
+Good Omen
+粒
+つぶ
+Grain
+挨拶
+あいさつ
+Greeting
+握り
+にぎり
+Grip
+髪
+かみ
+Hair
+髪型
+かみがた
+Hairstyle
+髪の毛
+かみのけ
+Head Hair
+丘
+おか
+Hill
+斗
+と
+Ladle
+左翼
+さよく
+Left Wing
+縁談
+えんだん
+Marriage Proposal
+寸法
+すんぽう
+Measurement
+喪服
+もふく
+Mourning Dress
+謎
+なぞ
+Mystery
+忍者
+にんじゃ
+Ninja
+縁起
+えんぎ
+Omen
+不吉
+ふきつ
+Ominous
+寸前
+すんぜん
+On The Brink
+独創
+どくそう
+Original Creation
+泊まり
+とまり
+Overnight Stay
+粒子
+りゅうし
+Particle
+桃
+もも
+Peach
+桃色
+ももいろ
+Peach Color
+梨
+なし
+Pear
+哲学者
+てつがくしゃ
+Philosopher
+滑り台
+すべりだい
+Playground Slide
+娯楽
+ごらく
+Pleasure
+姫
+ひめ
+Princess
+姫様
+ひめさま
+Princess
+朱印
+しゅいん
+Red Seal
+謎々
+なぞなぞ
+Riddle
+右翼
+うよく
+Right Wing
+侍
+さむらい
+Samurai
+砂丘
+さきゅう
+Sand Dune
+網戸
+あみど
+Screen Door
+土砂
+どしゃ
+Sediment
+手堅い
+てがたい
+Solid
+芽
+め
+Sprout
+嵐
+あらし
+Storm
+荒波
+あらなみ
+Stormy Seas
+寸
+すん
+Sun
+感涙
+かんるい
+Tears Of Gratitude
+北斗七星
+ほくとしちせい
+The Big Dipper
+雷
+かみなり
+Thunder
+落雷
+らくらい
+Thunderbolt
+雷雨
+らいう
+Thunderstorm
+缶
+かん
+Tin Can
+紛れる
+まぎれる
+To Be Diverted
+揺れる
+ゆれる
+To Be Shaken
+裂ける
+さける
+To Be Split
+焦がす
+こがす
+To Burn
+克服する
+こくふくする
+To Conquer
+忍ぶ
+しのぶ
+To Endure
+取り逃がす
+とりにがす
+To Fail To Catch
+釣る
+つる
+To Fish
+荒らす
+あらす
+To Lay Waste
+見逃す
+みのがす
+To Overlook
+竜巻
+たつまき
+Tornado
+魚雷
+ぎょらい
+Torpedo
+叱る
+しかる
+To Scold
+揺する
+ゆする
+To Shake
+揺さぶる
+ゆさぶる
+To Shake
+叫ぶ
+さけぶ
+To Shout
+沈める
+しずめる
+To Sink Something
+塔
+とう
+Tower
+バベルの塔
+ばべるのとう
+Tower Of Babel
+無縁
+むえん
+Unrelated
+朱
+あけ
+Vermilion
+荒々しい
+あらあらしい
+Wild
+翼
+つばさ
+Wing
+Level 45
+廃絶
+はいぜつ
+Abolition
+いつ頃
+いつごろ
+About When
+警鐘
+けいしょう
+Alarm Bell
+年頃
+としごろ
+Approximate Age
+頃
+ころ
+Approximate Time
+凶悪
+きょうあく
+Atrocious
+細菌
+さいきん
+Bacteria
+悪趣味
+あくしゅみ
+Bad Habit
+鐘
+かね
+Bell
+賭け
+かけ
+Betting
+舟
+ふね
+Boat
+小舟
+こぶね
+Boat
+嫁
+よめ
+Bride
+電卓
+でんたく
+Calculator
+暦
+こよみ
+Calendar
+霊園
+れいえん
+Cemetery
+西暦
+せいれき
+Christian Era
+曇り
+くもり
+Cloudy Weather
+硬貨
+こうか
+Coin
+全裸
+ぜんら
+Completely Naked
+可也
+かなり
+Considerably
+塾
+じゅく
+Cram School
+塾生
+じゅくせい
+Cram School Student
+呪い
+のろい
+Curse
+凶器
+きょうき
+Dangerous Weapon
+食卓
+しょくたく
+Dining Table
+排水溝
+はいすいこう
+Drainage
+入籍
+にゅうせき
+Entry In Family Register
+悪霊
+あくりょう
+Evil Spirit
+ばい菌
+ばいきん
+Germ
+亡霊
+ぼうれい
+Ghost
+陰気
+いんき
+Gloom
+鳥肌
+とりはだ
+Goosebumps
+溝
+みぞ
+Gutter
+半裸
+はんら
+Half Naked
+肌
+はだ
+Human Skin
+加湿器
+かしつき
+Humidifier
+狩人
+かりゅうど
+Hunter
+狩り
+かり
+Hunting
+霊感
+れいかん
+Inspiration
+黒潮
+くろしお
+Japan Current
+近頃
+ちかごろ
+Lately
+脚
+あし
+Leg
+光年
+こうねん
+Light Year
+遠距離
+えんきょり
+Long Distance
+塊
+かたまり
+Lump
+旧暦
+きゅうれき
+Lunisolar Calendar
+狂気
+きょうき
+Madness
+献立
+こんだて
+Menu
+手頃
+てごろ
+Moderate
+湿気
+しっけ
+Moisture
+山岳
+さんがく
+Mountains
+裸
+はだか
+Naked
+核分裂
+かくぶんれつ
+Nuclear Fission
+海溝
+かいこう
+Ocean Trench
+若い頃
+わかいころ
+One's Youth
+小包
+こづつみ
+Package
+磨き
+みがき
+Polish
+義塾
+ぎじゅく
+Private School
+眺望
+ちょうぼう
+Prospect
+滝川
+たきがわ
+Rapids
+この頃
+このごろ
+Recently
+先頃
+さきごろ
+Recently
+元凶
+げんきょう
+Ringleader
+脚本
+きゃくほん
+Script
+陰
+かげ
+Shadow
+短距離
+たんきょり
+Short Distance
+近距離
+きんきょり
+Short Distance
+一斉に
+いっせいに
+Simultaneously
+肌色
+はだいろ
+Skin Color
+魂
+たましい
+Soul
+矛
+ほこ
+Spear
+〜魂
+こん
+Spirit
+殺菌
+さっきん
+Sterilization
+無菌
+むきん
+Sterilized
+硬い
+かたい
+Stiff
+硬直
+こうちょく
+Stiffness
+卓
+たく
+Table
+卓球
+たっきゅう
+Table Tennis
+肌触り
+はだざわり
+The Touch Of
+潮時
+しおどき
+Tidal Hour
+襲撃する
+しゅうげきする
+To Attack
+澄む
+すむ
+To Become Clear
+湿る
+しめる
+To Be Damp
+滅びる
+ほろびる
+To Be Destroyed
+焦る
+あせる
+To Be In A Hurry
+呪う
+のろう
+To Curse
+稼ぐ
+かせぐ
+To Earn Income
+翔る
+かける
+To Fly
+賭ける
+かける
+To Gamble
+曇る
+くもる
+To Get Cloudy
+狂う
+くるう
+To Go Mad
+泊める
+とめる
+To Let Someone Stay Over
+嫁ぐ
+とつぐ
+To Marry
+磨く
+みがく
+To Polish
+擦る
+する
+To Rub
+仕える
+つかえる
+To Serve
+眺める
+ながめる
+To Stare At
+引き裂く
+ひきさく
+To Tear Up
+苛む
+さいなむ
+To Torment
+滝
+たき
+Waterfall
+湿地
+しっち
+Wetlands
+包み紙
+つつみがみ
+Wrapping Paper
+Level 46
+瞬き
+まばたき
+A Blink
+気泡
+きほう
+Air Bubble
+錬金術
+れんきんじゅつ
+Alchemy
+一瞬
+いっしゅん
+An Instant
+瞬間
+しゅんかん
+An Instant
+歳入
+さいにゅう
+Annual Revenue
+癖
+くせ
+Bad Habit
+万歳
+ばんざい
+Banzai
+零下
+れいか
+Below Zero
+魔術
+まじゅつ
+Black Magic
+鈍器
+どんき
+Blunt Weapon
+寮生
+りょうせい
+Boarding Student
+書架
+しょか
+Bookshelf
+泡
+あわ
+Bubble
+平穏
+へいおん
+Calm
+穏やか
+おだやか
+Calm
+椅子
+いす
+Chair
+租界
+そかい
+Concession
+幽閉
+ゆうへい
+Confinement
+架設
+かせつ
+Construction
+涼風
+りょうふう
+Cool Breeze
+木綿
+もめん
+Cotton
+綿布
+めんぷ
+Cotton Cloth
+綿
+わた
+Cotton Plant
+揚げ出し
+あげだし
+Deep Fried
+魔
+ま
+Devil
+悪魔
+あくま
+Devil
+寮
+りょう
+Dormitory
+鈍い
+にぶい
+Dull
+素粒子
+そりゅうし
+Elementary Particle
+皇帝
+こうてい
+Emperor
+帝国
+ていこく
+Empire
+歳暮
+せいぼ
+End Of The Year
+誇張
+こちょう
+Exaggeration
+誇大
+こだい
+Exaggeration
+眼孔
+がんこう
+Eye Socket
+口癖
+くちぐせ
+Favorite Phrase
+水泡
+すいほう
+Foam
+発泡
+はっぽう
+Foaming
+幽霊
+ゆうれい
+Ghost
+囲碁
+いご
+Go
+碁
+ご
+Go
+碁盤
+ごばん
+Go Board
+碁会所
+ごかいしょ
+Go Parlor
+穂
+ほ
+Head Of Plant
+稲穂
+いなほ
+Head Of Rice
+病棟
+びょうとう
+Hospital Ward
+吾輩
+わがはい
+I
+黙殺
+もくさつ
+Ignoring
+焦り
+あせり
+Impatience
+帝政
+ていせい
+Imperial Government
+墨
+すみ
+Ink
+墨絵
+すみえ
+Ink Painting
+鈍感
+どんかん
+Insensitive
+帝
+みかど
+Japanese Emperor
+鍵
+かぎ
+Key
+斬殺
+ざんさつ
+Killing With A Sword
+魔法
+まほう
+Magic
+庄園
+しょうえん
+Manor
+零時
+れいじ
+Midnight
+瞬時
+しゅんじ
+Moment
+寸暇
+すんか
+Moment's Leisure
+猿
+さる
+Monkey
+猿真似
+さるまね
+Monkey See Monkey Do
+斬新
+ざんしん
+Novel Idea
+阻止
+そし
+Obstruction
+阻害
+そがい
+Obstruction
+お握り
+おにぎり
+Onigiri
+鳩
+はと
+Pigeon
+丁寧
+ていねい
+Polite
+穏当
+おんとう
+Proper
+瞳孔
+どうこう
+Pupil
+瞳
+ひとみ
+Pupil
+寧ろ
+むしろ
+Rather
+清涼
+せいりょう
+Refreshing
+土俵
+どひょう
+Ring
+俵
+たわら
+Sack
+叫び声
+さけびごえ
+Shout
+叫び
+さけび
+Shout
+沈黙
+ちんもく
+Silence
+新芽
+しんめ
+Sprout
+担架
+たんか
+Stretcher
+入れ墨
+いれずみ
+Tattoo
+租税
+そぜい
+Taxes
+鍛錬
+たんれん
+Tempering
+歳月
+さいげつ
+Time
+誇る
+ほこる
+To Be Proud Of
+瞬く
+またたく
+To Blink
+斬る
+きる
+To Cut Down
+鍛える
+きたえる
+To Forge
+揺らぐ
+ゆらぐ
+To Shake
+黙る
+だまる
+To Shut Up
+阻む
+はばむ
+To Thwart
+お盆
+おぼん
+Tray
+二十歳
+はたち
+Twenty Years Old
+紛れもない
+まぎれもない
+Unmistakable
+不穏
+ふおん
+Unrest
+白菊
+しらぎく
+White Chrysanthemum
+魔女
+まじょ
+Witch
+〜歳
+さい
+Years Old
+零
+れい
+Zero
+零点
+れいてん
+Zero Points
+Level 47
+粘着
+ねんちゃく
+Adhesion
+補佐
+ほさ
+Aid
+裸足
+はだし
+Barefoot
+胴体
+どうたい
+Body
+挿絵
+さしえ
+Book Illustration
+箸
+はし
+Chopsticks
+明瞭
+めいりょう
+Clarity
+粘土
+ねんど
+Clay
+崖
+がけ
+Cliff
+大佐
+たいさ
+Colonel
+川柳
+せんりゅう
+Comic Haiku
+炊事
+すいじ
+Cooking
+自炊
+じすい
+Cooking For Oneself
+芯
+しん
+Core
+〜畳
+じょう
+Counter For Tatami Mats
+布巾
+ふきん
+Dish Cloth
+門扉
+もんぴ
+Doors Of A Gate
+水滴
+すいてき
+Drop Of Water
+雑巾
+ぞうきん
+Dust Cloth
+稼ぎ
+かせぎ
+Earnings
+扇風機
+せんぷうき
+Electric Fan
+挿話
+そうわ
+Episode
+取り分け
+とりわけ
+Especially
+墜落
+ついらく
+Falling
+伊達
+だて
+Flamboyance
+霧
+きり
+Fog
+扇子
+せんす
+Folding Fan
+詐欺
+さぎ
+Fraud
+扉
+とびら
+Front Door
+お婆さん
+おばあさん
+Grandmother
+掌握
+しょうあく
+Grasping
+砂利
+じゃり
+Gravel
+煎茶
+せんちゃ
+Green Tea
+帽子
+ぼうし
+Hat
+心願
+しんがん
+Heartfelt Desire
+〜狩り
+がり
+Hunting
+挿入
+そうにゅう
+Insertion
+点滴
+てんてき
+Intravenous Drip
+伊勢
+いせ
+Ise
+塊魂
+かたまりだましい
+Katamari Damacy
+欠如
+けつじょ
+Lack
+中佐
+ちゅうさ
+Lieutenant Colonel
+唇
+くちびる
+Lips
+愛憎
+あいぞう
+Love And Hate
+下唇
+したくちびる
+Lower Lip
+少佐
+しょうさ
+Major
+化粧
+けしょう
+Makeup
+詐称
+さしょう
+Misrepresentation
+貨幣
+かへい
+Money
+朝霧
+あさぎり
+Morning Fog
+土塀
+どべい
+Mud Wall
+老婆
+ろうば
+Old Woman
+親父
+おやじ
+One's Father
+掌
+てのひら
+Palm Of One's Hand
+紙幣
+しへい
+Paper Money
+岳
+たけ
+Peak
+可哀想
+かわいそう
+Pitiful
+哀れ
+あわれ
+Pity
+矛先
+ほこさき
+Point Of Spear
+粉砕
+ふんさい
+Pulverization
+虹
+にじ
+Rainbow
+虹色
+にじいろ
+Rainbow Colored
+花柳
+かりゅう
+Red Light District
+爽やか
+さわやか
+Refreshing
+痛恨
+つうこん
+Regret
+休憩
+きゅうけい
+Rest
+炊飯器
+すいはんき
+Rice Cooker
+砕石
+さいせき
+Rubble
+煎餅
+せんべい
+Senbei
+尺
+しゃく
+Shaku
+撃墜
+げきつい
+Shooting Down
+悲哀
+ひあい
+Sorrow
+割り箸
+わりばし
+Splittable Chopsticks
+粘々
+ねばねば
+Stickiness
+突如
+とつじょ
+Suddenly
+詐取
+さしゅ
+Swindle
+巻尺
+まきじゃく
+Tape Measure
+畳
+たたみ
+Tatami Mat
+お陰で
+おかげで
+Thanks To
+黒い霧
+くろいきり
+Thick Fog
+擦れる
+すれる
+To Be Rubbed
+粘る
+ねばる
+To Be Sticky
+歯を磨く
+はをみがく
+To Brush One's Teeth
+彫る
+ほる
+To Carve Something
+欺く
+あざむく
+To Deceive
+滴る
+したたる
+To Drip
+扇ぐ
+あおぐ
+To Fan
+憎む
+にくむ
+To Hate
+恨む
+うらむ
+To Hold A Grudge
+澄ます
+すます
+To Make Something Clear
+湿らせる
+しめらせる
+To Moisten
+憩う
+いこう
+To Rest
+胴
+どう
+Torso
+零す
+こぼす
+To Spill Something
+車掌
+しゃしょう
+Train Conductor
+上唇
+うわくちびる
+Upper Lip
+眺め
+ながめ
+View
+塀
+へい
+Wall
+柳
+やなぎ
+Willow
+女権
+じょけん
+Women's Rights
+お嬢さん
+おじょうさん
+Young Lady
+Level 48
+遂行
+すいこう
+Accomplishment
+盆踊り
+ぼんおどり
+Ancestral Festival Dance
+癖に
+くせに
+And Yet
+麻酔
+ますい
+Anesthesia
+畜産
+ちくさん
+Animal Husbandry
+塗布
+とふ
+Application
+脇
+わき
+Armpit
+未遂
+みすい
+Attempt
+後ろ盾
+うしろだて
+Backing
+鉢
+はち
+Bowl
+火鉢
+ひばち
+Brazier
+光輝
+こうき
+Brightness
+迷彩
+めいさい
+Camouflage
+麻
+あさ
+Cannabis
+賢い
+かしこい
+Clever
+塗装
+とそう
+Coating
+色彩
+しきさい
+Color
+返り咲き
+かえりざき
+Comeback
+矛盾
+むじゅん
+Contradiction
+隙
+すき
+Crevice
+隙間
+すきま
+Crevice
+培養
+ばいよう
+Cultivation
+畜生
+ちくしょう
+Damn It
+踊り
+おどり
+Dance
+闇
+やみ
+Darkness
+暗闇
+くらやみ
+Darkness
+餓死
+がし
+Death From Starvation
+斜め
+ななめ
+Diagonal
+恥辱
+ちじょく
+Disgrace
+屈辱
+くつじょく
+Disgrace
+家畜
+かちく
+Domestic Animals
+耐久性
+たいきゅうせい
+Durability
+土俵際
+どひょうぎわ
+Edge Of A Sumo Ring
+尽力
+じんりょく
+Efforts
+電灯
+でんとう
+Electric Light
+備蓄
+びちく
+Emergency Stores
+忍耐
+にんたい
+Endurance
+耐火
+たいか
+Fireproof
+紛れ
+まぐれ
+Fluke
+霜
+しも
+Frost
+憶測
+おくそく
+Guess
+収穫
+しゅうかく
+Harvest
+鉢巻
+はちまき
+Headband
+耐熱
+たいねつ
+Heat Resisting
+殴打
+おうだ
+Hit
+帝国主義
+ていこくしゅぎ
+Imperialism
+斜体
+しゃたい
+Italics
+騎手
+きしゅ
+Jockey
+騎士
+きし
+Knight
+灯り
+あかり
+Lamp
+踊り場
+おどりば
+Landing
+遅咲き
+おそざき
+Late Flower
+溶岩
+ようがん
+Lava
+脇見
+わきみ
+Looking Away
+輝度
+きど
+Luminance
+大麻
+たいま
+Marijuana
+メモ帳
+めもちょう
+Memo Book
+記憶
+きおく
+Memory
+蚊
+か
+Mosquito
+蚊帳
+かや
+Mosquito Net
+手帳
+てちょう
+Notebook
+油彩
+ゆさい
+Oil Painting
+塗料
+とりょう
+Paint
+迅速
+じんそく
+Quick
+記帳
+きちょう
+Registry
+後悔
+こうかい
+Regret
+悔しい
+くやしい
+Regrettable
+賢人
+けんじん
+Sage
+貯蓄
+ちょちく
+Savings
+盾
+たて
+Shield
+斜面
+しゃめん
+Slant
+蛇
+へび
+Snake
+班
+はん
+Squad
+班長
+はんちょう
+Squad Leader
+ホッチキス
+ホッチキス
+Stapler
+飢餓
+きが
+Starvation
+街灯
+がいとう
+Streetlight
+脇役
+わきやく
+Supporting Actor
+電話帳
+でんわちょう
+Telephone Book
+無闇に
+むやみに
+Thoughtlessly
+脅迫
+きょうはく
+Threat
+蓄える
+たくわえる
+To Amass
+尽きる
+つきる
+To Be Used Up
+咲く
+さく
+To Bloom
+彩る
+いろどる
+To Color Something
+炊く
+たく
+To Cook
+培う
+つちかう
+To Cultivate
+踊る
+おどる
+To Dance
+耐える
+たえる
+To Endure
+零れる
+こぼれる
+To Get Spilled
+辱める
+はずかしめる
+To Humiliate
+溶かす
+とかす
+To Melt Something
+塗る
+ぬる
+To Paint
+貼る
+はる
+To Paste
+殴る
+なぐる
+To Punch
+輝く
+かがやく
+To Shine
+砕く
+くだく
+To Smash
+飢える
+うえる
+To Starve
+理不尽
+りふじん
+Unreasonable
+水彩画
+すいさいが
+Watercolor Painting
+水溶性
+すいようせい
+Water Soluble
+車椅子
+くるまいす
+Wheelchair
+賢明
+けんめい
+Wise
+魔法使い
+まほうつかい
+Wizard
+Level 49
+抽象
+ちゅうしょう
+Abstraction
+概算
+がいさん
+Approximation
+准教授
+じゅんきょうじゅ
+Associate Professor
+煮物
+にもの
+Boiled Foods
+仏壇
+ぶつだん
+Buddhist Altar
+珠算
+しゅざん
+Calculation With Abacus
+転覆
+てんぷく
+Capsizing
+陶芸
+とうげい
+Ceramic Art
+駒
+こま
+Chess Piece
+俗語
+ぞくご
+Colloquialism
+征服
+せいふく
+Conquest
+陰謀
+いんぼう
+Conspiracy
+鶴
+つる
+Crane
+皇太子妃
+こうたいしひ
+Crown Princess
+貨幣価値
+かへいかち
+Currency Value
+衰退
+すいたい
+Decline
+拘置
+こうち
+Detention
+劣化
+れっか
+Deterioration
+不明瞭
+ふめいりょう
+Dimness
+侵食
+しんしょく
+Erosion
+隔月
+かくげつ
+Every Other Month
+隔週
+かくしゅう
+Every Other Week
+遠征
+えんせい
+Expedition
+抽出
+ちゅうしゅつ
+Extraction
+淡い
+あわい
+Faint
+団扇
+うちわ
+Fan
+花壇
+かだん
+Flower Bed
+扇
+おうぎ
+Folding Fan
+民俗
+みんぞく
+Folk Customs
+礎
+いしずえ
+Foundation
+基礎
+きそ
+Foundation
+淡水
+たんすい
+Fresh Water
+概念
+がいねん
+General Idea
+お婆ちゃん
+おばあちゃん
+Granny
+恨み
+うらみ
+Grudge
+憎い
+にくい
+Hateful
+憎らしい
+にくらしい
+Hateful
+憎しみ
+にくしみ
+Hatred
+劣悪
+れつあく
+Inferiority
+劣等感
+れっとうかん
+Inferiority Complex
+大概
+たいがい
+In General
+勘
+かん
+Intuition
+隔離
+かくり
+Isolation
+抽選
+ちゅうせん
+Lottery
+覆面
+ふくめん
+Mask
+唯物論
+ゆいぶつろん
+Materialism
+覚悟
+かくご
+Mental Readiness
+勘違い
+かんちがい
+Misunderstanding
+草刈り
+くさかり
+Mowing
+桑
+くわ
+Mulberry
+桑畑
+くわばたけ
+Mulberry Field
+雑煮
+ぞうに
+New Year's Dish
+尼僧
+にそう
+Nun
+尼
+あま
+Nun
+唯一
+ゆいつ
+Only
+概要
+がいよう
+Outline
+恐慌
+きょうこう
+Panic
+勘弁
+かんべん
+Pardon
+真珠
+しんじゅ
+Pearl
+浸透
+しんとう
+Permeation
+壇
+だん
+Podium
+陶器
+とうき
+Pottery
+〜妃
+ひ
+Princess
+利潤
+りじゅん
+Profit
+王妃
+おうひ
+Queen
+無謀
+むぼう
+Reckless
+開拓
+かいたく
+Reclamation
+推奨
+すいしょう
+Recommendation
+花柳界
+かりゅうかい
+Red Light District
+憩い
+いこい
+Rest
+休憩所
+きゅうけいじょ
+Rest Area
+数珠
+じゅず
+Rosary
+奨学金
+しょうがくきん
+Scholarship
+老衰
+ろうすい
+Senility
+俗
+ぞく
+Slang
+唯
+ただ
+Solely
+間隔
+かんかく
+Space
+割り勘
+わりかん
+Splitting The Cost
+粘り
+ねばり
+Stickiness
+気概
+きがい
+Strong Spirit
+浸水
+しんすい
+Submersion
+詐欺師
+さぎし
+Swindler
+勘案
+かんあん
+Taking Into Consideration
+炊ける
+たける
+To Be Cooked
+劣る
+おとる
+To Be Inferior To
+潤う
+うるおう
+To Be Moist
+覆る
+くつがえる
+To Be Overturned
+砕ける
+くだける
+To Be Smashed
+浸る
+ひたる
+To Be Soaked In
+煮る
+にる
+To Boil Something
+謀る
+はかる
+To Conspire
+衰える
+おとろえる
+To Decline
+挿入する
+そうにゅうする
+To Insert
+隔てる
+へだてる
+To Isolate
+一蹴する
+いっしゅうする
+To Kick
+蹴る
+ける
+To Kick
+刈り取る
+かりとる
+To Mow
+慌てる
+あわてる
+To Panic
+哀れむ
+あわれむ
+To Pity
+刈る
+かる
+To Prune
+悟る
+さとる
+To Realize
+紫外線
+しがいせん
+Ultraviolet Rays
+一概に
+いちがいに
+Unconditionally
+価
+あたい
+Value
+剛健
+ごうけん
+Vigor
+誓い
+ちかい
+Vow
+誓約
+せいやく
+Vow
+陛下
+へいか
+Your Majesty
+Level 50
+唐突
+とうとつ
+Abrupt
+帳簿
+ちょうぼ
+Account Book
+巧い
+うまい
+Adept
+鰐
+わに
+Alligator
+古墳
+こふん
+Ancient Tomb
+伯母
+おば
+Aunt
+銘柄
+めいがら
+Brand
+偶然
+ぐうぜん
+By Chance
+搬出
+はんしゅつ
+Carry Out
+騎兵
+きへい
+Cavalry
+洞穴
+どうけつ
+Cave
+洞
+ほら
+Cave
+翻意
+ほんい
+Change One's Mind
+伯
+はく
+Chief
+巧妙
+こうみょう
+Clever
+風邪
+かぜ
+Cold
+彩り
+いろどり
+Coloring
+漫才
+まんざい
+Comic Dialogue
+訂正
+ていせい
+Correction
+〜把
+わ
+Counter For Bundles
+法廷
+ほうてい
+Court
+蟹
+かに
+Crab
+堰
+せき
+Dam
+感銘
+かんめい
+Deep Impression
+悪賢い
+わるがしこい
+Devious
+漂流
+ひょうりゅう
+Drifting
+漂着
+ひょうちゃく
+Drifting Ashore
+銘々
+めいめい
+Each
+堤防
+ていぼう
+Embankment
+堤
+つつみ
+Embankment
+興奮
+こうふん
+Excitement
+殴り合い
+なぐりあい
+Fistfight
+無駄
+むだ
+Futility
+下駄
+げた
+Geta
+鬱陶しい
+うっとうしい
+Gloomy
+鬱気
+うっき
+Gloomy Mood
+把握
+はあく
+Grasp
+墳墓
+ふんぼ
+Grave
+麻布
+あさぬの
+Hemp Cloth
+邪魔
+じゃま
+Hindrance
+空洞
+くうどう
+Hollow
+飢え
+うえ
+Hunger
+免疫
+めんえき
+Immunity
+宮廷
+きゅうてい
+Imperial Court
+疫病
+えきびょう
+Infectious Disease
+無邪気
+むじゃき
+Innocence
+皇后
+こうごう
+Japanese Empress
+壮大
+そうだい
+Magnificent
+漫画
+まんが
+Manga
+連峰
+れんぽう
+Mountain Range
+桑原
+くわばら
+Mulberry Field
+駄目
+だめ
+Not Good
+偶に
+たまに
+Occasionally
+生涯
+しょうがい
+One's Lifetime
+軌道
+きどう
+Orbit
+仰々しい
+ぎょうぎょうしい
+Pompous
+壮年
+そうねん
+Prime Of Life
+表彰
+ひょうしょう
+Public Acknowledgement
+公告
+こうこく
+Public Notice
+検疫
+けんえき
+Quarantine
+諮問
+しもん
+Question
+輝き
+かがやき
+Radiance
+殴り込み
+なぐりこみ
+Raid
+名簿
+めいぼ
+Register Of Names
+信仰
+しんこう
+Religious Faith
+〜亭
+てい
+Restaurant
+改訂版
+かいていばん
+Revised Edition
+律動
+りつどう
+Rhythm
+騎馬
+きば
+Riding A Horse
+壮行
+そうこう
+Send Off
+配偶者
+はいぐうしゃ
+Spouse
+奮起
+ふんき
+Stirring
+峰
+みね
+Summit
+仰天
+ぎょうてん
+Taken Aback
+遂げる
+とげる
+To Accomplish
+煮える
+にえる
+To Be Boiled
+翻る
+ひるがえる
+To Billow
+灯る
+ともる
+To Burn
+諮る
+はかる
+To Consult With
+漂う
+ただよう
+To Drift
+尽くす
+つくす
+To Exhaust Something
+仰ぐ
+あおぐ
+To Look Up At
+溶ける
+とける
+To Melt
+悔やむ
+くやむ
+To Regret
+貯える
+たくわえる
+To Save
+脅す
+おどす
+To Threaten
+軌跡
+きせき
+Track
+翻訳
+ほんやく
+Translation
+運搬
+うんぱん
+Transport
+搬送
+はんそう
+Transportation
+伯父
+おじ
+Uncle
+邪
+よこしま
+Wicked
+淀川
+よどがわ
+Yodogawa
+慈愛
+じあい
+Affection
+又
+また
+Again
+耕地
+こうち
+Arable Land
+喚起
+かんき
+Awaken
+浦
+うら
+Bay
+血族
+けつぞく
+Blood Relative
+沸点
+ふってん
+Boiling Point
+瓶
+びん
+Bottle
+瓶詰
+びんづめ
+Bottling
+勘定
+かんじょう
+Calculation
+慈善
+じぜん
+Charity
+貞節
+ていせつ
+Chastity
+貞操
+ていそう
+Chastity
+襟
+えり
+Collar
+慈悲
+じひ
+Compassion
+隅
+すみ
+Corner
+片隅
+かたすみ
+Corner
+耕作
+こうさく
+Cultivation
+乾燥
+かんそう
+Dehydration
+洗濯粉
+せんたくこ
+Detergent
+郡
+ぐん
+District
+洗濯屋
+せんたくや
+Dry Cleaners
+枯渇
+こかつ
+Drying Up
+愛媛県
+えひめけん
+Ehime Prefecture
+空き瓶
+あきびん
+Empty Bottle
+従業
+じゅうぎょう
+Engaging In Work
+釈明
+しゃくめい
+Explanation
+解釈
+かいしゃく
+Explanation
+農耕
+のうこう
+Farming
+脂肪
+しぼう
+Fat
+蛇口
+じゃぐち
+Faucet
+柔軟
+じゅうなん
+Flexible
+四隅
+よすみ
+Four Corners
+偉い
+えらい
+Great
+偉大
+いだい
+Greatness
+偉人
+いじん
+Great Person
+邸内
+ていない
+Grounds
+軟禁
+なんきん
+House Arrest
+慌ただしい
+あわただしい
+Hurried
+焦燥
+しょうそう
+Impatience
+内因
+ないいん
+Internal Cause
+法規
+ほうき
+Laws
+蓮花
+れんげ
+Lotus Flower
+邸宅
+ていたく
+Mansion
+潤い
+うるおい
+Moisture
+火炎瓶
+かえんびん
+Molotov Cocktail
+塚
+つか
+Mound
+会釈
+えしゃく
+Nod
+隅々
+すみずみ
+Nooks
+注釈
+ちゅうしゃく
+Notes
+公邸
+こうてい
+Official Residence
+官邸
+かんてい
+Official Residence
+請願
+せいがん
+Petition
+肯定
+こうてい
+Positive
+薬方
+やくほう
+Prescription
+私邸
+してい
+Private Residence
+残余
+ざんよ
+Remainder
+樹脂
+じゅし
+Resin
+律動的
+りつどうてき
+Rhythmical
+亮平
+りょうへい
+Ryohei
+蓮
+はす
+Sacred Lotus
+苗
+なえ
+Seedling
+〜隻
+せき
+Ship Counter
+皮膚
+ひふ
+Skin
+聡い
+さとい
+Smart
+郊外
+こうがい
+Suburb
+近郊
+きんこう
+Suburbs
+山頂
+さんちょう
+Summit
+召喚
+しょうかん
+Summon
+苗字
+みょうじ
+Surname
+世界恐慌
+せかいきょうこう
+The Great Depression
+脅し
+おどし
+Threat
+沸く
+わく
+To Boil
+召す
+めす
+To Call
+覆う
+おおう
+To Cover
+頂く
+いただく
+To Humbly Receive
+挟む
+はさむ
+To Put Between
+煎る
+いる
+To Roast
+喚く
+わめく
+To Shout
+浸す
+ひたす
+To Soak
+耕す
+たがやす
+To Till
+洗濯する
+せんたくする
+To Wash
+枯れる
+かれる
+To Wither
+不貞
+ふてい
+Unfaithful
+花瓶
+かびん
+Vase
+渦中
+かちゅう
+Vortex
+洗濯機
+せんたくき
+Washing Machine
+渦
+うず
+Whirlpool
+聡明
+そうめい
+Wise
+Level 52
+殊勝
+しゅしょう
+Admirable
+不倫
+ふりん
+Adultery
+没後
+ぼつご
+After Death
+覇気
+はき
+Ambition
+出没
+しゅつぼつ
+Appearing Frequently
+綾乃
+あやの
+Ayano
+擁立
+ようりつ
+Backing
+お風呂
+おふろ
+Bath
+封鎖
+ふうさ
+Blockade
+綾取り
+あやとり
+Cat's Cradle
+陥没
+かんぼつ
+Cave In
+鎖
+くさり
+Chain
+連鎖
+れんさ
+Chain
+慢性
+まんせい
+Chronic
+陳腐
+ちんぷ
+Cliched
+閉鎖
+へいさ
+Closing
+冷遇
+れいぐう
+Cold Reception
+制覇
+せいは
+Conquest
+恒常
+こうじょう
+Constancy
+大輔
+だいすけ
+Daisuke
+欠陥
+けっかん
+Defect
+遭難
+そうなん
+Disaster
+没
+ぼつ
+Discard
+抱擁
+ほうよう
+Embrace
+遭遇
+そうぐう
+Encounter
+我慢
+がまん
+Endurance
+境遇
+きょうぐう
+Environment
+噴火
+ふんか
+Eruption
+恒例
+こうれい
+Established Practice
+倫理
+りんり
+Ethics
+陳列
+ちんれつ
+Exhibition
+膨張
+ぼうちょう
+Expansion
+隼
+はやぶさ
+Falcon
+陥落
+かんらく
+Fall
+没収
+ぼっしゅう
+Forfeiture
+覇権
+はけん
+Hegemony
+膨大
+ぼうだい
+Huge
+猟師
+りょうし
+Hunter
+猟
+りょう
+Hunting
+狩猟
+しゅりょう
+Hunting
+猟犬
+りょうけん
+Hunting Dog
+没頭
+ぼっとう
+Immersing Oneself
+埋没
+まいぼつ
+Implantation
+必須
+ひっす
+Indispensable
+惰性
+だせい
+Inertia
+孤独
+こどく
+Isolation
+孤立
+こりつ
+Isolation
+噴射
+ふんしゃ
+Jet
+戦没
+せんぼつ
+Killed In Action
+怠惰
+たいだ
+Laziness
+偏狭
+へんきょう
+Narrow Minded
+鎖国
+さこく
+National Isolation
+怠慢
+たいまん
+Negligence
+一貫
+いっかん
+One Piece Of Sushi
+秩序
+ちつじょ
+Order
+発祥
+はっしょう
+Origin
+孤児
+こじ
+Orphan
+芳香
+ほうこう
+Perfume
+恒久
+こうきゅう
+Permanent
+貫徹
+かんてつ
+Persistence
+陳情
+ちんじょう
+Petition
+貫通
+かんつう
+Pierce
+密猟
+みつりょう
+Poaching
+優遇
+ゆうぐう
+Preferential Treatment
+偏見
+へんけん
+Prejudice
+自慢
+じまん
+Pride
+擁護
+ようご
+Protection
+食糧
+しょくりょう
+Provisions
+颯と
+さっと
+Quickly
+賠償
+ばいしょう
+Reparations
+蘇生
+そせい
+Resuscitation
+没落
+ぼつらく
+Ruin
+突貫
+とっかん
+Rush
+不祥事
+ふしょうじ
+Scandal
+紫蘇
+しそ
+Shiso
+沈没
+ちんぼつ
+Sinking
+緩慢
+かんまん
+Slow
+孤島
+ことう
+Solitary Island
+特殊
+とくしゅ
+Special
+噴出
+ふんしゅつ
+Spewing
+恒星
+こうせい
+Star
+陳述
+ちんじゅつ
+Statement
+示唆
+しさ
+Suggestion
+日没
+にちぼつ
+Sunset
+覇者
+はしゃ
+Supreme Ruler
+〜貫
+かん
+Sushi Counter
+芳しい
+かんばしい
+Sweet
+茨
+いばら
+Thorn
+偏る
+かたよる
+To Be Biased
+怠る
+おこたる
+To Be Negligent
+陥る
+おちいる
+To Cave In
+貫く
+つらぬく
+To Go Through
+擁する
+ようする
+To Have
+遭う
+あう
+To Meet
+膨れる
+ふくれる
+To Swell
+待遇
+たいぐう
+Treatment
+処遇
+しょぐう
+Treatment
+偏食
+へんしょく
+Unbalanced Diet
+犠牲
+ぎせい
+Victim
+噴煙
+ふんえん
+Volcanic Smoke
+鰐蟹
+わにかに
+Wani Kani
+噴水
+ふんすい
+Water Fountain
+連覇
+れんぱ
+Winning Streak
+Level 53
+虐待
+ぎゃくたい
+Abuse
+稿料
+こうりょう
+Advance For Manuscript
+披露
+ひろう
+Announcement
+随時
+ずいじ
+At Any Time
+虐殺
+ぎゃくさつ
+Atrocity
+真鯉
+まごい
+Black Carp
+搭乗
+とうじょう
+Boarding
+競艇
+きょうてい
+Boat Race
+沸騰
+ふっとう
+Boiling
+同胞
+どうほう
+Brethren
+錦
+にしき
+Brocade
+搭載
+とうさい
+Built In
+鯉
+こい
+Carp
+細胞
+さいぼう
+Cell
+浄水
+じょうすい
+Clean Water
+襟元
+えりもと
+Collar
+錦鯉
+にしきごい
+Colored Carp
+総帥
+そうすい
+Commander
+残虐
+ざんぎゃく
+Cruelty
+惨敗
+ざんぱい
+Crushing Failure
+胡瓜
+きゅうり
+Cucumber
+曙
+あけぼの
+Dawn
+枯れ木
+かれき
+Dead Tree
+繊細
+せんさい
+Delicate
+皮膚科
+ひふか
+Dermatology
+経緯
+けいい
+Details
+丹念
+たんねん
+Diligent
+惨事
+さんじ
+Disaster
+悲惨
+ひさん
+Disastrous
+惨状
+さんじょう
+Disastrous Scene
+啓蒙
+けいもう
+Enlightenment
+啓発
+けいはつ
+Enlightenment
+随筆
+ずいひつ
+Essays
+随所
+ずいしょ
+Everywhere
+過剰
+かじょう
+Excess
+玄人
+くろうと
+Expert
+駿馬
+しゅんめ
+Fast Horse
+脂身
+あぶらみ
+Fat Meat
+繊維
+せんい
+Fiber
+追随
+ついずい
+Follow
+元帥
+げんすい
+General Of The Army
+徐行
+じょこう
+Going Slowly
+徐々
+じょじょ
+Gradually
+本舗
+ほんぽ
+Head Office
+葵
+あおい
+Hollyhock
+頂戴
+ちょうだい
+Humbly Receiving
+緯度
+いど
+Latitude
+蓮根
+れんこん
+Lotus Root
+原稿
+げんこう
+Manuscript
+瓜
+うり
+Melon
+艦艇
+かんてい
+Military Vessel
+惨め
+みじめ
+Miserable
+蒙古
+もうこ
+Mongolia
+北緯
+ほくい
+Northern Latitude
+草稿
+そうこう
+Notes
+苗床
+なえどこ
+Nursery
+緯線
+いせん
+Parallel
+舗装
+ほそう
+Pavement
+清浄
+せいじょう
+Pure
+浄土
+じょうど
+Pure Land
+浄化
+じょうか
+Purification
+平壌
+へいじょう
+Pyongyang
+批准
+ひじゅん
+Ratification
+緋鯉
+ひごい
+Red Carp
+余剰
+よじょう
+Redundant
+啓示
+けいじ
+Revelation
+莉子
+りこ
+Riko
+諒一郎
+りょういちろう
+Ryoichiro
+襟巻き
+えりまき
+Scarf
+苗木
+なえぎ
+Seedling
+自浄
+じじょう
+Self Purification
+舗
+ほ
+Shop
+店舗
+てんぽ
+Shop
+胡座
+あぐら
+Sitting Cross Legged
+皮膚病
+ひふびょう
+Skin Disease
+土壌
+どじょう
+Soil
+南緯
+なんい
+Southern Latitude
+胞子
+ほうし
+Spore
+投稿
+とうこう
+Submission
+高騰
+こうとう
+Sudden Price Jump
+暴騰
+ぼうとう
+Sudden Rise
+急騰
+きゅうとう
+Sudden Rise
+頂
+いただき
+Summit
+統帥
+とうすい
+Supreme Command
+剰余金
+じょうよきん
+Surplus
+合繊
+ごうせん
+Synthetic Fiber
+化繊
+かせん
+Synthetic Fibers
+教諭
+きょうゆ
+Teacher
+諭す
+さとす
+To Admonish
+沸かす
+わかす
+To Boil
+召し上がる
+めしあがる
+To Eat
+挟まる
+はさまる
+To Get Between
+据える
+すえる
+To Install
+寛大
+かんだい
+Tolerance
+寛容
+かんよう
+Tolerance
+枯らす
+からす
+To Let Dry
+肯く
+うなずく
+To Nod
+虐げる
+しいたげる
+To Oppress
+寛ぐ
+くつろぐ
+To Relax
+暴虐
+ぼうぎゃく
+Tyranny
+不浄
+ふじょう
+Uncleanliness
+随分
+ずいぶん
+Very
+洗浄
+せんじょう
+Washing
+西瓜
+すいか
+Watermelon
+渦巻き
+うずまき
+Whirlpool
+丹誠
+たんせい
+Working Earnestly
+Level 54
+顕在
+けんざい
+Actual
+逸話
+いつわ
+Anecdote
+杏
+あんず
+Apricot
+兵糧
+ひょうろう
+Army Provisions
+自叙伝
+じじょでん
+Autobiography
+哺乳瓶
+ほにゅうびん
+Baby Bottle
+風呂場
+ふろば
+Bathroom
+偏り
+かたより
+Bias
+空欄
+くうらん
+Blank Space
+盆栽
+ぼんさい
+Bonsai
+栞
+しおり
+Bookmark
+和尚
+おしょう
+Buddhist High Priest
+欄
+らん
+Column
+叙勲
+じょくん
+Conferring Of Decorations
+紋章
+もんしょう
+Crest
+冠
+かんむり
+Crown
+王冠
+おうかん
+Crown
+酷い
+ひどい
+Cruel
+冷酷
+れいこく
+Cruel
+残酷
+ざんこく
+Cruelty
+栽培
+さいばい
+Cultivation
+勲章
+くんしょう
+Decoration
+痴呆
+ちほう
+Dementia
+過疎
+かそ
+Depopulation
+逸脱
+いつだつ
+Deviation
+露顕
+ろけん
+Discovery
+疾患
+しっかん
+Disease
+無秩序
+むちつじょ
+Disorder
+叙事詩
+じょじし
+Epic Poem
+殊に
+ことに
+Especially
+必須条件
+ひっすじょうけん
+Essential Condition
+疎外
+そがい
+Estrangement
+疎遠
+そえん
+Estrangement
+悠久
+ゆうきゅう
+Eternity
+倫理的
+りんりてき
+Ethical
+倫理学
+りんりがく
+Ethics
+疎開
+そかい
+Evacuation
+秀逸
+しゅういつ
+Excellence
+応酬
+おうしゅう
+Exchange
+酷使
+こくし
+Exploitation
+露呈
+ろてい
+Exposure
+紋
+もん
+Family Crest
+指紋
+しもん
+Fingerprint
+民謡
+みんよう
+Folk Song
+阿呆
+あほ
+Fool
+愚
+ぐ
+Foolish
+尚
+なお
+Furthermore
+疾風
+しっぷう
+Gale
+逸品
+いっぴん
+Gem
+庶務
+しょむ
+General Affairs
+銀杏
+いちょう
+Ginkgo
+叙述
+じょじゅつ
+Giving An Account
+厳粛
+げんしゅく
+Gravity
+痴漢
+ちかん
+Groper
+欄干
+らんかん
+Guardrail
+酷
+こく
+Harsh
+高尚
+こうしょう
+High
+別荘
+べっそう
+Holiday House
+顕彰
+けんしょう
+Honoring
+茨城県
+いばらきけん
+Ibaraki Prefecture
+愚痴
+ぐち
+Idle Complaint
+疾病
+しっぺい
+Illness
+酷暑
+こくしょ
+Intense Heat
+誘拐
+ゆうかい
+Kidnapping
+悠長
+ゆうちょう
+Leisurely
+叙情
+じょじょう
+Lyricism
+茜色
+あかねいろ
+Madder Red
+欄外
+らんがい
+Margin
+庶民
+しょみん
+Masses
+殊勲
+しゅくん
+Meritorious Deeds
+新陳代謝
+しんちんたいしゃ
+Metabolism
+最優遇
+さいゆうぐう
+Most Favorable Treatment
+山荘
+さんそう
+Mountain Retreat
+疎通
+そつう
+Mutual Understanding
+童謡
+どうよう
+Nursery Rhyme
+哺育
+ほいく
+Nursing
+孤児院
+こじいん
+Orphanage
+極楽
+ごくらく
+Paradise
+実践
+じっせん
+Practice
+時期尚早
+じきしょうそう
+Premature
+進呈
+しんてい
+Presentation
+贈呈
+ぞうてい
+Presentation
+傲慢
+ごうまん
+Pride
+風呂屋
+ふろや
+Public Bathhouse
+悠々
+ゆうゆう
+Quiet
+顕著
+けんちょ
+Remarkable
+賠償金
+ばいしょうきん
+Reparations
+酷似
+こくじ
+Resemblance
+報酬
+ほうしゅう
+Reward
+波紋
+はもん
+Ripple
+自粛
+じしゅく
+Self Control
+酷評
+こくひょう
+Severe Criticism
+過酷
+かこく
+Severity
+陳列室
+ちんれつしつ
+Showroom
+鎌
+かま
+Sickle
+静粛
+せいしゅく
+Silent
+荘厳
+そうごん
+Solemnity
+歌謡
+かよう
+Song
+疎ら
+まばら
+Sparse
+疾走
+しっそう
+Sprint
+茎
+くき
+Stem
+噴き出す
+ふきだす
+To Burst Out
+膨らむ
+ふくらむ
+To Expand
+呆ける
+ぼける
+To Grow Senile
+音痴
+おんち
+Tone Deafness
+怠ける
+なまける
+To Neglect
+卸す
+おろす
+To Sell Wholesale
+貫き通す
+つらぬきとおす
+To Stick To
+逸らす
+そらす
+To Turn Away
+空疎
+くうそ
+Vain
+犠牲者
+ぎせいしゃ
+Victim
+鯨
+くじら
+Whale
+鯨肉
+げいにく
+Whale Meat
+捕鯨
+ほげい
+Whaling
+卸売
+おろしうり
+Wholesale
+卸
+おろし
+Wholesale
+卸値
+おろしね
+Wholesale Price
+Level 55
+累積
+るいせき
+Accumulation
+癒着
+ゆちゃく
+Adhesion
+一抹
+いちまつ
+A Little
+伏兵
+ふくへい
+Ambush
+憂慮
+ゆうりょ
+Anxiety
+奉仕
+ほうし
+Attendance
+信奉
+しんぽう
+Belief
+骨髄
+こつずい
+Bone Marrow
+栓抜き
+せんぬき
+Bottle Opener
+虜
+とりこ
+Captive
+循環
+じゅんかん
+Circulation
+粗悪
+そあく
+Coarse
+粗い
+あらい
+Coarse
+潜伏
+せんぷく
+Conceal
+哀悼
+あいとう
+Condolence
+栓
+せん
+Cork
+該当
+がいとう
+Correspond
+累計
+るいけい
+Cumulative Total
+奉納
+ほうのう
+Dedication
+憂鬱
+ゆううつ
+Depression
+洗浄剤
+せんじょうざい
+Detergent
+瑛斗
+えいと
+Eito
+抹消
+まっしょう
+Erase
+真髄
+しんずい
+Essence
+神髄
+しんずい
+Essence
+悪因悪果
+あくいんあっか
+Evil Breeds Evil
+佳作
+かさく
+Fine Work
+伏線
+ふくせん
+Foreshadowing
+唐揚げ
+からあげ
+Fried Chicken
+来賓
+らいひん
+Guest
+賓客
+ひんきゃく
+Guest Of Honor
+治癒
+ちゆ
+Healing
+不等
+ふとう
+Inequality
+重鎮
+じゅうちん
+Leader
+傍観
+ぼうかん
+Look On
+惜敗
+せきはい
+Loss Of A Close Game
+旦那
+だんな
+Master
+抹茶
+まっちゃ
+Matcha
+傍受
+ぼうじゅ
+Monitoring
+追悼
+ついとう
+Mourning
+赴任
+ふにん
+Move For A Different Job
+傍
+そば
+Near
+元旦
+がんたん
+New Year's Day
+貴賓
+きひん
+Noble Visitor
+抹殺
+まっさつ
+Obliteration
+勿論
+もちろん
+Of Course
+老舗
+しにせ
+Old Shop
+一旦
+いったん
+Once
+輪郭
+りんかく
+Outline
+瓜実顔
+うりざねがお
+Oval Face
+鎮痛剤
+ちんつうざい
+Painkiller
+憂国
+ゆうこく
+Patriotic Concern
+愉快
+ゆかい
+Pleasant
+捕虜
+ほりょ
+Prisoner Of War
+繁昌
+はんじょう
+Prosperity
+南瓜
+かぼちゃ
+Pumpkin
+遺憾
+いかん
+Regrettable
+鎮魂
+ちんこん
+Repose Of Souls
+粗野
+そや
+Rustic
+遼太
+りょうた
+Ryota
+奉公
+ほうこう
+Service
+素朴
+そぼく
+Simple
+凝固
+ぎょうこ
+Solidify
+脊髄
+せきずい
+Spinal Cord
+凝視
+ぎょうし
+Stare
+国賓
+こくひん
+State Guest
+継父
+けいふ
+Stepfather
+累進
+るいしん
+Successive Promotion
+鎮圧
+ちんあつ
+Suppression
+降伏
+こうふく
+Surrender
+之
+これ
+This
+鎮める
+しずめる
+To Appease
+憂える
+うれえる
+To Be Anxious
+惜しむ
+おしむ
+To Be Frugal
+凝る
+こる
+To Be Passionate About
+栃木県
+とちぎけん
+Tochigi Prefecture
+伏せる
+ふせる
+To Cover
+据え付ける
+すえつける
+To Install
+起伏
+きふく
+Undulation
+尿
+にょう
+Urine
+躍如
+やくじょ
+Vividly Depicted
+山葵
+わさび
+Wasabi
+披露宴
+ひろうえん
+Wedding Reception
+弥生
+やよい
+Yayoi Period
+Level 56
+尚更
+なおさら
+All The More
+尚且つ
+なおかつ
+And Yet
+拍手
+はくしゅ
+Applause
+匠
+たくみ
+Artisan
+嘉日
+かじつ
+Auspicious Day
+呉越同舟
+ごえつどうしゅう
+Bitter Enemies In The Same Boat
+弦
+つる
+Bowstring
+蝶々
+ちょうちょう
+Butterfly
+蝶
+ちょう
+Butterfly
+大尉
+たいい
+Captain
+摂氏
+せっし
+Centigrade
+平凡
+へいぼん
+Common
+錯乱
+さくらん
+Confusion
+〜拍
+はく
+Counter For Beats
+満悦
+まんえつ
+Delight
+意匠
+いしょう
+Design
+窮地
+きゅうち
+Dilemma
+直轄
+ちょっかつ
+Direct Control
+窮状
+きゅうじょう
+Distress
+摂理
+せつり
+Divine Providence
+呉服
+ごふく
+Draperies
+弊害
+へいがい
+Evil Effect
+疲弊
+ひへい
+Exhaustion
+搾取
+さくしゅ
+Exploitation
+猶予
+ゆうよ
+Extension
+遥か
+はるか
+Far Away
+柴
+しば
+Firewood
+中尉
+ちゅうい
+First Lieutenant
+洪水
+こうずい
+Flood
+愚か
+おろか
+Foolish
+凛々しい
+りりしい
+Gallant
+紳士
+しんし
+Gentleman
+穀物
+こくもつ
+Grain
+穀類
+こくるい
+Grains
+墓碑
+ぼひ
+Gravestone
+丘陵
+きゅうりょう
+Hill
+錯覚
+さっかく
+Illusion
+舶来
+はくらい
+Imported
+碑文
+ひぶん
+Inscription
+摂取
+せっしゅ
+Intake
+管轄
+かんかつ
+Jurisdiction
+所轄
+しょかつ
+Jurisdiction
+怠け者
+なまけもの
+Lazy Person
+寂しい
+さびしい
+Lonely
+師匠
+ししょう
+Master
+巨匠
+きょしょう
+Master
+凡庸
+ぼんよう
+Mediocre
+搾乳
+さくにゅう
+Milking
+錯誤
+さくご
+Mistake
+交錯
+こうさく
+Mixture
+記念碑
+きねんひ
+Monument
+那智の滝
+なちのたき
+Nachi Falls
+疎か
+おろそか
+Neglect
+窒素
+ちっそ
+Nitrogen
+方向音痴
+ほうこうおんち
+No Sense Of Direction
+庶民的
+しょみんてき
+Ordinary
+凡人
+ぼんじん
+Ordinary Person
+弊社
+へいしゃ
+Our Company
+倒錯
+とうさく
+Perversion
+歌謡曲
+かようきょく
+Popular Song
+困窮
+こんきゅう
+Poverty
+窮乏
+きゅうぼう
+Poverty
+宰相
+さいしょう
+Prime Minister
+非凡
+ひぼん
+Prodigy
+脈拍
+みゃくはく
+Pulse
+恭しい
+うやうやしい
+Respectful
+束縛
+そくばく
+Restraint
+米穀
+べいこく
+Rice
+飽食
+ほうしょく
+Satiation
+飽和
+ほうわ
+Saturation
+少尉
+しょうい
+Second Lieutenant
+裁縫
+さいほう
+Sewing
+縫製
+ほうせい
+Sewing
+柴犬
+しばいぬ
+Shiba Inu
+船舶
+せんぱく
+Ship
+静寂
+せいじゃく
+Silence
+怠い
+だるい
+Sluggish
+石碑
+せきひ
+Stone Monument
+弦楽
+げんがく
+String Music
+窒息
+ちっそく
+Suffocation
+主宰
+しゅさい
+Supervision
+窮屈
+きゅうくつ
+Tight
+呆れる
+あきれる
+To Be Amazed
+飽きる
+あきる
+To Get Tired Of
+縫う
+ぬう
+To Sew
+搾る
+しぼる
+To Squeeze
+逸れる
+それる
+To Stray
+縛る
+しばる
+To Tie
+智
+ち
+Wisdom
+無報酬
+むほうしゅう
+Without Pay
+靖国神社
+やすくにじんじゃ
+Yasukuni Shrine
+Level 57
+甲乙
+こうおつ
+A And B
+堕胎
+だたい
+Abortion
+年俸
+ねんぽう
+Annual Salary
+盲腸
+もうちょう
+Appendix
+平衡
+へいこう
+Balance
+山賊
+さんぞく
+Bandit
+浴槽
+よくそう
+Bathtub
+鼓動
+こどう
+Beat
+恐喝
+きょうかつ
+Blackmail
+盲目
+もうもく
+Blindness
+盲人
+もうじん
+Blind Person
+盲点
+もうてん
+Blind Spot
+敢然
+かんぜん
+Boldly
+勇敢
+ゆうかん
+Brave
+醸成
+じょうせい
+Brew
+醸造
+じょうぞう
+Brewing
+閲覧
+えつらん
+Browsing
+検閲
+けんえつ
+Censor
+海峡
+かいきょう
+Channel
+循環器
+じゅんかんき
+Circulatory Organ
+熊之実
+くまのみ
+Clownfish
+色盲
+しきもう
+Color Blindness
+羅針盤
+らしんばん
+Compass
+受胎
+じゅたい
+Conception
+弔意
+ちょうい
+Condolence
+角膜
+かくまく
+Cornea
+堕落
+だらく
+Corruption
+網羅
+もうら
+Covering
+烏
+からす
+Crow
+敢えて
+あえて
+Dare To
+濃紺
+のうこん
+Dark Navy Blue
+敢行
+かんこう
+Decisive Action
+太鼓
+たいこ
+Drum
+鼓膜
+こまく
+Eardrum
+胎児
+たいじ
+Embryo
+羅列
+られつ
+Enumeration
+酵素
+こうそ
+Enzyme
+均衡
+きんこう
+Equilibrium
+遍歴
+へんれき
+Experiences 
+発酵
+はっこう
+Fermentation
+敢闘
+かんとう
+Fight Bravely
+水槽
+すいそう
+Fish Tank
+萌芽
+ほうが
+Germination
+憂い
+うれい
+Grief
+鼓
+つづみ
+Hand Drum
+何遍
+なんべん
+How Many Times
+鼓舞
+こぶ
+Inspiration
+腸
+ちょう
+Intestines
+遮断
+しゃだん
+Isolation
+大腸
+だいちょう
+Large Intestine
+凸版
+とっぱん
+Letterpress
+血脈
+けつみゃく
+Lineage
+伐採
+ばっさい
+Lumbering
+奉行
+ぶぎょう
+Magistrate
+楓
+かえで
+Maple
+楓糖
+ふうとう
+Maple Sugar
+旋律
+せんりつ
+Melody
+膜
+まく
+Membrane
+弔辞
+ちょうじ
+Memorial Address
+紺
+こん
+Navy Blue
+一遍
+いっぺん
+Once
+烏龍茶
+うーろんちゃ
+Oolong Tea
+蒼白
+そうはく
+Pallid
+海賊
+かいぞく
+Pirate
+胎盤
+たいばん
+Placenta
+峡谷
+きょうこく
+Ravine
+迎賓館
+げいひんかん
+Reception Hall
+惜しい
+おしい
+Regrettable
+果敢
+かかん
+Resolute
+網膜
+もうまく
+Retina
+校閲
+こうえつ
+Revision
+旋回
+せんかい
+Revolution
+減俸
+げんぽう
+Salary Reduction
+粗塩
+あらじお
+Sea Salt
+乙
+おつ
+Second
+烏賊
+いか
+Squid
+胃腸
+いちょう
+Stomach
+拓哉
+たくや
+Takuya
+盗賊
+とうぞく
+Thief
+醸す
+かもす
+To Brew
+癒す
+いやす
+To Heal Something
+遮る
+さえぎる
+To Interrupt
+弔う
+とむらう
+To Mourn For
+鎮まる
+しずまる
+To Quiet Down
+間伐
+かんばつ
+Tree Thinning
+坪
+つぼ
+Tsubo
+凹凸
+おうとつ
+Uneven
+普遍
+ふへん
+Universal
+不愉快
+ふゆかい
+Unpleasant
+不文律
+ふぶんりつ
+Unwritten Law
+悪循環
+あくじゅんかん
+Vicious Cycle
+傍ら
+かたわら
+While
+旋風
+せんぷう
+Whirlwind
+酵母
+こうぼ
+Yeast
+Level 58
+扶助
+ふじょ
+Aid
+恩赦
+おんしゃ
+Amnesty
+憤慨
+ふんがい
+Anger
+解剖
+かいぼう
+Autopsy
+拍子
+ひょうし
+Beat
+瑠璃色
+るりいろ
+Bright Blue
+触媒
+しょくばい
+Catalyst
+鶏
+にわとり
+Chicken
+鶏卵
+けいらん
+Chicken Egg
+養鶏
+ようけい
+Chicken Farming
+鶏肉
+とりにく
+Chicken Meat
+年譜
+ねんぷ
+Chronological Record
+暁
+あかつき
+Dawn
+老朽
+ろうきゅう
+Decrepit
+戯曲
+ぎきょく
+Drama
+呆気
+あっけ
+Dumbfounded
+地殻
+ちかく
+Earth's Crust
+享受
+きょうじゅ
+Enjoyment
+晩酌
+ばんしゃく
+Evening Drink
+藩主
+はんしゅ
+Feudal Lord
+藩
+はん
+Fiefdom
+瑞々しい
+みずみずしい
+Fresh
+遊戯
+ゆうぎ
+Game
+棋譜
+きふ
+Game Records
+系譜
+けいふ
+Genealogy
+紳士協定
+しんしきょうてい
+Gentlemen's Agreement
+淑やか
+しとやか
+Graceful
+手錠
+てじょう
+Handcuffs
+縛り首
+しばりくび
+Hanging
+豪傑
+ごうけつ
+Hero
+呆け
+ぼけ
+Idiot
+不朽
+ふきゅう
+Immortal
+媒介
+ばいかい
+Intermediary
+浄瑠璃
+じょうるり
+Joruri
+陪審
+ばいしん
+Jury
+淑女
+しゅくじょ
+Lady
+錠
+じょう
+Lock
+酌量
+しゃくりょう
+Making Allowances
+傑作
+けっさく
+Masterpiece
+媒体
+ばいたい
+Media
+濁流
+だくりゅう
+Muddy Stream
+楽譜
+がくふ
+Musical Score
+辛勝
+しんしょう
+Narrow Victory
+管弦楽
+かんげんがく
+Orchestral Music
+赦免
+しゃめん
+Pardon
+容赦
+ようしゃ
+Pardon
+嘱託
+しょくたく
+Part Time Employee
+錠剤
+じょうざい
+Pill
+汚濁
+おだく
+Pollution
+肖像
+しょうぞう
+Portrait
+酌
+しゃく
+Pouring Alcohol
+憤り
+いきどおり
+Resentment
+更迭
+こうてつ
+Reshuffle
+諦観
+ていかん
+Resignation
+奔走
+ほんそう
+Running About
+帆
+ほ
+Sail
+帆走
+はんそう
+Sailing
+縫目
+ぬいめ
+Seam
+譜面
+ふめん
+Sheet Music
+殻
+から
+Shell
+絹糸
+けんし
+Silk Thread
+金縛り
+かなしばり
+Sleep Paralysis
+脊椎
+せきつい
+Spine
+弦楽器
+げんがっき
+Stringed Instrument
+感慨
+かんがい
+Strong Feelings
+菅原
+すがはら
+Sugahara
+硫酸
+りゅうさん
+Sulfuric Acid
+扶養
+ふよう
+Support
+執行猶予
+しっこうゆうよ
+Suspended Sentence
+起訴猶予
+きそゆうよ
+Suspension Of Indictment
+窃盗
+せっとう
+Theft
+呆れ返る
+あきれかえる
+To Be Utterly Amazed
+朽ちる
+くちる
+To Decay
+凌ぐ
+しのぐ
+To Endure
+濁す
+にごす
+To Make Muddy
+酌む
+くむ
+To Serve
+飽くまでも
+あくまでも
+To The Last
+戯れる
+たわむれる
+To Toy With
+勿体ない
+もったいない
+Wasteful
+飽き
+あき
+Weariness
+奔放
+ほんぽう
+Wild
+Level 59
+環礁
+かんしょう
+Atoll
+一遍に
+いっぺんに
+At Once
+慶事
+けいじ
+Auspicious Event
+梓川
+あずさがわ
+Azusa River
+弁慶
+べんけい
+Benkei
+憂き目
+うきめ
+Bitterness
+大胆
+だいたん
+Bold
+岬
+みさき
+Cape
+鋳造
+ちゅうぞう
+Casting
+変遷
+へんせん
+Change
+慶祝
+けいしゅく
+Congratulation
+慶弔
+けいちょう
+Congratulations And Condolences
+危篤
+きとく
+Critical Condition
+遮断機
+しゃだんき
+Crossing Gate
+酪農
+らくのう
+Dairy Farming
+回忌
+かいき
+Death Anniversary
+詠嘆
+えいたん
+Deep Feeling
+左遷
+させん
+Demotion
+閑散
+かんさん
+Deserted
+落胆
+らくたん
+Discouragement
+擬装
+ぎそう
+Disguise
+東亜
+とうあ
+East Asia
+大腸菌
+だいちょうきん
+E. Coli
+雌
+めす
+Female
+雌花
+めばな
+Female Flower
+一周忌
+いっしゅうき
+First Anniversary Of Death
+取り敢えず
+とりあえず
+For The Time Being
+親睦
+しんぼく
+Friendship
+胆石
+たんせき
+Gallstones
+胆
+たん
+Guts
+不均衡
+ふきんこう
+Imbalance
+模擬
+もぎ
+Imitation
+甚大
+じんだい
+Immense
+侮辱
+ぶじょく
+Insult
+漆黒
+しっこく
+Jet Black
+漆
+うるし
+Lacquer
+漆器
+しっき
+Lacquerware
+法曹
+ほうそう
+Lawyer
+崇高
+すうこう
+Loftiness
+婚姻
+こんいん
+Marriage
+卑劣
+ひれつ
+Mean
+峠
+とうげ
+Mountain Pass
+忌
+き
+Mourning
+遷都
+せんと
+Move The Capital
+ご無沙汰
+ごぶさた
+Neglecting To Contact
+魂胆
+こんたん
+Plot
+詠歌
+えいか
+Poem
+閑静
+かんせい
+Quiet
+岩礁
+がんしょう
+Reef
+暗礁
+あんしょう
+Reef
+早乙女
+さおとめ
+Rice Planting Girl
+浪人
+ろうにん
+Ronin
+禍根
+かこん
+Root Of Evil
+沙羅
+さら
+Sara
+軽蔑
+けいべつ
+Scorn
+侮蔑
+ぶべつ
+Scorn
+吟味
+ぎんみ
+Scrutiny
+紡績
+ぼうせき
+Spinning
+紡織
+ぼうしょく
+Spinning And Weaving
+萌え
+もえ
+Sprouting
+駐屯
+ちゅうとん
+Stationed
+卑屈
+ひくつ
+Subservient
+禁忌
+きんき
+Taboo
+詠む
+よむ
+To Compose
+侮る
+あなどる
+To Despise
+堪える
+こらえる
+To Endure
+凹む
+へこむ
+To Get Dented
+蔑む
+さげすむ
+To Scorn
+紡ぐ
+つむぐ
+To Spin
+凸凹
+でこぼこ
+Uneven
+普遍的
+ふへんてき
+Universal
+忌まわしい
+いまわしい
+Unpleasant
+稚拙
+ちせつ
+Unskillful
+流浪
+るろう
+Vagrancy
+浮浪者
+ふろうしゃ
+Vagrant
+甚だ
+はなはだ
+Very
+放浪
+ほうろう
+Wandering
+戦禍
+せんか
+War Damages
+浪費
+ろうひ
+Waste
+惜しまない
+おしまない
+Without Sparing
+崇拝
+すうはい
+Worship
+Level 60
+某国
+ぼうこく
+A Certain Country
+某氏
+ぼうし
+A Certain Person
+某所
+ぼうしょ
+A Certain Place
+約款
+やっかん
+Agreement
+解剖学
+かいぼうがく
+Anatomy
+匿名
+とくめい
+Anonymity
+定款
+ていかん
+Articles Of Incorporation
+蛮行
+ばんこう
+Barbarism
+花婿
+はなむこ
+Bridegroom
+煩忙
+はんぼう
+Busy
+某〜
+ぼう
+Certain
+吸い殻
+すいがら
+Cigarette Butt
+煩雑
+はんざつ
+Complex
+矯正
+きょうせい
+Correction
+逝去
+せいきょ
+Death
+感慨無量
+かんがいむりょう
+Deep Emotion
+感慨深い
+かんがいぶかい
+Deeply Moving
+妄想
+もうそう
+Delusion
+下痢
+げり
+Diarrhea
+殉職
+じゅんしょく
+Die At One's Post
+罷免
+ひめん
+Dismissal
+赤痢
+せきり
+Dysentery
+申し申し
+もうしもうし
+Excuse Me
+漸く
+ようやく
+Finally
+升
+ます
+Grid
+謹賀新年
+きんがしんねん
+Happy New Year
+首班
+しゅはん
+Head
+隠匿
+いんとく
+Hide
+婿
+むこ
+Husband
+弾劾
+だんがい
+Impeachment
+藍
+あい
+Indigo
+湖畔
+こはん
+Lake Shore
+領袖
+りょうしゅう
+Leader
+長唄
+ながうた
+Long Shamisen Song
+廉価
+れんか
+Low Price
+帆柱
+ほばしら
+Mast
+渓流
+けいりゅう
+Mountain Stream
+煩い
+うるさい
+Noisy
+管弦楽団
+かんげんがくだん
+Orchestra
+桟橋
+さんばし
+Pier
+戯れ
+たわむれ
+Play Flirt
+冥王星
+めいおうせい
+Pluto
+冥土
+めいど
+Realm Of The Dead
+容赦なく
+ようしゃなく
+Relentlessly
+帆船
+はんせん
+Sailboat
+野蛮
+やばん
+Savage
+醜聞
+しゅうぶん
+Scandal
+海藻
+かいそう
+Seaweed
+藻
+も
+Seaweed
+分泌
+ぶんぴつ
+Secretion
+醜態
+しゅうたい
+Shameful Sight
+寡黙
+かもく
+Silent
+某
+なにがし
+Someone Or Other
+唄
+うた
+Song
+娘婿
+むすめむこ
+Son In Law
+南蛮
+なんばん
+Southern Barbarians
+升目
+ますめ
+Square
+硫黄
+いおう
+Sulfur
+悪戯
+いたずら
+Tease
+倹約
+けんやく
+Thrift
+慕う
+したう
+To Adore
+濁る
+にごる
+To Become Muddy
+詠う
+うたう
+To Compose
+酌み交わす
+くみかわす
+To Drink Together
+拷問
+ごうもん
+Torture
+唄う
+うたう
+To Sing
+坑道
+こうどう
+Tunnel
+醜い
+みにくい
+Ugly
+醜悪
+しゅうあく
+Ugly
+冥界
+めいかい
+Underworld
+泌尿器
+ひにょうき
+Urinary Organs
+渓谷
+けいこく
+Valley
+寡婦
+かふ
+Widow
+思慕
+しぼ
+Yearning
